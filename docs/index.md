@@ -3,7 +3,8 @@ title: "📚 Movie Directors"
 date: 20 March 2023
 date-meta: 20 March 2023
 ---
-![Alt Text] https://compote.slate.com/images/e0d344a9-dcfb-45f9-b31f-67ab5aaade24.jpeg?crop=1200%2C800%2Cx0%2Cy0&width=1440
+![Alt Text](https://compote.slate.com/images/e0d344a9-dcfb-45f9-b31f-67ab5aaade24.jpeg)
+
 # 🤖 Project Title
 
 *Team members:* 

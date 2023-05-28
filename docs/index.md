@@ -1,8 +1,8 @@
 ---
-
+# 🤖 Movie Rating Site Analysis
 ---
 
-# 🤖 Movie Source Analysis
+
 ![Alt Text](https://compote.slate.com/images/e0d344a9-dcfb-45f9-b31f-67ab5aaade24.jpeg)
 
 

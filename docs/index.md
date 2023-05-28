@@ -1,5 +1,5 @@
 ---
-# 🤖 Movie Rating Site Analysis
+# 🎥 Movie Rating Site Analysis
 ---
 
 

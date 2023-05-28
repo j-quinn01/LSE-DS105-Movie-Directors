@@ -3,7 +3,7 @@ title: "📚 Movie Directors"
 date: 20 March 2023
 date-meta: 20 March 2023
 ---
-
+![Alt Text](https://cdn.vox-cdn.com/thumbor/hwuPPteRGZ_f3ZliMdnsATjLUyU=/0x0:1500x823/1820x1213/filters:focal(626x147:866x387):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/53887707/lifeaquaticmain.0.jpg)
 # 🤖 Project Title
 
 *Team members:* 

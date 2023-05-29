@@ -110,7 +110,7 @@ There seems to be movies from greater variety of directors in RT. The frequency 
 
 
 
-### In conclusion, data from user ratings suggest no preference for a certain genre across sources. However, data from represenation of top movies seems to indicate a potential preference for Documentary genres within RT. However, as we would soon find out in section 2, this isn't the case!
+## In conclusion, data from user ratings suggest no preference for a certain genre across sources. However, data from represenation of top movies seems to indicate a potential preference for Documentary genres within RT. However, as we would soon find out in section 2, this isn't the case!
 
         
 ---
@@ -218,7 +218,7 @@ There seems to be movies from greater variety of directors in RT. The frequency 
 - **Instead, it seems like the number of voters are the major reason!**
 - **It seems that it is _**number of voters**_ &  _**absolute revenue**_ that explains the trend we see in composite user rating and overall composite score**
 
-### **To summarise, while it seems that there is no preference (or conflicting evidence) as to whether there are preferences between genres within or between sources, our data seems to suggest movies with a higher absolute revenue are over-represented in IMDb and TMDB relative to Rotten Tomatoes! Hence, this supports the idea that IMDb and TMDB are more popular sites than Rotten Tomatoes! If IMDb and TMDB are more popular, those sites would get more voters for popular movies. Indeed, this is what we see!**
+## **To summarise, while it seems that there is no preference (or conflicting evidence) as to whether there are preferences between genres within or between sources, our data seems to suggest movies with a higher absolute revenue are over-represented in IMDb and TMDB relative to Rotten Tomatoes! Hence, this supports the idea that IMDb and TMDB are more popular sites than Rotten Tomatoes! If IMDb and TMDB are more popular, those sites would get more voters for popular movies. Indeed, this is what we see!**
 
 <br>
       
@@ -245,7 +245,7 @@ There seems to be movies from greater variety of directors in RT. The frequency 
 
 - The graph clearly shows that there is a significant over-representation of RT movies in pre-modern times and under-representation in modern times
 
-### **Perhaps, this points to the fact that IMDb and TMDB are more popular in recent times compared to RT!**
+## **Perhaps, this points to the fact that IMDb and TMDB are more popular in recent times compared to RT!**
 
 ---
 

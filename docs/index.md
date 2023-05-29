@@ -310,12 +310,12 @@ There seems to be movies from greater variety of directors in RT. The frequency 
 <details>
     <summary><h2>🖋️ Conclusion</h2></summary>
 
-- In conclusion, we think there is no strong evidence that there is a preference for a genere within or across genres
+- In conclusion, we think there is no strong evidence that there is a preference for a genere within or across sources
 - Examining the graph of absolute user ratings over genres over 3 sources, we see that there is no significant pattern of preference for a single genre (as variations are relatively small) & across sources (no pattern across sources)
 - We also plotted a graph showing representation of movies by genre from an essentially random sample (we collected data using a similar approach for all 3 - collecting data from top movies as indicated by the source itself)
 - While it seems like RT users might have a preference for that Documentary movies, as they are over-represented, the data from absolute user scores and later composite user and composite overall scores suggest otherwise
 
-#### This points to the fact that there is no preference for genres within or across genres
+#### This points to the fact that there is no preference for genres within or across sources
 
 - However, our data shows support for the hypothesis that IMDb and TMDB are more popular compared to RT
 - This is because of three reasons

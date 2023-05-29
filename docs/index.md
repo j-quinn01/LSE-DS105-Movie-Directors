@@ -29,6 +29,7 @@ Data was then compiled in a dataframe. The variables used included: (user) ratin
 
 Rating values were converted into a percentage and votes was converted from a flat number to brackets (since Rotten Tomatoes doesn't have a flat number for the number of users voted), to make the data consistent, so all 3 sites can be easily compared and the dataframes can be concatenated.
 
+![Alt text](merged_df.png)
 ![Alt text](../../Screenshot%202023-05-28%20at%2018.59.30.png)
 
 ## 📈 Analysis

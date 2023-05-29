@@ -29,6 +29,21 @@ To make our analysis more advanced and critical, we designed a composite score f
 
 Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 
+### Rotten Tomatoes (RT)
+
+For Rotten Tomatoes, our approach was to leverage data from a Wikipedia article featuring films with 100% ratings. We initially gathered a larger pool of 424 films and later refined it to our target 250, keeping in mind that these ratings did not equate to 100% user ratings.
+
+To facilitate data analysis and maintain consistency with the other data sources, we had to perform several data cleaning steps. This included the standardization of revenue and movie runtimes, and the transformation of the number of votes into brackets.
+
+We also developed a composite score for each movie, which was calculated considering both user ratings and revenue. Additionally, we tried to score directors based on the average composite scores of their movies and their number of films in the list. However, after feedback, we decided to focus more on comparing sources than analyzing individual directors.
+
+Data was then compiled in a dataframe with key features including the rating, director, revenue, users voted, the data source and the year. All features were adjusted to match the format and data types used by our teammates for IMDb and TMDB data, ensuring a seamless concatenation process.
+
+##### Data Collection Challenges
+
+The most significant challenge we encountered with Rotten Tomatoes data was ensuring homogeneity and comparability with other sources. This is because RT has a large international presense, so it was especially tricky when dealing with different currencies in revenue and trying to remove non-US flims.
+
+
 ### TMDB
 
 For TMDB, first the API was used to get the top 250 movies and their IDs. The ID was used to get all the key information of an individual film (e.g., revenue, director) in a json requests format. As numerous films in TMDB had missing revenue values, IMDb was used to fill in the missing values where possible (TMDB API also gave the IMDb ID of each film). Most films had multiple genres and some with multiple directors, so the genres and directors for those films were stored in a list. When we wanted to separate the data by genre or director, we used the pandas df.explode() function to do so.

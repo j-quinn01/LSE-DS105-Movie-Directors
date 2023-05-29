@@ -50,7 +50,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 ![Alt text](t10_directors_each_source.png)
 
 
-### <span style = "color:yellow">**Section I**: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</span>
+## <span style = "color:yellow">**Section I**: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</span>
 
 - In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
 
@@ -87,7 +87,10 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 
 
-## <span style = "color:red"> In conclusion, data from user ratings suggest no preference for genres. However, data from represenation of top movies seems to indicate a potential preference for Documentary genres. However, as we would soon find out in section 2, this isn't the case! </span>
+### <span style = "color:red"> In conclusion, data from user ratings suggest no preference for genres across genres. However, data from represenation of top movies seems to indicate a potential preference for Documentary genres within RT. However, as we would soon find out in section 2, this isn't the case! </span>
+
+---
+
 
 ## <span style = "color:yellow">**Section II**: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release - to see if users prefer a certain genre within each source and between each source</span>
 
@@ -108,17 +111,28 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 <br>
 -- We then plot a graph of average overall_composite_movie_score over genre with 3 bar graphs for each data source
 
+![Alt text](section_II_absolute_composite_score.png)
+
 - We again find no clear pattern of composite scores within genres
- Even the Documentary genre for RT isn't higher than the rest despite over-representation shown earlier
+- Even the Documentary genre for RT isn't higher than the rest despite over-representation shown earlier
 - This points to other factors causing over-representation besides the hypothesis that RT users like Documentaries
-- <span style = "color:red">This gives evidence to refute our initial findings in section 1, that there might be a slight preference for Documentary genres within Rotten Tomatoes sources! </span>
-- <span style = "color:red">However, we find crucual data that RT has the lowest average overall score across all genres (data above graph) followed by TMDB and IMDB.</span>
+- **This gives evidence to refute our initial findings in section 1, that there might be a slight preference for Documentary genres within Rotten Tomatoes sources!**
+- However, we find crucual data (indicated in the graph or a more condensed one below) that RT has the lowest average overall score across all genres (data above graph) followed by TMDB and IMDB.
+
+![Alt text](section_II_average_composite_score_mean.png)
 
 <br>
 
 
 -- We then tried to find out which of the 4 components contributed to this trend by sketching appropriate graphs
 - By plotting a graph of average revenue_score over genre with 3 bar graphs for each data source amoung other things, we can see, RT is the lowest, followed by TMDB and IMDB. This matches the earlier pattern, so revenue explains it!
+
+![Alt_text](section_II_composite_revenue_graph.png)
+(Graph helps to explain as there are similar "peaks" and trough as compared to the total composite score graph)
+
+![Alt text](section_II_composite_revenue_graph_mean.png)
+(This mean table gives a sompler version of analysis to prove what we're saying below)
+
 - Since revenue composite score is made up of revenue at time of release (Absolute revenue) and year of release we did further analysis via graphs to see which factor exactly contribues to this trend
 - From the data we can see, the years are clearly not a factor. The order is reversed and differences minimal
 
@@ -126,7 +140,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 
 
--- We next examined user composite score and see the sme pattern of (RT -> TMDB -> IMDb) for user composite score
+-- We next examined user composite score and see the same pattern of (RT -> TMDB -> IMDb) for user composite score
 - However, data/graph seems to only partially confirm this as only some patterns are explained but not others in the graph
 <br>
 

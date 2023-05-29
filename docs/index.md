@@ -51,14 +51,15 @@ The analysis is done by concatenating the dataframes for all sources, and using 
 
 ![Alt text](ggplot_code.png)
 
-## 🖼️ Results
+<details>
+    <summary><h2>🖼️ Results</h2></summary>
 
 Evidence of biases between directors for TMDB and IMDB. The frequency of directors in Rotten Tomatoes does not exceed 3, whilst directors have appeared up to 7 times in TMDB and IMDB.
 
 ![Alt text](t10_directors_each_source.png)
 
-
-## <span style = "color:yellow">**Section I**: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</span>
+    <details>
+        <summary><h3>**Section I**: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h3></summary>
 
 - In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
 
@@ -151,6 +152,8 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 - Since revenue composite score is made up of revenue at time of release (Absolute revenue) and year of release we did further analysis via graphs to see which factor exactly contribues to this trend
 
+    </details>
+        
 ![Alt_text](section_II_years_graph.png)
 
 - From the data, (above) we can see that the years are clearly not a factor. The order is reversed and differences minimal
@@ -217,7 +220,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 - The graph clearly shows that there is a significant over-representation of RT movies in pre-modern times and under-representation in modern times
 - Given that the sample of movies across 3 sources were essentially chosen randomly, **perhaps, this points to the fact that IMDb and TMDB are more popular in recent times compared to RT!**
 
-
+</details>
 
 <details>
     <summary><h2>🖋️ Conclusion</h2></summary>

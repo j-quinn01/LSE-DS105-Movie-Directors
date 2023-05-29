@@ -1,5 +1,5 @@
 ---
-# 🎥 Movie Rating Site Analysis
+# 🎥 Differences in Movie Rating Sites
 ---
 
 

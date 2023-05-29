@@ -11,7 +11,7 @@
 
 - [Jackson Quinn]()
 - [Shuja Ali]()
-- [Jia Jiangan]()
+- [Jia-Jian Gan]()
 
 ## 📝 Project Description
 
@@ -219,11 +219,14 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 
 
-## 🖋️ Conclusions
+<details>
+    
+   
+    <summary>## 🖋️ Conclusions</summary>
 
 - In conclusion, we think there is no strong evidence that there is a preference for a genere within or across genres
 - Examining the graph of absolute user ratings over genres over 3 sources, we see that there is no significant pattern of preference for a single genre (as variations are relatively small) & across sources (no pattern across sources)
-- We also plotted a graph showing representation of movies by genre from a essentially random sample
+- We also plotted a graph showing representation of movies by genre from an essentially random sample (we collected data using a similar approach for all 3 - collecting data from top movies as indicated by the source itself)
 - While it seems like RT users might have a preference for that Documentary movies, as they are over-represented, the data from absolute user scores and later composite user and composite overall scores suggest otherwise
 
 #### This points to the fact that there is no preference for genres within or across genres
@@ -234,8 +237,10 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
     - IMDb and TMDB have, on average, more voters than RT even as their average absolute user rating is about the same (evidence 2)
     - IMDb and TMDB represent a significantly greater proportion of modern flims compared to RT (evidence 3)
 
-### - All this evidence suggests that IMDb and TMDB are more popular sites in modern times than RT. With a greater popularity, more viewers vote (evidence 2), and more viewers review higher grossing flims (evidence 3) than lower ones as higher ones are more popular leading to a higher absolute gap, in the context of the modern era (evidence 3). 
+### - All this evidence suggests that IMDb and TMDB are more popular sites in modern times than RT. With a greater popularity, more viewers vote (evidence 2).  Moreover, as movies with higher revenues are ones that attract more customers, more popular sites will have more traffic to those movies, leading to them being over-represented as top movies in IMDb and TMDB (evidence 1). The relative popularity of IMDb and TMDB also seems to be validated especially in the modern era, as traffic for modern movies for RT is lower compared to IMDb and TMDB, leading to IMDb and TMDB representing a greater % of higher performing flims compared to RT (evidence 3). 
 
+    </details>
+    
 ## 📚 References
 
 Wikipedia: "List of films with a 100% rating on Rotten Tomatoes" https://en.wikipedia.org/wiki/List_of_films_with_a_100%25_rating_on_Rotten_Tomatoes

@@ -238,8 +238,10 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 ### All this evidence suggests that IMDb and TMDB are more popular sites in modern times than RT. With a greater popularity, more viewers vote (evidence 2).  Moreover, as movies with higher revenues are ones that attract more customers, more popular sites will have more traffic to those movies, leading to them being over-represented as top movies in IMDb and TMDB (evidence 1). The relative popularity of IMDb and TMDB also seems to be validated especially in the modern era, as traffic for modern movies for RT is lower compared to IMDb and TMDB, leading to IMDb and TMDB representing a greater % of higher performing flims compared to RT (evidence 3). 
 
 </details>
-    
-## 📚 References
+
+
+<details>
+    <summary><h2>📚 References</h2><summary>
 
 Wikipedia: "List of films with a 100% rating on Rotten Tomatoes" 
 <br>
@@ -256,3 +258,5 @@ https://www.imdb.com/chart/top/
 TMDB API 
 <br>
 https://developer.themoviedb.org/docs
+        
+        </details>

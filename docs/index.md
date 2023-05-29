@@ -241,7 +241,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 
 <details>
-    <summary><h2>📚 References</h2><summary>
+    <summary><h2>📚 References</h2></summary>
 
 Wikipedia: "List of films with a 100% rating on Rotten Tomatoes" 
 <br>

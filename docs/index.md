@@ -179,7 +179,9 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 - We next analysed the data to see which of the 2 components in user composite (user rating or number of voters) contribute to the trend
 
 <br>
+
 ![Alt_text](s2_absolute_user_mean.png)
+
 <br>
 
 

@@ -223,7 +223,6 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 - In conclusion, we think there is no strong evidence that there is a preference for a genere within or across genres
 - Examining the graph of absolute user ratings over genres over 3 sources, we see that there is no significant pattern of preference for a single genre (as variations are relatively small) & across sources (no pattern across sources)
-<br>
 - We also plotted a graph showing representation of movies by genre from a essentially random sample
 - While it seems like RT users might have a preference for that Documentary movies, as they are over-represented, the data from absolute user scores and later composite user and composite overall scores suggest otherwise
 
@@ -235,7 +234,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
     - IMDb and TMDB have, on average, more voters than RT even as their average absolute user rating is about the same (evidence 2)
     - IMDb and TMDB represent a significantly greater proportion of modern flims compared to RT (evidence 3)
 
-### - All these evidences suggest that IMDb and TMDB are more popular sites in modern times than RT. With a greater popularity, more viewers vote (evidence 2), and more viewers review higher grossing flims (evidence 3) than lower ones as higher ones are more popular leading to a higher absolute gap, in the context of the modern era (evidence 3). 
+### - All this evidence suggests that IMDb and TMDB are more popular sites in modern times than RT. With a greater popularity, more viewers vote (evidence 2), and more viewers review higher grossing flims (evidence 3) than lower ones as higher ones are more popular leading to a higher absolute gap, in the context of the modern era (evidence 3). 
 
 ## 📚 References
 

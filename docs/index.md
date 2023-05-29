@@ -55,8 +55,8 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 - In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
 
 
-![Alt text](section_I_absolute_user_ratings)
-![Alt_text](rating_boxplots)
+![Alt text](section_I_absolute_user_ratings.png)
+![Alt_text](rating_boxplots.png)
 
 (The boxplot is depicting the same thing as the bar graph, and both show higher average ratings for RT)
 
@@ -70,7 +70,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 - Still in part I, we also plotted a graph of the number of top movies by genres so we can see if a source gives "preferential" treatment to those from a different source
 - (For example, maybe IMDb really likes horror movies. If so, then we should see alot more horror movies!)
 
-![Alt-text](section_I_representation_of_movies)
+![Alt-text](section_I_representation_of_movies.png)
 
 
 #### As we saw from the adjusted graph, there seems to be a HUGE representation of Documentary type movies for just Rotten Tomatoes!

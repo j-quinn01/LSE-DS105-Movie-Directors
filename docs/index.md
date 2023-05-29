@@ -195,7 +195,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 - The data seems obvious that absolute ratings aren't the reason contributing to the composite user rating order between sources as the order there doesn't match the order previously (instead of RT being lowest and IMDb being highest, now RT is highest)
 - **Instead, it seems like the number of voters are the major reason!**
-- **In conclusion, it seems that it is _**number of voters**_ &  _**absolute revenue**_ that explains the trend we see in composite user rating and overall composite score**
+- **It seems that it is _**number of voters**_ &  _**absolute revenue**_ that explains the trend we see in composite user rating and overall composite score**
 
 ## To summarise, while it seems that there is no preference (or conflicting evidence) as to whether there are preferences between genres within or between sources, our data seems to suggest movies with a higher absolute revenue are over-represented in IMDb and TMDB relative to Rotten Tomatoes! Hence, this supports the idea that IMDb and TMDB are more popular sites than Rotten Tomatoes! If IMDb and TMDB are more popular, those sites would get more voters for popular movies. Indeed, this is what we see!
 - (Note again here, this is just a hypothesis. Correlation =/= causation. Reverse casuality might happen here - perhaps because there are more votes on sites like IMDb and TMDB, they become more popular with mainstream and casual audiences, which explains why movies with higher revenus (that are frequented by mainstream audiences, go to those sites leading to over representation of high revenue movies in IMDb and TMDB.))

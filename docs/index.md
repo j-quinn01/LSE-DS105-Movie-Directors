@@ -59,7 +59,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 ![Alt text](t10_directors_each_source.png)
 
   <details>
-      <summary><h2><b>Section I</b> : Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h2></summary>
+      <summary><h2>Section I: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h2></summary>
 
 - In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
 
@@ -103,7 +103,8 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
   </details>
 
-## <span style = "color:yellow">**Section II**: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release - to see if users prefer a certain genre within each source and between sources</span>
+  <details>
+      <summary<h2>Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release - to see if users prefer a certain genre within each source and between sources</h2></summary>
 
 - Firstly, we began by calculating the overall composite score
 <br>
@@ -206,7 +207,12 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 <br>
 
-### <span style = "color:yellow">**Section III**: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT</span>
+  </details>
+
+
+
+  <details>
+    <summary><h2>Section III: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT</h2></summary>
 
 - We plot a graph of number of movies over their release date
 
@@ -220,6 +226,11 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 - The graph clearly shows that there is a significant over-representation of RT movies in pre-modern times and under-representation in modern times
 - Given that the sample of movies across 3 sources were essentially chosen randomly, **perhaps, this points to the fact that IMDb and TMDB are more popular in recent times compared to RT!**
 
+---
+
+  </details>
+    
+    
 </details>
 
 <details>

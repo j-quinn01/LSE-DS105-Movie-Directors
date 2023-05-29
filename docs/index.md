@@ -14,8 +14,16 @@
 - [Jia Jiangan]()
 
 ## 📝 Project Description
-Finding out the most critical movie review source. We all love watching movies, and we tend to look at reviews when deciding on watching a film to check the quality and see whether it's worth watching. Since there are numerous review sites, we would like to see which review site out of IMDB, TMDB and Rotten Tomatoes would be the most reliable.
 
+Everyone in our group loves watching movies, and we tend to look at reviews when deciding on watching a film to check the quality and see whether it's worth watching. Since there are numerous review sites, with each having their own differing opinion on many films, we would like to see which review site out of IMDB, TMDB and Rotten Tomatoes would be the most reliable and most authoritative. On the face of it, the nature of the question may be subjective, as it usually comes down to personal preference. However, we would like to justify the best source objectively using data, by analysing the preferences of each databases' users, and assessing whether there is any evidence that suggests biases within each database (for example, to a director or a specific genre), and identify any correlations between variables. 
+
+Our project includes the usage of data science techniques, to collect, store, clean, and plotting the data to conduct analysis. 
+
+A flow chart outlining our project plan:
+
+![Alt text](flow%20chart.png)
+
+To make our analysis more advanced and critical, we designed a composite score for each movie. The composite score consisted of 4 factors: the user rating, the number of users voted, the revenue and the year. The purpose of this is was to level off our data, and give a more layered analysis.
 
 ## 📊 Data
 

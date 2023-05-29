@@ -98,6 +98,8 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 ### <span style = "color:red"> In conclusion, data from user ratings suggest no preference for a certain genre across sources. However, data from represenation of top movies seems to indicate a potential preference for Documentary genres within RT. However, as we would soon find out in section 2, this isn't the case! </span>
 
+        
+    </details>
 ---
 
 
@@ -151,8 +153,6 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 (This mean table gives a simpler version of analysis to prove what we're saying above)
 
 - Since revenue composite score is made up of revenue at time of release (Absolute revenue) and year of release we did further analysis via graphs to see which factor exactly contribues to this trend
-
-    </details>
         
 ![Alt_text](section_II_years_graph.png)
 

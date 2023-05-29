@@ -58,7 +58,7 @@ The most significant challenge we encountered with Rotten Tomatoes data was ensu
 
 ![Alt_text](ss_of_merged_data.png)
 
-    </details>
+  </details>
 
 ### TMDB
 

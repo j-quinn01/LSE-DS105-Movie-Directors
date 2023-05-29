@@ -52,7 +52,7 @@ We were able to find a list of the top 1000 movies on IMDb by rating. We then to
     <summary><h2>📈 Analysis & 🖼️ Results</h2></summary>
     
   <details>
-      <summary><h2><Section 0: Preliminary analysis (unrelated to later sections)</h2></summary>
+      <summary><h2>Section 0: Preliminary analysis (unrelated to later sections)</h2></summary>
     
 (Our analysis and results section are merged as we felt showing and analyzing each step of our data analysis process for clarity)
 <br>

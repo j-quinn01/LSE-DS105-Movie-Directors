@@ -59,7 +59,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 ![Alt text](t10_directors_each_source.png)
 
   <details>
-      <summary><h3>**Section I**: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h3></summary>
+      <summary><h2><b>Section I</b> : Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h2></summary>
 
 - In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
 

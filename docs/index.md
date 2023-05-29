@@ -25,7 +25,7 @@ A flow chart outlining our project plan:
 
 ![Alt text](flow_chart.png)
 
-To make our analysis more advanced and critical, we designed a composite score for each movie. The composite score consisted of 4 factors: the user rating, the number of users voted, the revenue and the year. The purpose of this is was to level off our data, and give a more layered analysis.
+To make our analysis more advanced and critical, we designed a composite score for each movie. The composite score consisted of 4 factors: the user rating, the number of users voted, the revenue and the year. The purpose of this is to level off our data, and give a more layered analysis.
 
   </details>    
 

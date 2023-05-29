@@ -120,6 +120,8 @@ There seems to be movies from greater variety of directors in RT. The frequency 
           
 ![Alt text](t10_directors_each_source.png)
 
+TMDB's top 250 movies have by far the greatest average revenue, with Rotten Tomatoes with the least. This suggests TMDB users have a preference towards more popular films, whilst Rotten Tomatoes users do not.      
+ 
 ![Alt_text](avg_rev_sources.png)
           
   </details>

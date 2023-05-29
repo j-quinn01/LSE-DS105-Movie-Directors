@@ -128,19 +128,32 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 - By plotting a graph of average revenue_score over genre with 3 bar graphs for each data source amoung other things, we can see, RT is the lowest, followed by TMDB and IMDB. This matches the earlier pattern, so revenue explains it!
 
 ![Alt_text](section_II_composite_revenue_graph.png)
+
+<br>
+
 (Graph helps to explain as there are similar "peaks" and trough as compared to the total composite score graph)
 
+
+
+
 ![Alt text](section_II_composite_revenue_graph_mean.png)
-(This mean table gives a sompler version of analysis to prove what we're saying below)
+
+<br>
+(This mean table gives a simpler version of analysis to prove what we're saying above)
 
 - Since revenue composite score is made up of revenue at time of release (Absolute revenue) and year of release we did further analysis via graphs to see which factor exactly contribues to this trend
-- From the data we can see, the years are clearly not a factor. The order is reversed and differences minimal
+
+![Alt_text](section_II_years_graph.png)
+
+- From the data, (above) we can see that the years are clearly not a factor. The order is reversed and differences minimal
 
 <br>
 
 
 
 -- We next examined user composite score and see the same pattern of (RT -> TMDB -> IMDb) for user composite score
+
+
 - However, data/graph seems to only partially confirm this as only some patterns are explained but not others in the graph
 <br>
 

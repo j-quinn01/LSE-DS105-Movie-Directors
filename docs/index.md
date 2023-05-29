@@ -120,7 +120,7 @@ There seems to be movies from greater variety of directors in RT. The frequency 
 
     
   <details>
-      <summary><h2>Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release - to see if users prefer a certain genre within each source and between sources</h2></summary>
+      <summary><h2>Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release in order to derive conclusions about the sources</h2></summary>
 
 
 - Firstly, we began by calculating the overall composite score

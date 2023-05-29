@@ -120,6 +120,7 @@ There seems to be movies from greater variety of directors in RT. The frequency 
           
 ![Alt text](t10_directors_each_source.png)
 
+![Alt_text](avg_rev_sources.png)
           
   </details>
 
@@ -145,8 +146,6 @@ There seems to be movies from greater variety of directors in RT. The frequency 
 - However, we find no substantial differences/preferences for 1 genre relative to the other within genres by eyeballing the data and seeing how any differences are not consistent across sources, and were minimal fluctuations at best (relative to total ratings)
 
 <br>
-
-![Alt_text](avg_rev_sources.png)
 
 
 - Still in part I, we also plotted a graph of the number of top movies by genres so we can see if a source gives "preferential" treatment to those from a different source

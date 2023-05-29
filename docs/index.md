@@ -37,22 +37,23 @@ Rating values were converted into a percentage and votes was converted from a fl
 ## 📈 Analysis
 The analysis is done by concatenating the dataframes for all sources, and using ggplot to assess different variables, such as the rating distribution of the votes in all 3 sources.
 
+![Alt text](ggplot_code.png)
 
 ## 🖼️ Results
 
 Evidence of biases between directors for TMDB and IMDB. The frequency of directors in Rotten Tomatoes does not exceed 3, whilst directors have appeared up to 7 times in TMDB and IMDB.
 
-![Alt text](../../Screenshot%202023-05-28%20at%2019.57.23.png)
+![Alt text](t10_directors_each_source.png)
 
 Rotten Tomatoes ratings are generally higher than both IMDb and TMDB; Rotten Tomatoes have a greater median rating value, and a higher maximum rating (100) and a higher minimum rating (82). 
 
 Across all movie genres, except for war, Rotten Tomatoes average user rating is higher than our counterparts.
 
-![Alt text](../../Screenshot%202023-05-28%20at%2019.56.18.png)
+![Alt text](avg_rating_genre.png)
 
 When comparing the number of movies in each source's top 250 movies over the years, there were more number of films as time passed, as we predicted. However, we did note there is a greater number of Rotten Tomatoes movies that were represented in the earlier years, compared to IMDb and TMDB. This may be another reason why there are higher overall ratings for Rotten Tomatoes; earlier films are more highly rated.
 
-![Alt text](../../Screenshot%202023-05-28%20at%2019.53.17.png)
+![Alt text](no_movies_over_year.png)
 
 ## 🖋️ Conclusions
 

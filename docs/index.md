@@ -61,7 +61,7 @@ The most significant challenge we encountered with Rotten Tomatoes data was ensu
   </details>
 
   <details>
-      <summary><h2>TMDB</h2></summary>
+    <summary><h2>TMDB</h2></summary>
 
 For TMDB, first the API was used to get the top 250 movies and their IDs. The ID was used to get all the key information of an individual film (e.g., revenue, director) in a json requests format. As numerous films in TMDB had missing revenue values, IMDb was used to fill in the missing values where possible (TMDB API also gave the IMDb ID of each film). Most films had multiple genres and some with multiple directors, so the genres and directors for those films were stored in a list. When we wanted to separate the data by genre or director, we used the pandas df.explode() function to do so.
 
@@ -71,10 +71,10 @@ Rating values were converted into a percentage and votes was converted from a fl
 
 ![Alt text](tmdb_df.png)
       
-    </details>
+  </details>
 
   <details>
-      <summary><h2>IMDb</h2></summary> 
+    <summary><h2>IMDb</h2></summary> 
 
 We were able to find a list of the top 1000 movies on IMDb by rating. We then took the first 250 movies from this list to use in our project. IMDb was not willing to let us use their API, so the data was collected using webscraping. We collected the movie title, director, year of release, genre, revenue, rating, length, and number of user votes. We then made the rating out of 100 instead of 10 for the sake of comparability. Initially, we created one IMDb df that had only one genre per movie. Later we put all genres in a list and used df.explode() to separate them when necessary. We also bracketed the votes like we did for our TMDB data for ease of comparison. 
 
@@ -83,7 +83,7 @@ We were able to find a list of the top 1000 movies on IMDb by rating. We then to
 
       
 
-    </details>
+  </details>
       
 </details>
 

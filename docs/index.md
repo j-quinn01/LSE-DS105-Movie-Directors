@@ -181,8 +181,7 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
   <details>
       <summary><h2>Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release in order to derive conclusions about the sources</h2></summary>
 
-
-- Firstly, we began by calculating the overall composite score
+- First, we began by calculating the overall composite score
 <br>
 The composite score = function(User composite score, revenue composite score)
 

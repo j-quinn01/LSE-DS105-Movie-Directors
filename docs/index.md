@@ -16,7 +16,7 @@
 <details>
     <summary><h2>📝 Project Description</h2></summary>
 
-Everyone in our group loves watching movies, and we tend to look at reviews when deciding on watching a film to check the quality and see whether it's worth watching. Since there are numerous review sites, with each having their own differing opinion on many films, we would like to examine the differences in user preference between the sources. We would also like to  
+Everyone in our group loves watching movies, and we tend to look at reviews when deciding on watching a film to check the quality and see whether it's worth watching. Since there are numerous review sites, with each having their own differing opinion on many films, we would like to examine the differences in user preference between the sources. We would also like to examine the popularity of the sources and how it affects the preferences of their respective users. Uncovering these preferences will better  allow us to interpret movie ratings on these websites.
     
     
 Our project includes the usage of data science techniques, to collect, store, clean, and plotting the data to conduct analysis. 

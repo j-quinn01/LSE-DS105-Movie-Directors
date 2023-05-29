@@ -34,7 +34,7 @@ Rating values were converted into a percentage and votes was converted from a fl
 
 ### IMDb 
 
-We were able to find a list of the top 1000 movies on IMDb by rating. We then took the first 250 movies from this list to use in our project. IMDb was not willing to let us use their API, so the data was collected using webscraping. 
+We were able to find a list of the top 1000 movies on IMDb by rating. We then took the first 250 movies from this list to use in our project. IMDb was not willing to let us use their API, so the data was collected using webscraping. We collected the movie title, director, year of release, genre, revenue, rating, length, and number of user votes. We then made the rating out of 100 instead of 10 for the sake of comparability. Initially, we created one IMDb df that had only one genre per movie. Later we put all genres in a list and used df.explode() to separate them when necessary. We also bracketed the votes like we did for our TMDB data for ease of comparison. 
 
 ## 📈 Analysis
 The analysis is done by concatenating the dataframes for all sources, and using ggplot to assess different variables, such as the rating distribution of the votes in all 3 sources.

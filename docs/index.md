@@ -220,7 +220,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 
 <details>
-    <summary>🖋️ Conclusion</summary>
+    <summary><h2>🖋️ Conclusion</h2></summary>
 
 - In conclusion, we think there is no strong evidence that there is a preference for a genere within or across genres
 - Examining the graph of absolute user ratings over genres over 3 sources, we see that there is no significant pattern of preference for a single genre (as variations are relatively small) & across sources (no pattern across sources)

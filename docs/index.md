@@ -62,7 +62,7 @@ Before we begin, we will show a sample of how we created our analysis by using g
 
 ### Now, we will show some preliminary data analysis that are unrelated to sections I, II and III.
 ---
--While doing some exploratory analysis, we produced the following graph. On the x-axis we have the different vote brackets, on the y-axis we have the average revenue of each interval.
+- While doing some exploratory analysis, we produced the following graph. On the x-axis we have the different vote brackets, on the y-axis we have the average revenue of each interval.
 
 ![Alt text](revenue_votes.png)
 
@@ -70,7 +70,7 @@ Before we begin, we will show a sample of how we created our analysis by using g
 
 ![Alt text](outlier_df.png)
 
--Both the 10,000 and 25,000 votes intervals have an Avengers movie with very high revenue relative to other movies, which is pushing the average revenues for these movies higher. 
+- Both the 10,000 and 25,000 votes intervals have an Avengers movie with very high revenue relative to other movies, which is pushing the average revenues for these movies higher. 
 ---
 
 <br>

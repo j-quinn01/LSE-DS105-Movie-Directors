@@ -65,10 +65,12 @@ Before we begin, we will show a sample of how we created our analysis by using g
 <br>
 There seems to be movies from greater variety of directors in RT. The frequency of directors in Rotten Tomatoes does not exceed 3, whilst directors have appeared up to 7 times in TMDB and IMDB.
           
+![Alt text](t10_directors_each_source.png)
+
+          
   </details>
 
 
-![Alt text](t10_directors_each_source.png)
 
   <details>
       <summary><h2>Section I: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h2></summary>

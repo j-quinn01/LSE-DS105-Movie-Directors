@@ -49,15 +49,107 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 ![Alt text](t10_directors_each_source.png)
 
-Rotten Tomatoes ratings are generally higher than both IMDb and TMDB; Rotten Tomatoes have a greater median rating value, and a higher maximum rating (100) and a higher minimum rating (82). 
 
-Across all movie genres, except for war, Rotten Tomatoes average user rating is higher than our counterparts.
+### <span style = "color:yellow">**Section I**: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</span>
 
-![Alt text](avg_rating_genre.png)
+- In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
 
-When comparing the number of movies in each source's top 250 movies over the years, there were more number of films as time passed, as we predicted. However, we did note there is a greater number of Rotten Tomatoes movies that were represented in the earlier years, compared to IMDb and TMDB. This may be another reason why there are higher overall ratings for Rotten Tomatoes; earlier films are more highly rated.
 
-![Alt text](no_movies_over_year.png)
+![Alt text](section_I_absolute_user_ratings)
+![Alt_text](rating_boxplots)
+
+- We saw that RT users tend to vote more optimistically compared to IMDb and TMDB on average
+- However, we find no substantial differences/preferences for 1 genre relative to the other within genres by eyeballing the data and seeing how any differences are not consistent across sources, and were minimal fluctuations at best (relative to total ratings)
+
+<br>
+
+
+
+- Still in part I, we also plotted a graph of the number of top movies by genres so we can see if a source gives "preferential" treatment to those from a different source
+- (For example, maybe IMDb really likes horror movies. If so, then we should see alot more horror movies!)
+
+![Alt-text](section_I_representation_of_movies)
+
+
+#### As we saw from the adjusted graph, there seems to be a HUGE representation of Documentary type movies for just Rotten Tomatoes!
+- After doing some adjustment, we found that there is there is alot of Drama movies across all sources (most for IMDb and TMDB, and 2nd for RT)
+- Potential inferrence might mean that on average, many people like Drama type movies!
+- However, there might be other confounding variables, like maybe there are just a greater proportion of Drama movies made, so naturally more are highly rated
+- We can also see the RT does not have movies in certain genres like War, Mystery or Music! However, this is due to the fact that there aren't categories for this on RT
+- No clear relationship for other genres
+
+
+
+## <span style = "color:red"> In conclusion, data from user ratings suggest no preference for genres. However, data from represenation of top movies seems to indicate a potential preference for Documentary genres. However, as we would soon find out in section 2, this isn't the case! </span>
+
+## <span style = "color:yellow">**Section II**: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release - to see if users prefer a certain genre within each source and between each source</span>
+
+- Firstly, we began by calculating the overall compossite score
+<br>
+- The composite score = function(User composite score, revenue composite score)
+
+- User composite score = function(absolute user rating, number of users)
+- Revenue composite score = function(revenue at time of release, year of release) 
+
+- Hence, composite score consists of 4 components
+    - User score
+    - Number of users who rated
+    - Revenue
+    - Date of release (revenue was scaled up due to inflation)
+
+<br>
+<br>
+-- We then plot a graph of average overall_composite_movie_score over genre with 3 bar graphs for each data source
+
+- We again find no clear pattern of composite scores within genres
+ Even the Documentary genre for RT isn't higher than the rest despite over-representation shown earlier
+- This points to other factors causing over-representation besides the hypothesis that RT users like Documentaries
+- <span style = "color:red">This gives evidence to refute our initial findings in section 1, that there might be a slight preference for Documentary genres within Rotten Tomatoes sources! </span>
+- <span style = "color:red">However, we find crucual data that RT has the lowest average overall score across all genres (data above graph) followed by TMDB and IMDB.</span>
+
+<br>
+
+
+-- We then tried to find out which of the 4 components contributed to this trend by sketching appropriate graphs
+- By plotting a graph of average revenue_score over genre with 3 bar graphs for each data source amoung other things, we can see, RT is the lowest, followed by TMDB and IMDB. This matches the earlier pattern, so revenue explains it!
+- Since revenue composite score is made up of revenue at time of release (Absolute revenue) and year of release we did further analysis via graphs to see which factor exactly contribues to this trend
+- From the data we can see, the years are clearly not a factor. The order is reversed and differences minimal
+
+<br>
+
+
+
+-- We next examined user composite score and see the sme pattern of (RT -> TMDB -> IMDb) for user composite score
+- However, data/graph seems to only partially confirm this as only some patterns are explained but not others in the graph
+<br>
+
+---
+<br>
+-- Moving to the next half, we analysed the data to see which of the 2 components in user composite (user rating or number of voters) contribute to the trend
+
+- The data seems obvious that absolute ratings aren't the reason contributing to the composite user rating order between sources as the order there doesn't match the order previously (instead of RT being lowest and IMDb being highest, now RT is highest)
+- Instead, it seems like the number of voters are the major reason!
+- <span style = "color:red">In conclusion, it seems that it is _**number of voters**_ that explains the trend we see in composite user rating and overall composite score </span>
+
+
+
+## <span style = "color:red"> In other words, while it seems that there is no preference (or conflicting evidence) as to whether there are preferences between genres within or between sources, our data seems to suggest movies with a higher absolute revenue are over-represented in IMDb and TMDB relative to Rotten Tomatoes! </span>
+
+## <span style = "color:red">A possible explanation could be that IMDb and TMDB are more popular sites than Rotten Tomatoes. Hence, movies with higher revenues (and hence more overall customers), visit sites like IMDb and TMDB more relative to RT! (obviously, this is just a hypothesis but seems to be supported. Correlation =/= causation)</span>
+## <span style="color:red">Taken together, it seems that the composite user rating score only partially explains the lower average total score for RT, but doesn't explain to the same extent as revenue composite!</span>
+
+<br>
+
+### <span style = "color:yellow">**Section III**: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT</span>
+
+- We plot a graph of number of movies over their release date
+- The graph clearly shows that there is a significant over-representation of RT movies in pre-modern times and under-representation in modern times
+- Given that the sample of movies across 3 sources were essentially chosen randomly, <span style = "color:red"> perhaps, this points to the fact that IMDb and TMDB are more popular in recent times compared to RT!</span>
+
+
+## <span style="color:red"> A potential explanation for this data is that IMDB and TMDB are more popular in recent years especially compared to RT! </span>
+
+
 
 ## 🖋️ Conclusions
 

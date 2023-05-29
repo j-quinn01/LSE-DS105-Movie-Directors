@@ -124,7 +124,7 @@ TMDB's top 250 movies have by far the greatest average revenue, with Rotten Toma
  
 ![Alt_text](avg_rev_sources.png)
           
-This suggests TMDB and IMDb users may be biased towards films with a specific director or a higher box office, however more analysis needs to be conducted to make a conclusion.
+This suggests TMDB and IMDb users may be biased towards films with a specific director or a higher box office, however the analysis is preliminary and more analysis needs to be conducted in order to make a conclusion.
       
 ## So far, we have seen how outliers have skewed the average revenue of voting intervals, the variation in the number of directors included in the top 250 movies from each source, and the (large) variation in the average revenue per movie across our three sources.
       

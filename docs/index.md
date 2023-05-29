@@ -43,6 +43,8 @@ Data was then compiled in a dataframe with key features including the rating, di
 
 The most significant challenge we encountered with Rotten Tomatoes data was ensuring homogeneity and comparability with other sources. This is because RT has a large international presense, so it was especially tricky when dealing with different currencies in revenue and trying to remove non-US flims.
 
+![Alt_text](ss_of_merged_data.png)
+
 
 ### TMDB
 

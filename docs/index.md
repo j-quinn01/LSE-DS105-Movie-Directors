@@ -246,11 +246,13 @@ Wikipedia: "List of films with a 100% rating on Rotten Tomatoes"
 https://en.wikipedia.org/wiki/List_of_films_with_a_100%25_rating_on_Rotten_Tomatoes
 <br>
 Rotten Tomatoes
+<br>
 https://www.rottentomatoes.com/
 <br>
 IMDb top 250 movies 
 <br>
 https://www.imdb.com/chart/top/
+<br>
 TMDB API 
 <br>
 https://developer.themoviedb.org/docs

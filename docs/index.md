@@ -263,7 +263,7 @@ We next examined user composite score and see the same pattern of (RT -> TMDB ->
 <br>
 
 <br>
-- We next analysed the data to see which of the 2 components in user composite (user rating or number of voters) contribute to the trend
+We next analysed the data to see which of the 2 components in user composite (user rating or number of voters) contribute to the trend
 
 <br>
 

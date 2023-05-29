@@ -149,28 +149,51 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 <br>
 
+**This means the differences are attributed primarily to absolute revenue!**
 
+**In other words, while it seems that there is no preference (or conflicting evidence) as to whether there are preferences between genres within or between sources, our data seems to suggest movies with a higher absolute revenue are over-represented in IMDb and TMDB relative to Rotten Tomatoes!**
+
+**A possible explanation could be that IMDb and TMDB are more popular sites than Rotten Tomatoes. Hence, movies with higher revenues (and hence more overall customers), visit sites like IMDb and TMDB more relative to RT! (obviously, this is just a hypothesis. Correlation =/= causation)**
+
+---
 
 -- We next examined user composite score and see the same pattern of (RT -> TMDB -> IMDb) for user composite score
 
+![Alt_text](s2_comp_user_graph.png)
+
+<br>
+(graph showing composite user score)
+<br>
+
+![Alt_text](s2_comp_user.png)
+<br>
+(table showing mean user score)
+<br>
 
 - However, data/graph seems to only partially confirm this as only some patterns are explained but not others in the graph
+- **Taken together, it seems that the composite user rating score only partially explains the lower average total score for RT, but doesn't explain to the same extent as revenue composite!**
+- This is because while the means follow the same pattern, the "peaks" and "troughs" of the data from user composite don't follow the same pattern as overall composite!
 <br>
 
----
 <br>
--- Moving to the next half, we analysed the data to see which of the 2 components in user composite (user rating or number of voters) contribute to the trend
+- We next analysed the data to see which of the 2 components in user composite (user rating or number of voters) contribute to the trend
+
+<br>
+![Alt_text](s2_absolute_user_mean.png)
+<br>
+
 
 - The data seems obvious that absolute ratings aren't the reason contributing to the composite user rating order between sources as the order there doesn't match the order previously (instead of RT being lowest and IMDb being highest, now RT is highest)
-- Instead, it seems like the number of voters are the major reason!
-- <span style = "color:red">In conclusion, it seems that it is _**number of voters**_ that explains the trend we see in composite user rating and overall composite score </span>
+- **Instead, it seems like the number of voters are the major reason!**
+
+## **In conclusion, it seems that it is _**number of voters**_ that explains the trend we see in composite user rating and overall composite score**
 
 
 
-## <span style = "color:red"> In other words, while it seems that there is no preference (or conflicting evidence) as to whether there are preferences between genres within or between sources, our data seems to suggest movies with a higher absolute revenue are over-represented in IMDb and TMDB relative to Rotten Tomatoes! </span>
+## **To summarise, while it seems that there is no preference (or conflicting evidence) as to whether there are preferences between genres within or between sources, our data seems to suggest movies with a higher absolute revenue are over-represented in IMDb and TMDB relative to Rotten Tomatoes!**
 
 ## <span style = "color:red">A possible explanation could be that IMDb and TMDB are more popular sites than Rotten Tomatoes. Hence, movies with higher revenues (and hence more overall customers), visit sites like IMDb and TMDB more relative to RT! (obviously, this is just a hypothesis but seems to be supported. Correlation =/= causation)</span>
-## <span style="color:red">Taken together, it seems that the composite user rating score only partially explains the lower average total score for RT, but doesn't explain to the same extent as revenue composite!</span>
+
 
 <br>
 

@@ -220,8 +220,6 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 
 <details>
-    
-   
     <summary>## 🖋️ Conclusions</summary>
 
 - In conclusion, we think there is no strong evidence that there is a preference for a genere within or across genres
@@ -239,7 +237,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 ### All this evidence suggests that IMDb and TMDB are more popular sites in modern times than RT. With a greater popularity, more viewers vote (evidence 2).  Moreover, as movies with higher revenues are ones that attract more customers, more popular sites will have more traffic to those movies, leading to them being over-represented as top movies in IMDb and TMDB (evidence 1). The relative popularity of IMDb and TMDB also seems to be validated especially in the modern era, as traffic for modern movies for RT is lower compared to IMDb and TMDB, leading to IMDb and TMDB representing a greater % of higher performing flims compared to RT (evidence 3). 
 
-    </details>
+</details>
     
 ## 📚 References
 

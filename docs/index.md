@@ -21,8 +21,6 @@ Finding out the most critical movie review source. We all love watching movies, 
 
 Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 
-Web-scraping was used from IMDB and a Wikipedia page of a list of movies that scored a 100% critical review score on Rotten Tomatoes, and the TMDB API.
-
 ### TMDB
 
 For TMDB, first the API was used to get the top 250 movies and their IDs. The ID was used to get all the key information of an individual film (e.g., revenue, director) in a json requests format. As numerous films in TMDB had missing revenue values, IMDb was used to fill in the missing values where possible (TMDB API also gave the IMDb ID of each film). Most films had multiple genres and some with multiple directors, so the genres and directors for those films were stored in a list. When we wanted to separate the data by genre or director, we used the pandas df.explode() function to do so.
@@ -33,6 +31,10 @@ Rating values were converted into a percentage and votes was converted from a fl
 
 ![Alt text](merged_df.png)
 ![Alt text](../../Screenshot%202023-05-28%20at%2018.59.30.png)
+
+### IMDb 
+
+We were able to find a list of the top 1000 movies on IMDb by rating. We then took the first 250 movies from this list to use in our project. IMDb was not willing to let us use their API, so the data was collected using webscraping. 
 
 ## 📈 Analysis
 The analysis is done by concatenating the dataframes for all sources, and using ggplot to assess different variables, such as the rating distribution of the votes in all 3 sources.

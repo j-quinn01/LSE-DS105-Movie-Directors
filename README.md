@@ -15,10 +15,12 @@
 
 -Individual code: md_regressions.ipynb, template-notebook.ipynb <br>
 -edited JJ's part of analysis section and added bit about revenue and votes <br>
--included IMDb data collection and cleaning in data section 
+-included IMDb data collection and cleaning in data section <br>
+-worked on formatting of website and added pictures
+
 
 # Shuja's work
 
 -added TMDB data collection and analysis to the data section <br>
--drafted the introduction/explanation of interest in the subject 
-
+-drafted the introduction/explanation of interest in the subject <br>
+-worked on structure of the website

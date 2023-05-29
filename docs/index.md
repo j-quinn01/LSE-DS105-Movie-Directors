@@ -101,7 +101,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
         
 ---
 
-          </details>
+  </details>
 
 ## <span style = "color:yellow">**Section II**: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release - to see if users prefer a certain genre within each source and between sources</span>
 

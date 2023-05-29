@@ -1,0 +1,251 @@
+,title,director,year,genre,revenue,user_rating,length,source,votes
+0,The Godfather,Francis Ford Coppola,1972,"['Drama', 'Crime']",245.066411,87.0,175,TMDB,10000+ ratings
+1,The Shawshank Redemption,Frank Darabont,1994,"['Drama', 'Crime']",28.341469,87.01,142,TMDB,10000+ ratings
+2,The Godfather Part II,Francis Ford Coppola,1974,"['Drama', 'Crime']",102.6,86.0,202,TMDB,10000+ ratings
+3,Dilwale Dulhania Le Jayenge,Aditya Chopra,1995,"['Comedy', 'Drama', 'Romance']",100.0,85.71,190,TMDB,2500+ ratings
+4,Schindler's List,Steven Spielberg,1993,"['Drama', 'History', 'War']",321.365567,85.7,195,TMDB,10000+ ratings
+5,Cuando Sea Joven,Raúl Martínez,2022,"['Comedy', 'Fantasy']",,85.55,115,TMDB,100+ ratings
+6,Spirited Away,Hayao Miyazaki,2001,"['Animation', 'Family', 'Fantasy']",274.925095,85.42,125,TMDB,10000+ ratings
+7,12 Angry Men,Sidney Lumet,1957,Drama,1.0,85.39,97,TMDB,5000+ ratings
+8,Your Name.,Makoto Shinkai,2016,"['Romance', 'Animation', 'Drama']",357.986087,85.22,106,TMDB,5000+ ratings
+9,Parasite,Bong Joon-ho,2019,"['Comedy', 'Thriller', 'Drama']",257.591776,85.15,133,TMDB,10000+ ratings
+10,The Dark Knight,Christopher Nolan,2008,"['Drama', 'Action', 'Crime', 'Thriller']",1004.558444,85.09,152,TMDB,25000+ ratings
+11,The Green Mile,Frank Darabont,1999,"['Fantasy', 'Drama', 'Crime']",286.801374,85.07999999999998,189,TMDB,10000+ ratings
+12,Pulp Fiction,Quentin Tarantino,1994,"['Thriller', 'Crime']",214.179088,84.9,154,TMDB,25000+ ratings
+13,"The Good, the Bad and the Ugly",Sergio Leone,1966,Western,25.253888,84.81,161,TMDB,5000+ ratings
+14,Forrest Gump,Robert Zemeckis,1994,"['Comedy', 'Drama', 'Romance']",677.387716,85.0,142,TMDB,10000+ ratings
+15,"The Boy, the Mole, the Fox and the Horse","['Peter Baynton', 'Charlie Mackesy']",2022,"['Animation', 'Family', 'Adventure', 'Fantasy']",,84.77000000000001,34,TMDB,250+ ratings
+16,The Lord of the Rings: The Return of the King,Peter Jackson,2003,"['Adventure', 'Fantasy', 'Action']",1118.888979,84.75,201,TMDB,10000+ ratings
+17,GoodFellas,Martin Scorsese,1990,"['Drama', 'Crime']",46.835,84.67,145,TMDB,10000+ ratings
+18,Dou kyu sei – Classmates,Shouko Nakamura,2016,"['Romance', 'Animation']",,84.66,61,TMDB,250+ ratings
+19,Primal: Tales of Savagery,Genndy Tartakovsky,2019,"['Action', 'Adventure', 'Animation', 'Drama']",,84.64,85,TMDB,250+ ratings
+20,Seven Samurai,Akira Kurosawa,1954,"['Action', 'Drama']",0.3463,84.63,207,TMDB,2500+ ratings
+21,Gabriel's Inferno,Tosca Musk,2020,Romance,,84.57000000000001,122,TMDB,1000+ ratings
+22,Cinema Paradiso,Giuseppe Tornatore,1988,"['Drama', 'Romance']",11.990401,84.57000000000001,124,TMDB,2500+ ratings
+23,Life Is Beautiful,Roberto Benigni,1997,"['Comedy', 'Drama']",230.098753,84.55,116,TMDB,10000+ ratings
+24,Grave of the Fireflies,Isao Takahata,1988,"['Animation', 'Drama', 'War']",0.516962,84.49,89,TMDB,2500+ ratings
+25,Psycho,Alfred Hitchcock,1960,"['Horror', 'Drama', 'Thriller']",,84.44000000000001,109,TMDB,5000+ ratings
+26,Once Upon a Time in America,Sergio Leone,1984,"['Drama', 'Crime']",5.472914,84.45,229,TMDB,2500+ ratings
+27,Gabriel's Inferno: Part II,Tosca Musk,2020,Romance,,84.36999999999999,105,TMDB,1000+ ratings
+28,Fight Club,David Fincher,1999,"['Drama', 'Thriller', 'Comedy']",100.853753,84.33999999999999,139,TMDB,25000+ ratings
+29,Impossible Things,Ernesto Contreras,2021,"['Family', 'Drama']",,84.24,88,TMDB,250+ ratings
+30,The Legend of Hei,MTJJ,2019,"['Animation', 'Fantasy', 'Action']",48.045728,84.24,102,TMDB,250+ ratings
+31,One Flew Over the Cuckoo's Nest,Miloš Forman,1975,Drama,108.981275,84.23,133,TMDB,5000+ ratings
+32,City of God,Fernando Meirelles,2002,"['Drama', 'Crime']",30.64177,84.22,130,TMDB,5000+ ratings
+33,The Quintessential Quintuplets Movie,Masato Jimbo,2022,"['Animation', 'Comedy', 'Romance']",17.288993,84.0,136,TMDB,250+ ratings
+34,Gabriel's Inferno: Part III,Tosca Musk,2020,"['Romance', 'Comedy']",,84.2,105,TMDB,1000+ ratings
+35,Harakiri,Masaki Kobayashi,1962,"['Action', 'Drama', 'History']",,84.0,135,TMDB,500+ ratings
+36,Spider-Man: Into the Spider-Verse,"['Rodney Rothman', 'Peter Ramsey', 'Bob Persichetti']",2018,"['Action', 'Adventure', 'Animation', 'Sci-Fi']",375.464627,84.06,117,TMDB,10000+ ratings
+37,Howl's Moving Castle,Hayao Miyazaki,2004,"['Fantasy', 'Animation', 'Adventure']",236.049757,84.06,119,TMDB,5000+ ratings
+38,Interstellar,Christopher Nolan,2014,"['Adventure', 'Drama', 'Sci-Fi']",701.729206,84.02,169,TMDB,25000+ ratings
+39,A Silent Voice: The Movie,Naoko Yamada,2016,"['Animation', 'Drama']",30.156463,83.97999999999999,130,TMDB,2500+ ratings
+40,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,"['Adventure', 'Fantasy', 'Action']",871.368364,83.97999999999999,179,TMDB,10000+ ratings
+41,The Empire Strikes Back,Irvin Kershner,1980,"['Adventure', 'Action', 'Sci-Fi']",538.4,83.93,124,TMDB,10000+ ratings
+42,Hotarubi no Mori e,Takahiro Omori,2011,"['Romance', 'Animation', 'Fantasy']",,83.91,45,TMDB,500+ ratings
+43,A Dog's Will,Guel Arraes,2000,"['Comedy', 'Drama', 'Fantasy']",4.903192,83.85999999999999,104,TMDB,500+ ratings
+44,The Pianist,Roman Polanski,2002,"['Drama', 'War']",120.072577,84.0,150,TMDB,5000+ ratings
+45,The Lord of the Rings: The Two Towers,Peter Jackson,2002,"['Adventure', 'Fantasy', 'Action']",926.2874,83.78999999999999,179,TMDB,10000+ ratings
+46,Whiplash,Damien Chazelle,2014,"['Drama', 'Music']",13.092,83.78,107,TMDB,10000+ ratings
+47,Se7en,David Fincher,1995,"['Crime', 'Mystery', 'Thriller']",327.311859,83.66,127,TMDB,10000+ ratings
+48,Inception,Christopher Nolan,2010,"['Action', 'Sci-Fi', 'Adventure']",825.532764,83.63,148,TMDB,25000+ ratings
+49,Hope,Lee Joon-ik,2013,Drama,,83.62,122,TMDB,500+ ratings
+50,Neon Genesis Evangelion: The End of Evangelion,"['Hideaki Anno', 'Kazuya Tsurumaki']",1997,"['Animation', 'Sci-Fi', 'Action']",20.0,83.6,87,TMDB,1000+ ratings
+51,Sunset Boulevard,Billy Wilder,1950,Drama,5.0,84.0,110,TMDB,1000+ ratings
+52,Rear Window,Alfred Hitchcock,1954,"['Thriller', 'Mystery']",37.034514,83.6,112,TMDB,5000+ ratings
+53,"Josee, the Tiger and the Fish",Kotaro Tamura,2020,"['Animation', 'Drama', 'Romance']",,83.59,98,TMDB,250+ ratings
+54,American History X,Tony Kaye,1998,Drama,23.875127,83.53999999999999,119,TMDB,10000+ ratings
+55,Taylor Swift: Reputation Stadium Tour,Paul Dugdale,2018,Music,,83.49000000000001,125,TMDB,250+ ratings
+56,Ikiru,Akira Kurosawa,1952,Drama,0.05524,83.5,143,TMDB,500+ ratings
+57,The Great Dictator,Charlie Chaplin,1940,"['Comedy', 'War']",11.0,83.48,125,TMDB,2500+ ratings
+58,The Silence of the Lambs,Jonathan Demme,1991,"['Crime', 'Drama', 'Thriller']",272.742922,83.44,119,TMDB,10000+ ratings
+59,Princess Mononoke,Hayao Miyazaki,1997,"['Adventure', 'Fantasy', 'Animation']",159.414369,83.42,134,TMDB,5000+ ratings
+60,20th Century Girl,Bang Woo-ri,2022,"['Romance', 'Drama']",,83.0,119,TMDB,250+ ratings
+61,Violet Evergarden: The Movie,Taichi Ishidate,2020,"['Animation', 'Fantasy', 'Romance', 'Drama']",20.339624,83.38,140,TMDB,250+ ratings
+62,City Lights,Charlie Chaplin,1931,"['Comedy', 'Romance', 'Drama']",4.25,83.37,87,TMDB,1000+ ratings
+63,High and Low,Akira Kurosawa,1963,"['Crime', 'Drama', 'Mystery', 'Thriller']",,83.0,142,TMDB,500+ ratings
+64,Léon: The Professional,Luc Besson,1994,"['Crime', 'Drama', 'Action']",45.284974,83.21,111,TMDB,10000+ ratings
+65,Dedicated to my ex,Jorge Ulloa,2019,"['Drama', 'Comedy']",1.315376,83.17,94,TMDB,250+ ratings
+66,Dead Poets Society,Peter Weir,1989,Drama,235.860116,83.16000000000001,128,TMDB,5000+ ratings
+67,Back to the Future,Robert Zemeckis,1985,"['Adventure', 'Comedy', 'Sci-Fi']",381.109762,83.13000000000001,116,TMDB,10000+ ratings
+68,Clouds,Justin Baldoni,2020,"['Music', 'Drama', 'Romance']",,83.07000000000001,121,TMDB,500+ ratings
+69,Woman in the Dunes,Hiroshi Teshigahara,1964,"['Drama', 'Thriller']",,83.0,147,TMDB,250+ ratings
+70,Modern Times,Charlie Chaplin,1936,"['Comedy', 'Drama']",,83.04,87,TMDB,2500+ ratings
+71,Five Feet Apart,Justin Baldoni,2019,"['Romance', 'Drama']",92.6,83.01,116,TMDB,5000+ ratings
+72,The Shop Around the Corner,Ernst Lubitsch,1940,"['Comedy', 'Drama', 'Romance']",,83.0,99,TMDB,500+ ratings
+73,Life in a Year,Mitja Okorn,2020,"['Drama', 'Romance']",,82.98,107,TMDB,1000+ ratings
+74,BTS World Tour: Love Yourself in Seoul,Son Sung-deuk,2019,Music,,82.97,113,TMDB,250+ ratings
+75,Come and See,Elem Klimov,1985,"['Drama', 'War']",0.168817,82.97,142,TMDB,1000+ ratings
+76,Once Upon a Time in the West,Sergio Leone,1968,"['Drama', 'Western']",5.380118,82.95,166,TMDB,2500+ ratings
+77,Puss in Boots: The Last Wish,Joel Crawford,2022,"['Animation', 'Family', 'Fantasy', 'Adventure', 'Comedy']",480.0,82.94,103,TMDB,5000+ ratings
+78,Evangelion: 3.0+1.0 Thrice Upon a Time,Hideaki Anno,2021,"['Animation', 'Action', 'Sci-Fi', 'Drama']",92.3,82.92,155,TMDB,500+ ratings
+79,Top Gun: Maverick,Joseph Kosinski,2022,"['Action', 'Drama']",1488.732821,82.91,131,TMDB,5000+ ratings
+80,Perfect Blue,Satoshi Kon,1997,"['Animation', 'Thriller']",0.112536,82.88,81,TMDB,1000+ ratings
+81,Wolfwalkers,"['Tomm Moore', 'Ross Stewart']",2020,"['Animation', 'Family', 'Adventure', 'Fantasy']",1.26657,82.85,103,TMDB,500+ ratings
+82,Green Snake,Amp Wong,2021,"['Animation', 'Fantasy', 'Action', 'Adventure']",87.212911,82.83,131,TMDB,100+ ratings
+83,Given,Hikaru Yamaguchi,2020,"['Animation', 'Drama', 'Music', 'Romance']",,82.83,60,TMDB,250+ ratings
+84,Le Trou,Jacques Becker,1960,"['Crime', 'Drama', 'Thriller', 'History']",0.033187,82.82,132,TMDB,250+ ratings
+85,Apocalypse Now,Francis Ford Coppola,1979,"['Drama', 'War']",150.0,82.8,147,TMDB,5000+ ratings
+86,Miracle in Cell No. 7,Mehmet Ada Öztekin,2019,Drama,19.289062,82.78999999999999,132,TMDB,2500+ ratings
+87,Justice League Dark: Apokolips War,"['Matt Peters', 'Christina Sotta']",2020,"['Animation', 'Action', 'Sci-Fi']",,82.78,90,TMDB,1000+ ratings
+88,The Legend of 1900,Giuseppe Tornatore,1998,"['Drama', 'Music', 'Romance']",21.057208,82.78,170,TMDB,1000+ ratings
+89,Paths of Glory,Stanley Kubrick,1957,"['Drama', 'War']",,82.77,88,TMDB,1000+ ratings
+90,The Intouchables,"['Éric Toledano', 'Olivier Nakache']",2011,"['Drama', 'Comedy']",426.58851,82.75,113,TMDB,10000+ ratings
+91,A Brighter Summer Day,Edward Yang,1991,"['Crime', 'Drama', 'Romance']",,82.74,237,TMDB,250+ ratings
+92,Steven Universe: The Movie,Rebecca Sugar,2019,"['TV Movie', 'Animation', 'Sci-Fi', 'Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Music']",,82.72999999999999,82,TMDB,500+ ratings
+93,Oldboy,Park Chan-wook,2003,"['Drama', 'Thriller', 'Mystery', 'Action']",15.194593,82.71000000000001,120,TMDB,5000+ ratings
+94,Mommy,Xavier Dolan,2014,Drama,3.49407,82.68,138,TMDB,1000+ ratings
+95,Avengers: Endgame,"['Anthony Russo', 'Joe Russo']",2019,"['Adventure', 'Sci-Fi', 'Action']",2794.731755,82.65,181,TMDB,10000+ ratings
+96,Avengers: Infinity War,"['Anthony Russo', 'Joe Russo']",2018,"['Adventure', 'Action', 'Sci-Fi']",2052.415039,82.60999999999999,149,TMDB,25000+ ratings
+97,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,Haruo Sotozaki,2020,"['Animation', 'Action', 'Adventure', 'Fantasy', 'Thriller']",503.063688,82.6,117,TMDB,2500+ ratings
+98,The Lion King,"['Roger Allers', 'Rob Minkoff']",1994,"['Family', 'Animation', 'Drama']",763.455561,82.59,89,TMDB,10000+ ratings
+99,It's a Wonderful Life,Frank Capra,1946,"['Drama', 'Family', 'Fantasy']",9.644124,82.59,130,TMDB,2500+ ratings
+100,Klaus,Sergio Pablos,2019,"['Animation', 'Family', 'Adventure', 'Comedy', 'Fantasy']",,82.57999999999998,96,TMDB,2500+ ratings
+101,We All Loved Each Other So Much,Ettore Scola,1974,"['Drama', 'Comedy']",,82.46000000000001,124,TMDB,250+ ratings
+102,Persona,Ingmar Bergman,1966,Drama,,82.46000000000001,83,TMDB,1000+ ratings
+103,I Want to Eat Your Pancreas,Shinichiro Ushijima,2018,"['Animation', 'Drama', 'Romance']",33.748006,82.44,108,TMDB,1000+ ratings
+104,The Handmaiden,Park Chan-wook,2016,"['Thriller', 'Drama', 'Romance']",38.6,82.44,145,TMDB,2500+ ratings
+105,Green Book,Peter Farrelly,2018,"['Drama', 'Comedy']",319.7,82.41,130,TMDB,10000+ ratings
+106,Wolf Children,Mamoru Hosoda,2012,"['Animation', 'Family', 'Drama', 'Fantasy', 'Adventure']",55.060661,82.38,117,TMDB,1000+ ratings
+107,Il Sorpasso,Dino Risi,1962,"['Drama', 'Comedy']",,82.0,105,TMDB,500+ ratings
+108,Rascal Does Not Dream of a Dreaming Girl,Souichi Masui,2019,"['Animation', 'Comedy', 'Romance', 'Drama', 'Fantasy']",,82.33000000000001,90,TMDB,250+ ratings
+109,Hamilton,Thomas Kail,2020,"['History', 'Drama']",,82.31,160,TMDB,1000+ ratings
+110,Better Days,Derek Tsang,2019,Drama,225.879065,82.0,135,TMDB,250+ ratings
+111,Bicycle Thieves,Vittorio De Sica,1948,Drama,0.436655,82.28999999999999,89,TMDB,1000+ ratings
+112,Witness for the Prosecution,Billy Wilder,1957,"['Drama', 'Mystery', 'Crime']",9.0,82.28999999999999,116,TMDB,1000+ ratings
+113,Coco,Lee Unkrich,2017,"['Family', 'Animation', 'Fantasy', 'Music', 'Comedy', 'Adventure']",800.526015,82.26,105,TMDB,10000+ ratings
+114,The Apartment,Billy Wilder,1960,"['Comedy', 'Drama', 'Romance']",25.0,82.25,125,TMDB,1000+ ratings
+115,The Art of Racing in the Rain,Simon Curtis,2019,"['Drama', 'Romance', 'Comedy']",33.766787,82.24000000000001,109,TMDB,1000+ ratings
+116,Guillermo del Toro's Pinocchio,"['Guillermo del Toro', 'Mark Gustafson']",2022,"['Animation', 'Fantasy', 'Drama', 'Music']",,82.23,117,TMDB,1000+ ratings
+117,Tokyo Story,Yasujirō Ozu,1953,Drama,,82.22,137,TMDB,500+ ratings
+118,The Shining,Stanley Kubrick,1980,"['Horror', 'Thriller']",44.781695,82.22,144,TMDB,10000+ ratings
+119,A Clockwork Orange,Stanley Kubrick,1971,"['Sci-Fi', 'Drama']",26.589,82.18,137,TMDB,10000+ ratings
+120,Satantango,Béla Tarr,1994,Drama,,82.0,432,TMDB,100+ ratings
+121,Violet Evergarden: Eternity and the Auto Memory Doll,Haruka Fujita,2019,"['Drama', 'Fantasy', 'Animation']",10.841702,82.15,91,TMDB,250+ ratings
+122,Inglourious Basterds,Quentin Tarantino,2009,"['Drama', 'Thriller', 'War']",321.457747,82.15,153,TMDB,10000+ ratings
+123,The Seventh Seal,Ingmar Bergman,1957,"['Fantasy', 'Drama']",,82.0,96,TMDB,2500+ ratings
+124,Saving Private Ryan,Steven Spielberg,1998,"['Drama', 'History', 'War']",481.840909,82.09,169,TMDB,10000+ ratings
+125,Zack Snyder's Justice League,Zack Snyder,2021,"['Action', 'Adventure', 'Fantasy']",,82.08,242,TMDB,5000+ ratings
+126,Along with the Gods: The Last 49 Days,Kim Yong-hwa,2018,"['Fantasy', 'Action', 'Thriller', 'Adventure']",112.79021,82.07000000000001,141,TMDB,250+ ratings
+127,The Kid,Charlie Chaplin,1921,"['Comedy', 'Drama']",2.5,82.08,68,TMDB,1000+ ratings
+128,Star Wars,George Lucas,1977,"['Adventure', 'Action', 'Sci-Fi']",775.398007,82.07000000000001,121,TMDB,10000+ ratings
+129,Gladiator,Ridley Scott,2000,"['Action', 'Drama', 'Adventure']",465.361176,82.05,155,TMDB,10000+ ratings
+130,My Hero Academia: Heroes Rising,Kenji Nagasaki,2019,"['Animation', 'Action', 'Fantasy', 'Adventure']",29.90085,82.05,104,TMDB,1000+ ratings
+131,"Miraculous World: New York, United HeroeZ",Thomas Astruc,2020,"['Animation', 'TV Movie', 'Fantasy', 'Action']",,82.05,62,TMDB,500+ ratings
+132,The Matrix,"['Lilly Wachowski', 'Lana Wachowski']",1999,"['Action', 'Sci-Fi']",463.517383,82.0,136,TMDB,10000+ ratings
+133,Legend Quest: The Origin,Ricardo Arnaiz,2021,"['Animation', 'Comedy', 'Fantasy', 'Adventure', 'Family']",,82.02,90,TMDB,100+ ratings
+134,Doctor Who: The Day of the Doctor,Nick Hurran,2013,"['Sci-Fi', 'Adventure']",10.0,82.0,77,TMDB,500+ ratings
+135,The Prestige,Christopher Nolan,2006,"['Drama', 'Mystery', 'Sci-Fi']",109.676311,82.01,130,TMDB,10000+ ratings
+136,Stalker,Andrei Tarkovsky,1979,"['Sci-Fi', 'Drama']",,82.0,162,TMDB,1000+ ratings
+137,The Usual Suspects,Bryan Singer,1995,"['Drama', 'Crime', 'Thriller']",23.341568,81.98,106,TMDB,5000+ ratings
+138,Shutter Island,Martin Scorsese,2010,"['Drama', 'Thriller', 'Mystery']",294.8,81.97,138,TMDB,10000+ ratings
+139,"Simone, The Journey of the Century",Olivier Dahan,2021,"['Drama', 'History']",,81.96,140,TMDB,100+ ratings
+140,The Help,Tate Taylor,2011,Drama,216.639112,81.96,146,TMDB,5000+ ratings
+141,Maquia: When the Promised Flower Blooms,Mari Okada,2018,"['Animation', 'Fantasy', 'Drama']",4.3,82.0,115,TMDB,500+ ratings
+142,8½,Federico Fellini,1963,"['Fantasy', 'Drama']",,81.94000000000001,139,TMDB,1000+ ratings
+143,Purple Hearts,Elizabeth Allen Rosenbaum,2022,"['Romance', 'Drama']",,82.0,122,TMDB,1000+ ratings
+144,Hacksaw Ridge,Mel Gibson,2016,"['Drama', 'History', 'War']",175.302354,81.91000000000001,139,TMDB,10000+ ratings
+145,Vertigo,Alfred Hitchcock,1958,"['Mystery', 'Romance', 'Thriller']",7.797728,81.91000000000001,128,TMDB,5000+ ratings
+146,Jujutsu Kaisen 0,Sunghoo Park,2021,"['Animation', 'Action', 'Fantasy']",195.870885,81.89999999999999,105,TMDB,500+ ratings
+147,Investigation of a Citizen Above Suspicion,Elio Petri,1970,"['Drama', 'Thriller']",,81.89999999999999,111,TMDB,500+ ratings
+148,Memento,Christopher Nolan,2000,"['Mystery', 'Thriller']",39.723096,82.0,113,TMDB,10000+ ratings
+149,Scenes from a Marriage,Ingmar Bergman,1974,"['Drama', 'Romance']",,81.89,169,TMDB,250+ ratings
+150,Children of Paradise,Marcel Carné,1945,"['Drama', 'Romance']",0.001457,81.89,191,TMDB,250+ ratings
+151,Mortal Kombat Legends: Scorpion's Revenge,Ethan Spaulding,2020,"['Animation', 'Action', 'Fantasy']",,81.83999999999999,80,TMDB,1000+ ratings
+152,Portrait of a Lady on Fire,Céline Sciamma,2019,"['Drama', 'Romance']",9.923127,81.83999999999999,120,TMDB,1000+ ratings
+153,Abraham Lincoln Vampire Hunter: The Great Calamity,Javier Soto,2012,"['Horror', 'Animation', 'Fantasy']",,81.83999999999999,7,TMDB,100+ ratings
+154,Sansho the Bailiff,Kenji Mizoguchi,1954,Drama,,81.83999999999999,124,TMDB,250+ ratings
+155,Capernaum,Nadine Labaki,2018,Drama,64.978931,81.76,126,TMDB,1000+ ratings
+156,The Hate U Give,"George Tillman, Jr.",2018,"['Crime', 'Drama']",34.934009,82.0,133,TMDB,1000+ ratings
+157,Out of the Clear Blue Sky,Pepe Bojórquez,2019,"['Comedy', 'Drama', 'Music']",,81.75,112,TMDB,250+ ratings
+158,Casablanca,Michael Curtiz,1942,"['Drama', 'Romance']",10.4625,81.73,102,TMDB,2500+ ratings
+159,Call Me by Your Name,Luca Guadagnino,2017,"['Romance', 'Drama']",43.143046,81.71,132,TMDB,10000+ ratings
+160,Bo Burnham: Inside,Bo Burnham,2021,"['Comedy', 'Drama']",,81.71,87,TMDB,250+ ratings
+161,Joker,Todd Phillips,2019,"['Crime', 'Thriller', 'Drama']",1074.458282,81.71,122,TMDB,10000+ ratings
+162,Piper,Alan Barillaro,2016,"['Family', 'Animation']",,81.69,6,TMDB,1000+ ratings
+163,My Mom is a Character 3,Susana Garcia,2019,Comedy,39.273021,81.67999999999999,111,TMDB,250+ ratings
+164,Singin' in the Rain,"['Stanley Donen', 'Gene Kelly']",1952,"['Comedy', 'Music', 'Romance', 'Drama']",7.2,81.66,103,TMDB,2500+ ratings
+165,Django Unchained,Quentin Tarantino,2012,"['Drama', 'Western']",425.368238,81.64999999999999,165,TMDB,10000+ ratings
+166,The Departed,Martin Scorsese,2006,"['Drama', 'Thriller', 'Crime']",291.465,81.64999999999999,151,TMDB,10000+ ratings
+167,Scarface,Brian De Palma,1983,"['Action', 'Crime', 'Drama']",66.023329,81.64999999999999,169,TMDB,10000+ ratings
+168,Taxi Driver,Martin Scorsese,1976,"['Crime', 'Drama']",28.6,82.0,114,TMDB,10000+ ratings
+169,Michael Jackson's Thriller,John Landis,1983,"['Horror', 'Music']",,81.64,13,TMDB,500+ ratings
+170,Togo,Ericson Core,2019,"['Adventure', 'Family']",,81.63,113,TMDB,1000+ ratings
+171,Wonder,Stephen Chbosky,2017,"['Drama', 'Family']",305.937718,81.62,113,TMDB,5000+ ratings
+172,Metropolis,Fritz Lang,1927,"['Drama', 'Sci-Fi']",0.650422,81.61,149,TMDB,1000+ ratings
+173,Soul,Pete Docter,2020,"['Animation', 'Family', 'Comedy', 'Fantasy', 'Drama']",136.384442,81.57,101,TMDB,5000+ ratings
+174,All About Eve,Joseph L. Mankiewicz,1950,Drama,8.4,82.0,139,TMDB,1000+ ratings
+175,Central Station,Walter Salles,1998,Drama,5.596708,81.52,110,TMDB,500+ ratings
+176,KONOSUBA – God's blessing on this wonderful world! Legend of Crimson,Takaomi Kanasaki,2019,"['Animation', 'Adventure', 'Comedy', 'Fantasy']",,81.53,90,TMDB,250+ ratings
+177,My Friends,Mario Monicelli,1975,Comedy,,81.0,140,TMDB,500+ ratings
+178,The Father,Florian Zeller,2020,Drama,21.02934,81.47999999999999,96,TMDB,2500+ ratings
+179,Innocent Voices,Luis Mandoki,2005,"['Drama', 'War']",0.837,81.47999999999999,120,TMDB,250+ ratings
+180,Double Indemnity,Billy Wilder,1944,"['Crime', 'Drama', 'Mystery', 'Thriller']",2.5,81.47,107,TMDB,1000+ ratings
+181,Good Will Hunting,Gus Van Sant,1997,Drama,225.933435,81.46000000000001,127,TMDB,10000+ ratings
+182,Yojimbo,Akira Kurosawa,1961,"['Drama', 'Thriller']",,81.44999999999999,110,TMDB,1000+ ratings
+183,Wild Strawberries,Ingmar Bergman,1957,Drama,,81.44,91,TMDB,1000+ ratings
+184,Alien,Ridley Scott,1979,"['Horror', 'Sci-Fi']",104.931801,81.41,117,TMDB,10000+ ratings
+185,La Dolce Vita,Federico Fellini,1960,"['Comedy', 'Drama']",19.647,81.41,176,TMDB,1000+ ratings
+186,Reservoir Dogs,Quentin Tarantino,1992,"['Crime', 'Thriller']",2.85975,81.4,99,TMDB,10000+ ratings
+187,The Great War,Mario Monicelli,1959,"['Drama', 'Comedy', 'War']",,81.38999999999999,130,TMDB,250+ ratings
+188,Full Metal Jacket,Stanley Kubrick,1987,"['Drama', 'War']",46.357676,81.38999999999999,117,TMDB,5000+ ratings
+189,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,1964,"['Drama', 'Comedy', 'War']",9.523464,81.37,95,TMDB,2500+ ratings
+190,Believe Me: The Abduction of Lisa McVey,Jim Donovan,2021,"['Drama', 'TV Movie']",,81.30000000000001,98,TMDB,250+ ratings
+191,Rashomon,Akira Kurosawa,1950,"['Crime', 'Drama', 'Mystery']",0.096568,81.35,88,TMDB,1000+ ratings
+192,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998,"['Comedy', 'Crime']",28.356188,81.32,105,TMDB,5000+ ratings
+193,Me Against You: Mr. S's Vendetta,Gianluca Leuzzi,2020,"['Family', 'Fantasy']",9.5,81.31,64,TMDB,250+ ratings
+194,The Truman Show,Peter Weir,1998,"['Comedy', 'Drama']",264.118201,81.30000000000001,103,TMDB,10000+ ratings
+195,Far from the Tree,Natalie Nourigat,2021,"['Animation', 'Family']",,81.28,7,TMDB,250+ ratings
+196,Ayla: The Daughter of War,Can Ulkay,2017,"['Drama', 'War', 'History']",,81.27000000000001,125,TMDB,250+ ratings
+197,Guardians of the Galaxy Vol. 3,James Gunn,2023,"['Sci-Fi', 'Adventure', 'Action']",663.801,81.0,150,TMDB,1000+ ratings
+198,Sherlock Jr.,Buster Keaton,1924,"['Action', 'Comedy', 'Mystery']",,81.25,45,TMDB,500+ ratings
+199,The Invisible Guest,Oriol Paulo,2017,"['Drama', 'Mystery', 'Thriller']",30.0,81.24000000000001,107,TMDB,2500+ ratings
+200,Prayers for Bobby,Russell Mulcahy,2009,"['Drama', 'History', 'TV Movie']",,81.22999999999999,90,TMDB,500+ ratings
+201,Andrei Rublev,Andrei Tarkovsky,1966,"['Drama', 'History']",,81.22,205,TMDB,500+ ratings
+202,In the Mood for Love,Wong Kar-wai,2000,"['Drama', 'Romance']",14.204632,81.19999999999999,99,TMDB,1000+ ratings
+203,Some Like It Hot,Billy Wilder,1959,"['Comedy', 'Music', 'Romance', 'Crime']",25.0,81.19,122,TMDB,2500+ ratings
+204,Bo Burnham: Make Happy,"['Bo Burnham', 'Christopher Storer']",2016,"['Comedy', 'Music']",,81.18,60,TMDB,250+ ratings
+205,Scooby-Doo! and KISS: Rock and Roll Mystery,"['Tony Cervone', 'Spike Brandt']",2015,"['Family', 'Animation', 'Comedy', 'Mystery']",,81.16,79,TMDB,250+ ratings
+206,Bound by Honor,Taylor Hackford,1993,"['Crime', 'Action', 'Drama', 'Thriller']",,81.15,190,TMDB,1000+ ratings
+207,Silenced,Hwang Dong-hyuk,2011,Drama,31.5,81.18,125,TMDB,250+ ratings
+208,Along with the Gods: The Two Worlds,Kim Yong-hwa,2017,"['Action', 'Adventure', 'Fantasy', 'Thriller']",125.983972,81.13,139,TMDB,500+ ratings
+209,Big Deal on Madonna Street,Mario Monicelli,1958,"['Comedy', 'Crime']",,81.13,106,TMDB,500+ ratings
+210,I corti,Arturo Brachetti,1996,Comedy,,81.12,120,TMDB,250+ ratings
+211,Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,"['Fantasy', 'Adventure']",1341.511219,81.11000000000001,130,TMDB,10000+ ratings
+212,Red Beard,Akira Kurosawa,1965,Drama,,81.11000000000001,185,TMDB,250+ ratings
+213,Anne of Green Gables,Kevin Sullivan,1985,"['Family', 'Drama']",,81.0,199,TMDB,100+ ratings
+214,Black Beauty,Ashley Avis,2020,Drama,,81.06,110,TMDB,250+ ratings
+215,The Tale of The Princess Kaguya,Isao Takahata,2013,"['Animation', 'Drama', 'Fantasy']",24.366656,81.06,137,TMDB,1000+ ratings
+216,M,Fritz Lang,1931,"['Drama', 'Action', 'Thriller', 'Crime']",,81.0,109,TMDB,1000+ ratings
+217,"Paris, Texas",Wim Wenders,1984,Drama,2.181987,81.0,145,TMDB,1000+ ratings
+218,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,"['Sci-Fi', 'Drama', 'Romance']",72.258126,81.0,108,TMDB,10000+ ratings
+219,Terminator 2: Judgment Day,James Cameron,1991,"['Action', 'Thriller', 'Sci-Fi']",520.0,80.96000000000001,137,TMDB,10000+ ratings
+220,The Hunt,Thomas Vinterberg,2012,Drama,18.309793,80.95,116,TMDB,2500+ ratings
+221,There Will Be Blood,Paul Thomas Anderson,2007,Drama,77.208711,80.95,158,TMDB,5000+ ratings
+222,Incendies,Denis Villeneuve,2010,"['Drama', 'War', 'Mystery']",6.788659,80.94,131,TMDB,1000+ ratings
+223,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,2017,"['Crime', 'Drama']",160.192031,80.9,115,TMDB,5000+ ratings
+224,Lion,Garth Davis,2016,Drama,140.312928,80.88,118,TMDB,5000+ ratings
+225,2001: A Space Odyssey,Stanley Kubrick,1968,"['Sci-Fi', 'Mystery', 'Adventure']",71.92356,80.86,149,TMDB,10000+ ratings
+226,Pride & Prejudice,Joe Wright,2005,"['Drama', 'Romance']",121.616555,80.85000000000001,127,TMDB,5000+ ratings
+227,How to Train Your Dragon: Homecoming,Tim Johnson,2019,"['Animation', 'Fantasy', 'Adventure', 'Action', 'Family']",,80.81,22,TMDB,500+ ratings
+228,Prisoners,Denis Villeneuve,2013,"['Drama', 'Thriller', 'Crime']",122.126687,80.81,153,TMDB,10000+ ratings
+229,Hannah Gadsby: Nanette,"['Jon Olb', 'Madeleine Parry']",2018,Comedy,,80.8,69,TMDB,250+ ratings
+230,Das Boot,Wolfgang Petersen,1981,"['Drama', 'History', 'War']",85.0,80.8,150,TMDB,1000+ ratings
+231,La Haine,Mathieu Kassovitz,1995,Drama,15.3,80.8,98,TMDB,2500+ ratings
+232,Cruella,Craig Gillespie,2021,"['Comedy', 'Crime']",233.503234,80.76,134,TMDB,5000+ ratings
+233,WALL·E,Andrew Stanton,2008,"['Animation', 'Family', 'Sci-Fi']",521.31186,80.76,98,TMDB,10000+ ratings
+234,New Gods: Nezha Reborn,Zhao Ji,2021,"['Animation', 'Action', 'Fantasy']",,80.75,116,TMDB,250+ ratings
+235,Digimon Adventure: Last Evolution Kizuna,Tomohisa Taguchi,2020,"['Animation', 'Action', 'Adventure', 'Fantasy']",24.2,80.75,94,TMDB,100+ ratings
+236,The 400 Blows,François Truffaut,1959,Drama,,80.72,99,TMDB,1000+ ratings
+237,Elite Squad,José Padilha,2007,"['Drama', 'Action', 'Crime']",14.759148,80.69000000000001,115,TMDB,1000+ ratings
+238,My Neighbor Totoro,Hayao Miyazaki,1988,"['Fantasy', 'Animation', 'Family']",45.0,80.69000000000001,86,TMDB,5000+ ratings
+239,Ran,Akira Kurosawa,1985,"['Action', 'Drama', 'History']",11.859533,80.67,160,TMDB,1000+ ratings
+240,"Veinteañera, Divorciada y Fantástica",Noé Santillán-López,2020,Comedy,,80.66000000000001,93,TMDB,250+ ratings
+241,Rocco and His Brothers,Luchino Visconti,1960,"['Crime', 'Drama', 'Romance']",,80.66000000000001,178,TMDB,250+ ratings
+242,Memories of Murder,Bong Joon-ho,2003,"['Crime', 'Drama', 'Thriller']",26.0,80.64999999999999,131,TMDB,2500+ ratings
+243,A Taxi Driver,Jang Hoon,2017,"['Action', 'Drama', 'History']",81.92798,80.63000000000001,138,TMDB,500+ ratings
+244,A Special Day,Ettore Scola,1977,"['Drama', 'Romance']",,81.0,106,TMDB,500+ ratings
+245,"Toto, Peppino, and the Hussy",Camillo Mastrocinque,1956,"['Comedy', 'Romance']",,80.60000000000001,101,TMDB,250+ ratings
+246,The Best of Youth,Marco Tullio Giordana,2003,"['Drama', 'History', 'Romance']",2.693053,80.60000000000001,366,TMDB,250+ ratings
+247,El mesero,Raúl Martínez,2021,Comedy,,80.58999999999999,86,TMDB,250+ ratings
+248,The Elephant Man,David Lynch,1980,"['Drama', 'History']",26.010864,81.0,124,TMDB,2500+ ratings
+249,Misfit,Orlando Herrera,2021,"['Comedy', 'Romance']",0.354068,81.0,90,TMDB,100+ ratings

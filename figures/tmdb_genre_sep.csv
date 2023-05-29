@@ -1,0 +1,631 @@
+,title,director,year,revenue,length,user_rating,source,votes,genre
+0,The Godfather,Francis Ford Coppola,1972,245066411.0,175,87.11,TMDB,10000+ ratings,Drama
+0,The Godfather,Francis Ford Coppola,1972,245066411.0,175,87.11,TMDB,10000+ ratings,Crime
+1,The Shawshank Redemption,Frank Darabont,1994,28341469.0,142,87.01,TMDB,10000+ ratings,Drama
+1,The Shawshank Redemption,Frank Darabont,1994,28341469.0,142,87.01,TMDB,10000+ ratings,Crime
+2,The Godfather Part II,Francis Ford Coppola,1974,102600000.0,202,85.97,TMDB,10000+ ratings,Drama
+2,The Godfather Part II,Francis Ford Coppola,1974,102600000.0,202,85.97,TMDB,10000+ ratings,Crime
+3,Dilwale Dulhania Le Jayenge,Aditya Chopra,1995,100000000.0,190,85.71,TMDB,2500+ ratings,Comedy
+3,Dilwale Dulhania Le Jayenge,Aditya Chopra,1995,100000000.0,190,85.71,TMDB,2500+ ratings,Drama
+3,Dilwale Dulhania Le Jayenge,Aditya Chopra,1995,100000000.0,190,85.71,TMDB,2500+ ratings,Romance
+4,Schindler's List,Steven Spielberg,1993,321365567.0,195,85.69000000000001,TMDB,10000+ ratings,Drama
+4,Schindler's List,Steven Spielberg,1993,321365567.0,195,85.69000000000001,TMDB,10000+ ratings,History
+4,Schindler's List,Steven Spielberg,1993,321365567.0,195,85.69000000000001,TMDB,10000+ ratings,War
+5,Cuando Sea Joven,Raúl Martínez,2022,,115,85.55,TMDB,100+ ratings,Comedy
+5,Cuando Sea Joven,Raúl Martínez,2022,,115,85.55,TMDB,100+ ratings,Fantasy
+6,Spirited Away,Hayao Miyazaki,2001,274925095.0,125,85.42,TMDB,10000+ ratings,Animation
+6,Spirited Away,Hayao Miyazaki,2001,274925095.0,125,85.42,TMDB,10000+ ratings,Family
+6,Spirited Away,Hayao Miyazaki,2001,274925095.0,125,85.42,TMDB,10000+ ratings,Fantasy
+7,12 Angry Men,Sidney Lumet,1957,1000000.0,97,85.39,TMDB,5000+ ratings,Drama
+8,Your Name.,Makoto Shinkai,2016,357986087.0,106,85.22,TMDB,5000+ ratings,Romance
+8,Your Name.,Makoto Shinkai,2016,357986087.0,106,85.22,TMDB,5000+ ratings,Animation
+8,Your Name.,Makoto Shinkai,2016,357986087.0,106,85.22,TMDB,5000+ ratings,Drama
+9,Parasite,Bong Joon-ho,2019,257591776.0,133,85.15,TMDB,10000+ ratings,Comedy
+9,Parasite,Bong Joon-ho,2019,257591776.0,133,85.15,TMDB,10000+ ratings,Thriller
+9,Parasite,Bong Joon-ho,2019,257591776.0,133,85.15,TMDB,10000+ ratings,Drama
+10,The Dark Knight,Christopher Nolan,2008,1004558444.0,152,85.09,TMDB,25000+ ratings,Drama
+10,The Dark Knight,Christopher Nolan,2008,1004558444.0,152,85.09,TMDB,25000+ ratings,Action
+10,The Dark Knight,Christopher Nolan,2008,1004558444.0,152,85.09,TMDB,25000+ ratings,Crime
+10,The Dark Knight,Christopher Nolan,2008,1004558444.0,152,85.09,TMDB,25000+ ratings,Thriller
+11,The Green Mile,Frank Darabont,1999,286801374.0,189,85.07999999999998,TMDB,10000+ ratings,Fantasy
+11,The Green Mile,Frank Darabont,1999,286801374.0,189,85.07999999999998,TMDB,10000+ ratings,Drama
+11,The Green Mile,Frank Darabont,1999,286801374.0,189,85.07999999999998,TMDB,10000+ ratings,Crime
+12,Pulp Fiction,Quentin Tarantino,1994,214179088.0,154,84.9,TMDB,25000+ ratings,Thriller
+12,Pulp Fiction,Quentin Tarantino,1994,214179088.0,154,84.9,TMDB,25000+ ratings,Crime
+13,"The Good, the Bad and the Ugly",Sergio Leone,1966,25253888.0,161,84.81,TMDB,5000+ ratings,Western
+14,Forrest Gump,Robert Zemeckis,1994,677387716.0,142,84.80000000000001,TMDB,10000+ ratings,Comedy
+14,Forrest Gump,Robert Zemeckis,1994,677387716.0,142,84.80000000000001,TMDB,10000+ ratings,Drama
+14,Forrest Gump,Robert Zemeckis,1994,677387716.0,142,84.80000000000001,TMDB,10000+ ratings,Romance
+15,"The Boy, the Mole, the Fox and the Horse","['Peter Baynton', 'Charlie Mackesy']",2022,,34,84.77000000000001,TMDB,250+ ratings,Animation
+15,"The Boy, the Mole, the Fox and the Horse","['Peter Baynton', 'Charlie Mackesy']",2022,,34,84.77000000000001,TMDB,250+ ratings,Family
+15,"The Boy, the Mole, the Fox and the Horse","['Peter Baynton', 'Charlie Mackesy']",2022,,34,84.77000000000001,TMDB,250+ ratings,Adventure
+15,"The Boy, the Mole, the Fox and the Horse","['Peter Baynton', 'Charlie Mackesy']",2022,,34,84.77000000000001,TMDB,250+ ratings,Fantasy
+16,The Lord of the Rings: The Return of the King,Peter Jackson,2003,1118888979.0,201,84.75,TMDB,10000+ ratings,Adventure
+16,The Lord of the Rings: The Return of the King,Peter Jackson,2003,1118888979.0,201,84.75,TMDB,10000+ ratings,Fantasy
+16,The Lord of the Rings: The Return of the King,Peter Jackson,2003,1118888979.0,201,84.75,TMDB,10000+ ratings,Action
+17,GoodFellas,Martin Scorsese,1990,46835000.0,145,84.67,TMDB,10000+ ratings,Drama
+17,GoodFellas,Martin Scorsese,1990,46835000.0,145,84.67,TMDB,10000+ ratings,Crime
+18,Dou kyu sei – Classmates,Shouko Nakamura,2016,,61,84.66,TMDB,250+ ratings,Romance
+18,Dou kyu sei – Classmates,Shouko Nakamura,2016,,61,84.66,TMDB,250+ ratings,Animation
+19,Primal: Tales of Savagery,Genndy Tartakovsky,2019,,85,84.64,TMDB,250+ ratings,Action
+19,Primal: Tales of Savagery,Genndy Tartakovsky,2019,,85,84.64,TMDB,250+ ratings,Adventure
+19,Primal: Tales of Savagery,Genndy Tartakovsky,2019,,85,84.64,TMDB,250+ ratings,Animation
+19,Primal: Tales of Savagery,Genndy Tartakovsky,2019,,85,84.64,TMDB,250+ ratings,Drama
+20,Seven Samurai,Akira Kurosawa,1954,346300.0,207,84.62,TMDB,2500+ ratings,Action
+20,Seven Samurai,Akira Kurosawa,1954,346300.0,207,84.62,TMDB,2500+ ratings,Drama
+21,Gabriel's Inferno,Tosca Musk,2020,,122,84.57000000000001,TMDB,1000+ ratings,Romance
+22,Cinema Paradiso,Giuseppe Tornatore,1988,11990401.0,124,84.57000000000001,TMDB,2500+ ratings,Drama
+22,Cinema Paradiso,Giuseppe Tornatore,1988,11990401.0,124,84.57000000000001,TMDB,2500+ ratings,Romance
+23,Life Is Beautiful,Roberto Benigni,1997,230098753.0,116,84.55,TMDB,10000+ ratings,Comedy
+23,Life Is Beautiful,Roberto Benigni,1997,230098753.0,116,84.55,TMDB,10000+ ratings,Drama
+24,Grave of the Fireflies,Isao Takahata,1988,516962.0,89,84.49,TMDB,2500+ ratings,Animation
+24,Grave of the Fireflies,Isao Takahata,1988,516962.0,89,84.49,TMDB,2500+ ratings,Drama
+24,Grave of the Fireflies,Isao Takahata,1988,516962.0,89,84.49,TMDB,2500+ ratings,War
+25,Psycho,Alfred Hitchcock,1960,,109,84.45,TMDB,5000+ ratings,Horror
+25,Psycho,Alfred Hitchcock,1960,,109,84.45,TMDB,5000+ ratings,Drama
+25,Psycho,Alfred Hitchcock,1960,,109,84.45,TMDB,5000+ ratings,Thriller
+26,Once Upon a Time in America,Sergio Leone,1984,5472914.0,229,84.45,TMDB,2500+ ratings,Drama
+26,Once Upon a Time in America,Sergio Leone,1984,5472914.0,229,84.45,TMDB,2500+ ratings,Crime
+27,Gabriel's Inferno: Part II,Tosca Musk,2020,,105,84.36999999999999,TMDB,1000+ ratings,Romance
+28,Fight Club,David Fincher,1999,100853753.0,139,84.33999999999999,TMDB,25000+ ratings,Drama
+28,Fight Club,David Fincher,1999,100853753.0,139,84.33999999999999,TMDB,25000+ ratings,Thriller
+28,Fight Club,David Fincher,1999,100853753.0,139,84.33999999999999,TMDB,25000+ ratings,Comedy
+29,Impossible Things,Ernesto Contreras,2021,,88,84.24,TMDB,250+ ratings,Family
+29,Impossible Things,Ernesto Contreras,2021,,88,84.24,TMDB,250+ ratings,Drama
+30,The Legend of Hei,MTJJ,2019,48045728.0,102,84.24,TMDB,250+ ratings,Animation
+30,The Legend of Hei,MTJJ,2019,48045728.0,102,84.24,TMDB,250+ ratings,Fantasy
+30,The Legend of Hei,MTJJ,2019,48045728.0,102,84.24,TMDB,250+ ratings,Action
+31,One Flew Over the Cuckoo's Nest,Miloš Forman,1975,108981275.0,133,84.23,TMDB,5000+ ratings,Drama
+32,City of God,Fernando Meirelles,2002,30641770.0,130,84.22,TMDB,5000+ ratings,Drama
+32,City of God,Fernando Meirelles,2002,30641770.0,130,84.22,TMDB,5000+ ratings,Crime
+33,The Quintessential Quintuplets Movie,Masato Jimbo,2022,17288993.0,136,84.0,TMDB,250+ ratings,Animation
+33,The Quintessential Quintuplets Movie,Masato Jimbo,2022,17288993.0,136,84.0,TMDB,250+ ratings,Comedy
+33,The Quintessential Quintuplets Movie,Masato Jimbo,2022,17288993.0,136,84.0,TMDB,250+ ratings,Romance
+34,Gabriel's Inferno: Part III,Tosca Musk,2020,,105,84.2,TMDB,1000+ ratings,Romance
+34,Gabriel's Inferno: Part III,Tosca Musk,2020,,105,84.2,TMDB,1000+ ratings,Comedy
+35,Harakiri,Masaki Kobayashi,1962,,135,84.17,TMDB,500+ ratings,Action
+35,Harakiri,Masaki Kobayashi,1962,,135,84.17,TMDB,500+ ratings,Drama
+35,Harakiri,Masaki Kobayashi,1962,,135,84.17,TMDB,500+ ratings,History
+36,Spider-Man: Into the Spider-Verse,"['Rodney Rothman', 'Peter Ramsey', 'Bob Persichetti']",2018,375464627.0,117,84.06,TMDB,10000+ ratings,Action
+36,Spider-Man: Into the Spider-Verse,"['Rodney Rothman', 'Peter Ramsey', 'Bob Persichetti']",2018,375464627.0,117,84.06,TMDB,10000+ ratings,Adventure
+36,Spider-Man: Into the Spider-Verse,"['Rodney Rothman', 'Peter Ramsey', 'Bob Persichetti']",2018,375464627.0,117,84.06,TMDB,10000+ ratings,Animation
+36,Spider-Man: Into the Spider-Verse,"['Rodney Rothman', 'Peter Ramsey', 'Bob Persichetti']",2018,375464627.0,117,84.06,TMDB,10000+ ratings,Sci-Fi
+37,Howl's Moving Castle,Hayao Miyazaki,2004,236049757.0,119,84.06,TMDB,5000+ ratings,Fantasy
+37,Howl's Moving Castle,Hayao Miyazaki,2004,236049757.0,119,84.06,TMDB,5000+ ratings,Animation
+37,Howl's Moving Castle,Hayao Miyazaki,2004,236049757.0,119,84.06,TMDB,5000+ ratings,Adventure
+38,Interstellar,Christopher Nolan,2014,701729206.0,169,84.02,TMDB,25000+ ratings,Adventure
+38,Interstellar,Christopher Nolan,2014,701729206.0,169,84.02,TMDB,25000+ ratings,Drama
+38,Interstellar,Christopher Nolan,2014,701729206.0,169,84.02,TMDB,25000+ ratings,Sci-Fi
+39,A Silent Voice: The Movie,Naoko Yamada,2016,30156463.0,130,83.97999999999999,TMDB,2500+ ratings,Animation
+39,A Silent Voice: The Movie,Naoko Yamada,2016,30156463.0,130,83.97999999999999,TMDB,2500+ ratings,Drama
+40,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,871368364.0,179,83.97999999999999,TMDB,10000+ ratings,Adventure
+40,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,871368364.0,179,83.97999999999999,TMDB,10000+ ratings,Fantasy
+40,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,871368364.0,179,83.97999999999999,TMDB,10000+ ratings,Action
+41,The Empire Strikes Back,Irvin Kershner,1980,538400000.0,124,83.91999999999999,TMDB,10000+ ratings,Adventure
+41,The Empire Strikes Back,Irvin Kershner,1980,538400000.0,124,83.91999999999999,TMDB,10000+ ratings,Action
+41,The Empire Strikes Back,Irvin Kershner,1980,538400000.0,124,83.91999999999999,TMDB,10000+ ratings,Sci-Fi
+42,Hotarubi no Mori e,Takahiro Omori,2011,,45,83.91,TMDB,500+ ratings,Romance
+42,Hotarubi no Mori e,Takahiro Omori,2011,,45,83.91,TMDB,500+ ratings,Animation
+42,Hotarubi no Mori e,Takahiro Omori,2011,,45,83.91,TMDB,500+ ratings,Fantasy
+43,A Dog's Will,Guel Arraes,2000,4903192.0,104,83.85,TMDB,500+ ratings,Comedy
+43,A Dog's Will,Guel Arraes,2000,4903192.0,104,83.85,TMDB,500+ ratings,Drama
+43,A Dog's Will,Guel Arraes,2000,4903192.0,104,83.85,TMDB,500+ ratings,Fantasy
+44,The Pianist,Roman Polanski,2002,120072577.0,150,83.82999999999998,TMDB,5000+ ratings,Drama
+44,The Pianist,Roman Polanski,2002,120072577.0,150,83.82999999999998,TMDB,5000+ ratings,War
+45,The Lord of the Rings: The Two Towers,Peter Jackson,2002,926287400.0,179,83.78999999999999,TMDB,10000+ ratings,Adventure
+45,The Lord of the Rings: The Two Towers,Peter Jackson,2002,926287400.0,179,83.78999999999999,TMDB,10000+ ratings,Fantasy
+45,The Lord of the Rings: The Two Towers,Peter Jackson,2002,926287400.0,179,83.78999999999999,TMDB,10000+ ratings,Action
+46,Whiplash,Damien Chazelle,2014,13092000.0,107,83.78,TMDB,10000+ ratings,Drama
+46,Whiplash,Damien Chazelle,2014,13092000.0,107,83.78,TMDB,10000+ ratings,Music
+47,Se7en,David Fincher,1995,327311859.0,127,83.66,TMDB,10000+ ratings,Crime
+47,Se7en,David Fincher,1995,327311859.0,127,83.66,TMDB,10000+ ratings,Mystery
+47,Se7en,David Fincher,1995,327311859.0,127,83.66,TMDB,10000+ ratings,Thriller
+48,Inception,Christopher Nolan,2010,825532764.0,148,83.63,TMDB,25000+ ratings,Action
+48,Inception,Christopher Nolan,2010,825532764.0,148,83.63,TMDB,25000+ ratings,Sci-Fi
+48,Inception,Christopher Nolan,2010,825532764.0,148,83.63,TMDB,25000+ ratings,Adventure
+49,Hope,Lee Joon-ik,2013,,122,83.62,TMDB,500+ ratings,Drama
+50,Neon Genesis Evangelion: The End of Evangelion,"['Hideaki Anno', 'Kazuya Tsurumaki']",1997,20000000.0,87,83.6,TMDB,1000+ ratings,Animation
+50,Neon Genesis Evangelion: The End of Evangelion,"['Hideaki Anno', 'Kazuya Tsurumaki']",1997,20000000.0,87,83.6,TMDB,1000+ ratings,Sci-Fi
+50,Neon Genesis Evangelion: The End of Evangelion,"['Hideaki Anno', 'Kazuya Tsurumaki']",1997,20000000.0,87,83.6,TMDB,1000+ ratings,Action
+51,Sunset Boulevard,Billy Wilder,1950,5000000.0,110,84.0,TMDB,1000+ ratings,Drama
+52,Rear Window,Alfred Hitchcock,1954,37034514.0,112,83.6,TMDB,5000+ ratings,Thriller
+52,Rear Window,Alfred Hitchcock,1954,37034514.0,112,83.6,TMDB,5000+ ratings,Mystery
+53,"Josee, the Tiger and the Fish",Kotaro Tamura,2020,,98,83.59,TMDB,250+ ratings,Animation
+53,"Josee, the Tiger and the Fish",Kotaro Tamura,2020,,98,83.59,TMDB,250+ ratings,Drama
+53,"Josee, the Tiger and the Fish",Kotaro Tamura,2020,,98,83.59,TMDB,250+ ratings,Romance
+54,American History X,Tony Kaye,1998,23875127.0,119,83.53999999999999,TMDB,10000+ ratings,Drama
+55,Taylor Swift: Reputation Stadium Tour,Paul Dugdale,2018,,125,83.49000000000001,TMDB,250+ ratings,Music
+56,Ikiru,Akira Kurosawa,1952,55240.0,143,83.49000000000001,TMDB,500+ ratings,Drama
+57,The Great Dictator,Charlie Chaplin,1940,11000000.0,125,83.47,TMDB,2500+ ratings,Comedy
+57,The Great Dictator,Charlie Chaplin,1940,11000000.0,125,83.47,TMDB,2500+ ratings,War
+58,The Silence of the Lambs,Jonathan Demme,1991,272742922.0,119,83.44,TMDB,10000+ ratings,Crime
+58,The Silence of the Lambs,Jonathan Demme,1991,272742922.0,119,83.44,TMDB,10000+ ratings,Drama
+58,The Silence of the Lambs,Jonathan Demme,1991,272742922.0,119,83.44,TMDB,10000+ ratings,Thriller
+59,Princess Mononoke,Hayao Miyazaki,1997,159414369.0,134,83.42,TMDB,5000+ ratings,Adventure
+59,Princess Mononoke,Hayao Miyazaki,1997,159414369.0,134,83.42,TMDB,5000+ ratings,Fantasy
+59,Princess Mononoke,Hayao Miyazaki,1997,159414369.0,134,83.42,TMDB,5000+ ratings,Animation
+60,20th Century Girl,Bang Woo-ri,2022,,119,83.0,TMDB,250+ ratings,Romance
+60,20th Century Girl,Bang Woo-ri,2022,,119,83.0,TMDB,250+ ratings,Drama
+61,Violet Evergarden: The Movie,Taichi Ishidate,2020,20339624.0,140,83.38,TMDB,250+ ratings,Animation
+61,Violet Evergarden: The Movie,Taichi Ishidate,2020,20339624.0,140,83.38,TMDB,250+ ratings,Fantasy
+61,Violet Evergarden: The Movie,Taichi Ishidate,2020,20339624.0,140,83.38,TMDB,250+ ratings,Romance
+61,Violet Evergarden: The Movie,Taichi Ishidate,2020,20339624.0,140,83.38,TMDB,250+ ratings,Drama
+62,City Lights,Charlie Chaplin,1931,4250000.0,87,83.37,TMDB,1000+ ratings,Comedy
+62,City Lights,Charlie Chaplin,1931,4250000.0,87,83.37,TMDB,1000+ ratings,Romance
+62,City Lights,Charlie Chaplin,1931,4250000.0,87,83.37,TMDB,1000+ ratings,Drama
+63,High and Low,Akira Kurosawa,1963,,142,83.0,TMDB,500+ ratings,Crime
+63,High and Low,Akira Kurosawa,1963,,142,83.0,TMDB,500+ ratings,Drama
+63,High and Low,Akira Kurosawa,1963,,142,83.0,TMDB,500+ ratings,Mystery
+63,High and Low,Akira Kurosawa,1963,,142,83.0,TMDB,500+ ratings,Thriller
+64,Léon: The Professional,Luc Besson,1994,45284974.0,111,83.22,TMDB,10000+ ratings,Crime
+64,Léon: The Professional,Luc Besson,1994,45284974.0,111,83.22,TMDB,10000+ ratings,Drama
+64,Léon: The Professional,Luc Besson,1994,45284974.0,111,83.22,TMDB,10000+ ratings,Action
+65,Dedicated to my ex,Jorge Ulloa,2019,1315376.0,94,83.17,TMDB,250+ ratings,Drama
+65,Dedicated to my ex,Jorge Ulloa,2019,1315376.0,94,83.17,TMDB,250+ ratings,Comedy
+66,Dead Poets Society,Peter Weir,1989,235860116.0,128,83.16000000000001,TMDB,5000+ ratings,Drama
+67,Back to the Future,Robert Zemeckis,1985,381109762.0,116,83.13000000000001,TMDB,10000+ ratings,Adventure
+67,Back to the Future,Robert Zemeckis,1985,381109762.0,116,83.13000000000001,TMDB,10000+ ratings,Comedy
+67,Back to the Future,Robert Zemeckis,1985,381109762.0,116,83.13000000000001,TMDB,10000+ ratings,Sci-Fi
+68,Clouds,Justin Baldoni,2020,,121,83.07000000000001,TMDB,500+ ratings,Music
+68,Clouds,Justin Baldoni,2020,,121,83.07000000000001,TMDB,500+ ratings,Drama
+68,Clouds,Justin Baldoni,2020,,121,83.07000000000001,TMDB,500+ ratings,Romance
+69,Woman in the Dunes,Hiroshi Teshigahara,1964,,147,83.0,TMDB,250+ ratings,Drama
+69,Woman in the Dunes,Hiroshi Teshigahara,1964,,147,83.0,TMDB,250+ ratings,Thriller
+70,Modern Times,Charlie Chaplin,1936,,87,83.04,TMDB,2500+ ratings,Comedy
+70,Modern Times,Charlie Chaplin,1936,,87,83.04,TMDB,2500+ ratings,Drama
+71,Five Feet Apart,Justin Baldoni,2019,92600000.0,116,83.01,TMDB,5000+ ratings,Romance
+71,Five Feet Apart,Justin Baldoni,2019,92600000.0,116,83.01,TMDB,5000+ ratings,Drama
+72,The Shop Around the Corner,Ernst Lubitsch,1940,,99,83.0,TMDB,500+ ratings,Comedy
+72,The Shop Around the Corner,Ernst Lubitsch,1940,,99,83.0,TMDB,500+ ratings,Drama
+72,The Shop Around the Corner,Ernst Lubitsch,1940,,99,83.0,TMDB,500+ ratings,Romance
+73,Life in a Year,Mitja Okorn,2020,,107,82.98,TMDB,1000+ ratings,Drama
+73,Life in a Year,Mitja Okorn,2020,,107,82.98,TMDB,1000+ ratings,Romance
+74,BTS World Tour: Love Yourself in Seoul,Son Sung-deuk,2019,,113,82.97,TMDB,250+ ratings,Music
+75,Come and See,Elem Klimov,1985,168817.0,142,82.97,TMDB,1000+ ratings,Drama
+75,Come and See,Elem Klimov,1985,168817.0,142,82.97,TMDB,1000+ ratings,War
+76,Once Upon a Time in the West,Sergio Leone,1968,5380118.0,166,82.95,TMDB,2500+ ratings,Drama
+76,Once Upon a Time in the West,Sergio Leone,1968,5380118.0,166,82.95,TMDB,2500+ ratings,Western
+77,Puss in Boots: The Last Wish,Joel Crawford,2022,480000000.0,103,82.94,TMDB,5000+ ratings,Animation
+77,Puss in Boots: The Last Wish,Joel Crawford,2022,480000000.0,103,82.94,TMDB,5000+ ratings,Family
+77,Puss in Boots: The Last Wish,Joel Crawford,2022,480000000.0,103,82.94,TMDB,5000+ ratings,Fantasy
+77,Puss in Boots: The Last Wish,Joel Crawford,2022,480000000.0,103,82.94,TMDB,5000+ ratings,Adventure
+77,Puss in Boots: The Last Wish,Joel Crawford,2022,480000000.0,103,82.94,TMDB,5000+ ratings,Comedy
+78,Evangelion: 3.0+1.0 Thrice Upon a Time,Hideaki Anno,2021,92300000.0,155,82.94,TMDB,500+ ratings,Animation
+78,Evangelion: 3.0+1.0 Thrice Upon a Time,Hideaki Anno,2021,92300000.0,155,82.94,TMDB,500+ ratings,Action
+78,Evangelion: 3.0+1.0 Thrice Upon a Time,Hideaki Anno,2021,92300000.0,155,82.94,TMDB,500+ ratings,Sci-Fi
+78,Evangelion: 3.0+1.0 Thrice Upon a Time,Hideaki Anno,2021,92300000.0,155,82.94,TMDB,500+ ratings,Drama
+79,Top Gun: Maverick,Joseph Kosinski,2022,1488732821.0,131,82.91,TMDB,5000+ ratings,Action
+79,Top Gun: Maverick,Joseph Kosinski,2022,1488732821.0,131,82.91,TMDB,5000+ ratings,Drama
+80,Perfect Blue,Satoshi Kon,1997,112536.0,81,82.87,TMDB,1000+ ratings,Animation
+80,Perfect Blue,Satoshi Kon,1997,112536.0,81,82.87,TMDB,1000+ ratings,Thriller
+81,Wolfwalkers,"['Tomm Moore', 'Ross Stewart']",2020,1266570.0,103,82.85,TMDB,500+ ratings,Animation
+81,Wolfwalkers,"['Tomm Moore', 'Ross Stewart']",2020,1266570.0,103,82.85,TMDB,500+ ratings,Family
+81,Wolfwalkers,"['Tomm Moore', 'Ross Stewart']",2020,1266570.0,103,82.85,TMDB,500+ ratings,Adventure
+81,Wolfwalkers,"['Tomm Moore', 'Ross Stewart']",2020,1266570.0,103,82.85,TMDB,500+ ratings,Fantasy
+82,Green Snake,Amp Wong,2021,87212911.0,131,82.83,TMDB,100+ ratings,Animation
+82,Green Snake,Amp Wong,2021,87212911.0,131,82.83,TMDB,100+ ratings,Fantasy
+82,Green Snake,Amp Wong,2021,87212911.0,131,82.83,TMDB,100+ ratings,Action
+82,Green Snake,Amp Wong,2021,87212911.0,131,82.83,TMDB,100+ ratings,Adventure
+83,Given,Hikaru Yamaguchi,2020,,60,82.83,TMDB,250+ ratings,Animation
+83,Given,Hikaru Yamaguchi,2020,,60,82.83,TMDB,250+ ratings,Drama
+83,Given,Hikaru Yamaguchi,2020,,60,82.83,TMDB,250+ ratings,Music
+83,Given,Hikaru Yamaguchi,2020,,60,82.83,TMDB,250+ ratings,Romance
+84,Le Trou,Jacques Becker,1960,33187.0,132,82.82,TMDB,250+ ratings,Crime
+84,Le Trou,Jacques Becker,1960,33187.0,132,82.82,TMDB,250+ ratings,Drama
+84,Le Trou,Jacques Becker,1960,33187.0,132,82.82,TMDB,250+ ratings,Thriller
+84,Le Trou,Jacques Becker,1960,33187.0,132,82.82,TMDB,250+ ratings,History
+85,Apocalypse Now,Francis Ford Coppola,1979,150000000.0,147,82.81,TMDB,5000+ ratings,Drama
+85,Apocalypse Now,Francis Ford Coppola,1979,150000000.0,147,82.81,TMDB,5000+ ratings,War
+86,Miracle in Cell No. 7,Mehmet Ada Öztekin,2019,19289062.0,132,82.78999999999999,TMDB,2500+ ratings,Drama
+87,Justice League Dark: Apokolips War,"['Matt Peters', 'Christina Sotta']",2020,,90,82.78,TMDB,1000+ ratings,Animation
+87,Justice League Dark: Apokolips War,"['Matt Peters', 'Christina Sotta']",2020,,90,82.78,TMDB,1000+ ratings,Action
+87,Justice League Dark: Apokolips War,"['Matt Peters', 'Christina Sotta']",2020,,90,82.78,TMDB,1000+ ratings,Sci-Fi
+88,The Legend of 1900,Giuseppe Tornatore,1998,21057208.0,170,82.78,TMDB,1000+ ratings,Drama
+88,The Legend of 1900,Giuseppe Tornatore,1998,21057208.0,170,82.78,TMDB,1000+ ratings,Music
+88,The Legend of 1900,Giuseppe Tornatore,1998,21057208.0,170,82.78,TMDB,1000+ ratings,Romance
+89,Paths of Glory,Stanley Kubrick,1957,,88,82.77,TMDB,1000+ ratings,Drama
+89,Paths of Glory,Stanley Kubrick,1957,,88,82.77,TMDB,1000+ ratings,War
+90,The Intouchables,"['Éric Toledano', 'Olivier Nakache']",2011,426588510.0,113,82.75,TMDB,10000+ ratings,Drama
+90,The Intouchables,"['Éric Toledano', 'Olivier Nakache']",2011,426588510.0,113,82.75,TMDB,10000+ ratings,Comedy
+91,A Brighter Summer Day,Edward Yang,1991,,237,82.74,TMDB,250+ ratings,Crime
+91,A Brighter Summer Day,Edward Yang,1991,,237,82.74,TMDB,250+ ratings,Drama
+91,A Brighter Summer Day,Edward Yang,1991,,237,82.74,TMDB,250+ ratings,Romance
+92,Steven Universe: The Movie,Rebecca Sugar,2019,,82,82.69999999999999,TMDB,500+ ratings,TV Movie
+92,Steven Universe: The Movie,Rebecca Sugar,2019,,82,82.69999999999999,TMDB,500+ ratings,Animation
+92,Steven Universe: The Movie,Rebecca Sugar,2019,,82,82.69999999999999,TMDB,500+ ratings,Sci-Fi
+92,Steven Universe: The Movie,Rebecca Sugar,2019,,82,82.69999999999999,TMDB,500+ ratings,Action
+92,Steven Universe: The Movie,Rebecca Sugar,2019,,82,82.69999999999999,TMDB,500+ ratings,Adventure
+92,Steven Universe: The Movie,Rebecca Sugar,2019,,82,82.69999999999999,TMDB,500+ ratings,Comedy
+92,Steven Universe: The Movie,Rebecca Sugar,2019,,82,82.69999999999999,TMDB,500+ ratings,Drama
+92,Steven Universe: The Movie,Rebecca Sugar,2019,,82,82.69999999999999,TMDB,500+ ratings,Fantasy
+92,Steven Universe: The Movie,Rebecca Sugar,2019,,82,82.69999999999999,TMDB,500+ ratings,Music
+93,Oldboy,Park Chan-wook,2003,15194593.0,120,82.69999999999999,TMDB,5000+ ratings,Drama
+93,Oldboy,Park Chan-wook,2003,15194593.0,120,82.69999999999999,TMDB,5000+ ratings,Thriller
+93,Oldboy,Park Chan-wook,2003,15194593.0,120,82.69999999999999,TMDB,5000+ ratings,Mystery
+93,Oldboy,Park Chan-wook,2003,15194593.0,120,82.69999999999999,TMDB,5000+ ratings,Action
+94,Mommy,Xavier Dolan,2014,3494070.0,138,82.68,TMDB,1000+ ratings,Drama
+95,Avengers: Endgame,"['Anthony Russo', 'Joe Russo']",2019,2794731755.0,181,82.65,TMDB,10000+ ratings,Adventure
+95,Avengers: Endgame,"['Anthony Russo', 'Joe Russo']",2019,2794731755.0,181,82.65,TMDB,10000+ ratings,Sci-Fi
+95,Avengers: Endgame,"['Anthony Russo', 'Joe Russo']",2019,2794731755.0,181,82.65,TMDB,10000+ ratings,Action
+96,Avengers: Infinity War,"['Anthony Russo', 'Joe Russo']",2018,2046239637.0,149,82.60999999999999,TMDB,25000+ ratings,Adventure
+96,Avengers: Infinity War,"['Anthony Russo', 'Joe Russo']",2018,2046239637.0,149,82.60999999999999,TMDB,25000+ ratings,Action
+96,Avengers: Infinity War,"['Anthony Russo', 'Joe Russo']",2018,2046239637.0,149,82.60999999999999,TMDB,25000+ ratings,Sci-Fi
+97,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,Haruo Sotozaki,2020,503063688.0,117,82.6,TMDB,2500+ ratings,Animation
+97,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,Haruo Sotozaki,2020,503063688.0,117,82.6,TMDB,2500+ ratings,Action
+97,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,Haruo Sotozaki,2020,503063688.0,117,82.6,TMDB,2500+ ratings,Adventure
+97,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,Haruo Sotozaki,2020,503063688.0,117,82.6,TMDB,2500+ ratings,Fantasy
+97,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,Haruo Sotozaki,2020,503063688.0,117,82.6,TMDB,2500+ ratings,Thriller
+98,The Lion King,"['Roger Allers', 'Rob Minkoff']",1994,763455561.0,89,82.59,TMDB,10000+ ratings,Family
+98,The Lion King,"['Roger Allers', 'Rob Minkoff']",1994,763455561.0,89,82.59,TMDB,10000+ ratings,Animation
+98,The Lion King,"['Roger Allers', 'Rob Minkoff']",1994,763455561.0,89,82.59,TMDB,10000+ ratings,Drama
+99,It's a Wonderful Life,Frank Capra,1946,9644124.0,130,82.59,TMDB,2500+ ratings,Drama
+99,It's a Wonderful Life,Frank Capra,1946,9644124.0,130,82.59,TMDB,2500+ ratings,Family
+99,It's a Wonderful Life,Frank Capra,1946,9644124.0,130,82.59,TMDB,2500+ ratings,Fantasy
+100,Klaus,Sergio Pablos,2019,,96,82.57999999999998,TMDB,2500+ ratings,Animation
+100,Klaus,Sergio Pablos,2019,,96,82.57999999999998,TMDB,2500+ ratings,Family
+100,Klaus,Sergio Pablos,2019,,96,82.57999999999998,TMDB,2500+ ratings,Adventure
+100,Klaus,Sergio Pablos,2019,,96,82.57999999999998,TMDB,2500+ ratings,Comedy
+100,Klaus,Sergio Pablos,2019,,96,82.57999999999998,TMDB,2500+ ratings,Fantasy
+101,We All Loved Each Other So Much,Ettore Scola,1974,,124,82.46000000000001,TMDB,250+ ratings,Drama
+101,We All Loved Each Other So Much,Ettore Scola,1974,,124,82.46000000000001,TMDB,250+ ratings,Comedy
+102,Persona,Ingmar Bergman,1966,,83,82.46000000000001,TMDB,1000+ ratings,Drama
+103,I Want to Eat Your Pancreas,Shinichiro Ushijima,2018,33748006.0,108,82.44,TMDB,1000+ ratings,Animation
+103,I Want to Eat Your Pancreas,Shinichiro Ushijima,2018,33748006.0,108,82.44,TMDB,1000+ ratings,Drama
+103,I Want to Eat Your Pancreas,Shinichiro Ushijima,2018,33748006.0,108,82.44,TMDB,1000+ ratings,Romance
+104,The Handmaiden,Park Chan-wook,2016,38600000.0,145,82.44,TMDB,2500+ ratings,Thriller
+104,The Handmaiden,Park Chan-wook,2016,38600000.0,145,82.44,TMDB,2500+ ratings,Drama
+104,The Handmaiden,Park Chan-wook,2016,38600000.0,145,82.44,TMDB,2500+ ratings,Romance
+105,Green Book,Peter Farrelly,2018,319700000.0,130,82.4,TMDB,10000+ ratings,Drama
+105,Green Book,Peter Farrelly,2018,319700000.0,130,82.4,TMDB,10000+ ratings,Comedy
+106,Wolf Children,Mamoru Hosoda,2012,55060661.0,117,82.37,TMDB,1000+ ratings,Animation
+106,Wolf Children,Mamoru Hosoda,2012,55060661.0,117,82.37,TMDB,1000+ ratings,Family
+106,Wolf Children,Mamoru Hosoda,2012,55060661.0,117,82.37,TMDB,1000+ ratings,Drama
+106,Wolf Children,Mamoru Hosoda,2012,55060661.0,117,82.37,TMDB,1000+ ratings,Fantasy
+106,Wolf Children,Mamoru Hosoda,2012,55060661.0,117,82.37,TMDB,1000+ ratings,Adventure
+107,Il Sorpasso,Dino Risi,1962,,105,82.0,TMDB,500+ ratings,Drama
+107,Il Sorpasso,Dino Risi,1962,,105,82.0,TMDB,500+ ratings,Comedy
+108,Rascal Does Not Dream of a Dreaming Girl,Souichi Masui,2019,,90,82.33000000000001,TMDB,250+ ratings,Animation
+108,Rascal Does Not Dream of a Dreaming Girl,Souichi Masui,2019,,90,82.33000000000001,TMDB,250+ ratings,Comedy
+108,Rascal Does Not Dream of a Dreaming Girl,Souichi Masui,2019,,90,82.33000000000001,TMDB,250+ ratings,Romance
+108,Rascal Does Not Dream of a Dreaming Girl,Souichi Masui,2019,,90,82.33000000000001,TMDB,250+ ratings,Drama
+108,Rascal Does Not Dream of a Dreaming Girl,Souichi Masui,2019,,90,82.33000000000001,TMDB,250+ ratings,Fantasy
+109,Hamilton,Thomas Kail,2020,,160,82.31,TMDB,1000+ ratings,History
+109,Hamilton,Thomas Kail,2020,,160,82.31,TMDB,1000+ ratings,Drama
+110,Better Days,Derek Tsang,2019,225879065.0,135,82.30000000000001,TMDB,250+ ratings,Drama
+111,Bicycle Thieves,Vittorio De Sica,1948,436655.0,89,82.30000000000001,TMDB,1000+ ratings,Drama
+112,Witness for the Prosecution,Billy Wilder,1957,9000000.0,116,82.28999999999999,TMDB,1000+ ratings,Drama
+112,Witness for the Prosecution,Billy Wilder,1957,9000000.0,116,82.28999999999999,TMDB,1000+ ratings,Mystery
+112,Witness for the Prosecution,Billy Wilder,1957,9000000.0,116,82.28999999999999,TMDB,1000+ ratings,Crime
+113,Coco,Lee Unkrich,2017,800526015.0,105,82.27000000000001,TMDB,10000+ ratings,Family
+113,Coco,Lee Unkrich,2017,800526015.0,105,82.27000000000001,TMDB,10000+ ratings,Animation
+113,Coco,Lee Unkrich,2017,800526015.0,105,82.27000000000001,TMDB,10000+ ratings,Fantasy
+113,Coco,Lee Unkrich,2017,800526015.0,105,82.27000000000001,TMDB,10000+ ratings,Music
+113,Coco,Lee Unkrich,2017,800526015.0,105,82.27000000000001,TMDB,10000+ ratings,Comedy
+113,Coco,Lee Unkrich,2017,800526015.0,105,82.27000000000001,TMDB,10000+ ratings,Adventure
+114,The Apartment,Billy Wilder,1960,25000000.0,125,82.25,TMDB,1000+ ratings,Comedy
+114,The Apartment,Billy Wilder,1960,25000000.0,125,82.25,TMDB,1000+ ratings,Drama
+114,The Apartment,Billy Wilder,1960,25000000.0,125,82.25,TMDB,1000+ ratings,Romance
+115,The Art of Racing in the Rain,Simon Curtis,2019,33766787.0,109,82.24000000000001,TMDB,1000+ ratings,Drama
+115,The Art of Racing in the Rain,Simon Curtis,2019,33766787.0,109,82.24000000000001,TMDB,1000+ ratings,Romance
+115,The Art of Racing in the Rain,Simon Curtis,2019,33766787.0,109,82.24000000000001,TMDB,1000+ ratings,Comedy
+116,Guillermo del Toro's Pinocchio,"['Guillermo del Toro', 'Mark Gustafson']",2022,,117,82.22,TMDB,1000+ ratings,Animation
+116,Guillermo del Toro's Pinocchio,"['Guillermo del Toro', 'Mark Gustafson']",2022,,117,82.22,TMDB,1000+ ratings,Fantasy
+116,Guillermo del Toro's Pinocchio,"['Guillermo del Toro', 'Mark Gustafson']",2022,,117,82.22,TMDB,1000+ ratings,Drama
+116,Guillermo del Toro's Pinocchio,"['Guillermo del Toro', 'Mark Gustafson']",2022,,117,82.22,TMDB,1000+ ratings,Music
+117,Tokyo Story,Yasujirō Ozu,1953,,137,82.22,TMDB,500+ ratings,Drama
+118,The Shining,Stanley Kubrick,1980,44781695.0,144,82.22,TMDB,10000+ ratings,Horror
+118,The Shining,Stanley Kubrick,1980,44781695.0,144,82.22,TMDB,10000+ ratings,Thriller
+119,A Clockwork Orange,Stanley Kubrick,1971,26589000.0,137,82.18,TMDB,10000+ ratings,Sci-Fi
+119,A Clockwork Orange,Stanley Kubrick,1971,26589000.0,137,82.18,TMDB,10000+ ratings,Drama
+120,Satantango,Béla Tarr,1994,,432,82.0,TMDB,100+ ratings,Drama
+121,Violet Evergarden: Eternity and the Auto Memory Doll,Haruka Fujita,2019,10841702.0,91,82.15,TMDB,250+ ratings,Drama
+121,Violet Evergarden: Eternity and the Auto Memory Doll,Haruka Fujita,2019,10841702.0,91,82.15,TMDB,250+ ratings,Fantasy
+121,Violet Evergarden: Eternity and the Auto Memory Doll,Haruka Fujita,2019,10841702.0,91,82.15,TMDB,250+ ratings,Animation
+122,Inglourious Basterds,Quentin Tarantino,2009,321457747.0,153,82.15,TMDB,10000+ ratings,Drama
+122,Inglourious Basterds,Quentin Tarantino,2009,321457747.0,153,82.15,TMDB,10000+ ratings,Thriller
+122,Inglourious Basterds,Quentin Tarantino,2009,321457747.0,153,82.15,TMDB,10000+ ratings,War
+123,The Seventh Seal,Ingmar Bergman,1957,,96,82.14,TMDB,2500+ ratings,Fantasy
+123,The Seventh Seal,Ingmar Bergman,1957,,96,82.14,TMDB,2500+ ratings,Drama
+124,Saving Private Ryan,Steven Spielberg,1998,481840909.0,169,82.09,TMDB,10000+ ratings,Drama
+124,Saving Private Ryan,Steven Spielberg,1998,481840909.0,169,82.09,TMDB,10000+ ratings,History
+124,Saving Private Ryan,Steven Spielberg,1998,481840909.0,169,82.09,TMDB,10000+ ratings,War
+125,Zack Snyder's Justice League,Zack Snyder,2021,,242,82.09,TMDB,5000+ ratings,Action
+125,Zack Snyder's Justice League,Zack Snyder,2021,,242,82.09,TMDB,5000+ ratings,Adventure
+125,Zack Snyder's Justice League,Zack Snyder,2021,,242,82.09,TMDB,5000+ ratings,Fantasy
+126,Along with the Gods: The Last 49 Days,Kim Yong-hwa,2018,112790210.0,141,82.0,TMDB,250+ ratings,Fantasy
+126,Along with the Gods: The Last 49 Days,Kim Yong-hwa,2018,112790210.0,141,82.0,TMDB,250+ ratings,Action
+126,Along with the Gods: The Last 49 Days,Kim Yong-hwa,2018,112790210.0,141,82.0,TMDB,250+ ratings,Thriller
+126,Along with the Gods: The Last 49 Days,Kim Yong-hwa,2018,112790210.0,141,82.0,TMDB,250+ ratings,Adventure
+127,The Kid,Charlie Chaplin,1921,2500000.0,68,82.08,TMDB,1000+ ratings,Comedy
+127,The Kid,Charlie Chaplin,1921,2500000.0,68,82.08,TMDB,1000+ ratings,Drama
+128,Star Wars,George Lucas,1977,775398007.0,121,82.07000000000001,TMDB,10000+ ratings,Adventure
+128,Star Wars,George Lucas,1977,775398007.0,121,82.07000000000001,TMDB,10000+ ratings,Action
+128,Star Wars,George Lucas,1977,775398007.0,121,82.07000000000001,TMDB,10000+ ratings,Sci-Fi
+129,Gladiator,Ridley Scott,2000,465361176.0,155,82.06,TMDB,10000+ ratings,Action
+129,Gladiator,Ridley Scott,2000,465361176.0,155,82.06,TMDB,10000+ ratings,Drama
+129,Gladiator,Ridley Scott,2000,465361176.0,155,82.06,TMDB,10000+ ratings,Adventure
+130,My Hero Academia: Heroes Rising,Kenji Nagasaki,2019,29900850.0,104,82.05,TMDB,1000+ ratings,Animation
+130,My Hero Academia: Heroes Rising,Kenji Nagasaki,2019,29900850.0,104,82.05,TMDB,1000+ ratings,Action
+130,My Hero Academia: Heroes Rising,Kenji Nagasaki,2019,29900850.0,104,82.05,TMDB,1000+ ratings,Fantasy
+130,My Hero Academia: Heroes Rising,Kenji Nagasaki,2019,29900850.0,104,82.05,TMDB,1000+ ratings,Adventure
+131,"Miraculous World: New York, United HeroeZ",Thomas Astruc,2020,,62,82.04,TMDB,500+ ratings,Animation
+131,"Miraculous World: New York, United HeroeZ",Thomas Astruc,2020,,62,82.04,TMDB,500+ ratings,TV Movie
+131,"Miraculous World: New York, United HeroeZ",Thomas Astruc,2020,,62,82.04,TMDB,500+ ratings,Fantasy
+131,"Miraculous World: New York, United HeroeZ",Thomas Astruc,2020,,62,82.04,TMDB,500+ ratings,Action
+132,The Matrix,"['Lilly Wachowski', 'Lana Wachowski']",1999,463517383.0,136,82.03,TMDB,10000+ ratings,Action
+132,The Matrix,"['Lilly Wachowski', 'Lana Wachowski']",1999,463517383.0,136,82.03,TMDB,10000+ ratings,Sci-Fi
+133,Legend Quest: The Origin,Ricardo Arnaiz,2021,,90,82.02,TMDB,100+ ratings,Animation
+133,Legend Quest: The Origin,Ricardo Arnaiz,2021,,90,82.02,TMDB,100+ ratings,Comedy
+133,Legend Quest: The Origin,Ricardo Arnaiz,2021,,90,82.02,TMDB,100+ ratings,Fantasy
+133,Legend Quest: The Origin,Ricardo Arnaiz,2021,,90,82.02,TMDB,100+ ratings,Adventure
+133,Legend Quest: The Origin,Ricardo Arnaiz,2021,,90,82.02,TMDB,100+ ratings,Family
+134,Doctor Who: The Day of the Doctor,Nick Hurran,2013,10000000.0,77,82.01,TMDB,500+ ratings,Sci-Fi
+134,Doctor Who: The Day of the Doctor,Nick Hurran,2013,10000000.0,77,82.01,TMDB,500+ ratings,Adventure
+135,The Prestige,Christopher Nolan,2006,109676311.0,130,82.01,TMDB,10000+ ratings,Drama
+135,The Prestige,Christopher Nolan,2006,109676311.0,130,82.01,TMDB,10000+ ratings,Mystery
+135,The Prestige,Christopher Nolan,2006,109676311.0,130,82.01,TMDB,10000+ ratings,Sci-Fi
+136,Stalker,Andrei Tarkovsky,1979,,162,81.99,TMDB,1000+ ratings,Sci-Fi
+136,Stalker,Andrei Tarkovsky,1979,,162,81.99,TMDB,1000+ ratings,Drama
+137,The Usual Suspects,Bryan Singer,1995,23341568.0,106,81.98,TMDB,5000+ ratings,Drama
+137,The Usual Suspects,Bryan Singer,1995,23341568.0,106,81.98,TMDB,5000+ ratings,Crime
+137,The Usual Suspects,Bryan Singer,1995,23341568.0,106,81.98,TMDB,5000+ ratings,Thriller
+138,Shutter Island,Martin Scorsese,2010,294800000.0,138,81.97,TMDB,10000+ ratings,Drama
+138,Shutter Island,Martin Scorsese,2010,294800000.0,138,81.97,TMDB,10000+ ratings,Thriller
+138,Shutter Island,Martin Scorsese,2010,294800000.0,138,81.97,TMDB,10000+ ratings,Mystery
+139,"Simone, The Journey of the Century",Olivier Dahan,2021,,140,81.96,TMDB,100+ ratings,Drama
+139,"Simone, The Journey of the Century",Olivier Dahan,2021,,140,81.96,TMDB,100+ ratings,History
+140,The Help,Tate Taylor,2011,216639112.0,146,81.96,TMDB,5000+ ratings,Drama
+141,Maquia: When the Promised Flower Blooms,Mari Okada,2018,4300000.0,115,82.0,TMDB,500+ ratings,Animation
+141,Maquia: When the Promised Flower Blooms,Mari Okada,2018,4300000.0,115,82.0,TMDB,500+ ratings,Fantasy
+141,Maquia: When the Promised Flower Blooms,Mari Okada,2018,4300000.0,115,82.0,TMDB,500+ ratings,Drama
+142,8½,Federico Fellini,1963,,139,81.94000000000001,TMDB,1000+ ratings,Fantasy
+142,8½,Federico Fellini,1963,,139,81.94000000000001,TMDB,1000+ ratings,Drama
+143,Purple Hearts,Elizabeth Allen Rosenbaum,2022,,122,82.0,TMDB,1000+ ratings,Romance
+143,Purple Hearts,Elizabeth Allen Rosenbaum,2022,,122,82.0,TMDB,1000+ ratings,Drama
+144,Hacksaw Ridge,Mel Gibson,2016,175302354.0,139,81.91000000000001,TMDB,10000+ ratings,Drama
+144,Hacksaw Ridge,Mel Gibson,2016,175302354.0,139,81.91000000000001,TMDB,10000+ ratings,History
+144,Hacksaw Ridge,Mel Gibson,2016,175302354.0,139,81.91000000000001,TMDB,10000+ ratings,War
+145,Vertigo,Alfred Hitchcock,1958,7797728.0,128,81.91000000000001,TMDB,5000+ ratings,Mystery
+145,Vertigo,Alfred Hitchcock,1958,7797728.0,128,81.91000000000001,TMDB,5000+ ratings,Romance
+145,Vertigo,Alfred Hitchcock,1958,7797728.0,128,81.91000000000001,TMDB,5000+ ratings,Thriller
+146,Jujutsu Kaisen 0,Sunghoo Park,2021,195870885.0,105,81.89999999999999,TMDB,500+ ratings,Animation
+146,Jujutsu Kaisen 0,Sunghoo Park,2021,195870885.0,105,81.89999999999999,TMDB,500+ ratings,Action
+146,Jujutsu Kaisen 0,Sunghoo Park,2021,195870885.0,105,81.89999999999999,TMDB,500+ ratings,Fantasy
+147,Investigation of a Citizen Above Suspicion,Elio Petri,1970,,111,81.89999999999999,TMDB,500+ ratings,Drama
+147,Investigation of a Citizen Above Suspicion,Elio Petri,1970,,111,81.89999999999999,TMDB,500+ ratings,Thriller
+148,Memento,Christopher Nolan,2000,39723096.0,113,81.89999999999999,TMDB,10000+ ratings,Mystery
+148,Memento,Christopher Nolan,2000,39723096.0,113,81.89999999999999,TMDB,10000+ ratings,Thriller
+149,Scenes from a Marriage,Ingmar Bergman,1974,,169,81.89,TMDB,250+ ratings,Drama
+149,Scenes from a Marriage,Ingmar Bergman,1974,,169,81.89,TMDB,250+ ratings,Romance
+150,Children of Paradise,Marcel Carné,1945,1457.0,191,81.89,TMDB,250+ ratings,Drama
+150,Children of Paradise,Marcel Carné,1945,1457.0,191,81.89,TMDB,250+ ratings,Romance
+151,Mortal Kombat Legends: Scorpion's Revenge,Ethan Spaulding,2020,,80,81.83999999999999,TMDB,1000+ ratings,Animation
+151,Mortal Kombat Legends: Scorpion's Revenge,Ethan Spaulding,2020,,80,81.83999999999999,TMDB,1000+ ratings,Action
+151,Mortal Kombat Legends: Scorpion's Revenge,Ethan Spaulding,2020,,80,81.83999999999999,TMDB,1000+ ratings,Fantasy
+152,Portrait of a Lady on Fire,Céline Sciamma,2019,9923127.0,120,81.83999999999999,TMDB,1000+ ratings,Drama
+152,Portrait of a Lady on Fire,Céline Sciamma,2019,9923127.0,120,81.83999999999999,TMDB,1000+ ratings,Romance
+153,Abraham Lincoln Vampire Hunter: The Great Calamity,Javier Soto,2012,,7,81.83999999999999,TMDB,100+ ratings,Horror
+153,Abraham Lincoln Vampire Hunter: The Great Calamity,Javier Soto,2012,,7,81.83999999999999,TMDB,100+ ratings,Animation
+153,Abraham Lincoln Vampire Hunter: The Great Calamity,Javier Soto,2012,,7,81.83999999999999,TMDB,100+ ratings,Fantasy
+154,Sansho the Bailiff,Kenji Mizoguchi,1954,,124,81.83999999999999,TMDB,250+ ratings,Drama
+155,Capernaum,Nadine Labaki,2018,64978931.0,126,81.76,TMDB,1000+ ratings,Drama
+156,The Hate U Give,"George Tillman, Jr.",2018,34934009.0,133,82.0,TMDB,1000+ ratings,Crime
+156,The Hate U Give,"George Tillman, Jr.",2018,34934009.0,133,82.0,TMDB,1000+ ratings,Drama
+157,Out of the Clear Blue Sky,Pepe Bojórquez,2019,,112,81.75,TMDB,250+ ratings,Comedy
+157,Out of the Clear Blue Sky,Pepe Bojórquez,2019,,112,81.75,TMDB,250+ ratings,Drama
+157,Out of the Clear Blue Sky,Pepe Bojórquez,2019,,112,81.75,TMDB,250+ ratings,Music
+158,Casablanca,Michael Curtiz,1942,10462500.0,102,81.73,TMDB,2500+ ratings,Drama
+158,Casablanca,Michael Curtiz,1942,10462500.0,102,81.73,TMDB,2500+ ratings,Romance
+159,Call Me by Your Name,Luca Guadagnino,2017,43143046.0,132,81.72,TMDB,10000+ ratings,Romance
+159,Call Me by Your Name,Luca Guadagnino,2017,43143046.0,132,81.72,TMDB,10000+ ratings,Drama
+160,Bo Burnham: Inside,Bo Burnham,2021,,87,81.71,TMDB,250+ ratings,Comedy
+160,Bo Burnham: Inside,Bo Burnham,2021,,87,81.71,TMDB,250+ ratings,Drama
+161,Joker,Todd Phillips,2019,1074458282.0,122,81.71,TMDB,10000+ ratings,Crime
+161,Joker,Todd Phillips,2019,1074458282.0,122,81.71,TMDB,10000+ ratings,Thriller
+161,Joker,Todd Phillips,2019,1074458282.0,122,81.71,TMDB,10000+ ratings,Drama
+162,Piper,Alan Barillaro,2016,,6,81.71,TMDB,1000+ ratings,Family
+162,Piper,Alan Barillaro,2016,,6,81.71,TMDB,1000+ ratings,Animation
+163,My Mom is a Character 3,Susana Garcia,2019,39273021.0,111,81.67999999999999,TMDB,250+ ratings,Comedy
+164,Singin' in the Rain,"['Stanley Donen', 'Gene Kelly']",1952,7200000.0,103,81.66,TMDB,2500+ ratings,Comedy
+164,Singin' in the Rain,"['Stanley Donen', 'Gene Kelly']",1952,7200000.0,103,81.66,TMDB,2500+ ratings,Music
+164,Singin' in the Rain,"['Stanley Donen', 'Gene Kelly']",1952,7200000.0,103,81.66,TMDB,2500+ ratings,Romance
+164,Singin' in the Rain,"['Stanley Donen', 'Gene Kelly']",1952,7200000.0,103,81.66,TMDB,2500+ ratings,Drama
+165,Django Unchained,Quentin Tarantino,2012,425368238.0,165,81.64999999999999,TMDB,10000+ ratings,Drama
+165,Django Unchained,Quentin Tarantino,2012,425368238.0,165,81.64999999999999,TMDB,10000+ ratings,Western
+166,The Departed,Martin Scorsese,2006,291465000.0,151,81.64999999999999,TMDB,10000+ ratings,Drama
+166,The Departed,Martin Scorsese,2006,291465000.0,151,81.64999999999999,TMDB,10000+ ratings,Thriller
+166,The Departed,Martin Scorsese,2006,291465000.0,151,81.64999999999999,TMDB,10000+ ratings,Crime
+167,Scarface,Brian De Palma,1983,66023329.0,169,81.64999999999999,TMDB,10000+ ratings,Action
+167,Scarface,Brian De Palma,1983,66023329.0,169,81.64999999999999,TMDB,10000+ ratings,Crime
+167,Scarface,Brian De Palma,1983,66023329.0,169,81.64999999999999,TMDB,10000+ ratings,Drama
+168,Taxi Driver,Martin Scorsese,1976,28600000.0,114,81.64999999999999,TMDB,10000+ ratings,Crime
+168,Taxi Driver,Martin Scorsese,1976,28600000.0,114,81.64999999999999,TMDB,10000+ ratings,Drama
+169,Michael Jackson's Thriller,John Landis,1983,,13,81.64,TMDB,500+ ratings,Horror
+169,Michael Jackson's Thriller,John Landis,1983,,13,81.64,TMDB,500+ ratings,Music
+170,Togo,Ericson Core,2019,,113,81.62,TMDB,1000+ ratings,Adventure
+170,Togo,Ericson Core,2019,,113,81.62,TMDB,1000+ ratings,Family
+171,Wonder,Stephen Chbosky,2017,305937718.0,113,81.62,TMDB,5000+ ratings,Drama
+171,Wonder,Stephen Chbosky,2017,305937718.0,113,81.62,TMDB,5000+ ratings,Family
+172,Metropolis,Fritz Lang,1927,650422.0,149,81.61,TMDB,1000+ ratings,Drama
+172,Metropolis,Fritz Lang,1927,650422.0,149,81.61,TMDB,1000+ ratings,Sci-Fi
+173,Soul,Pete Docter,2020,136384442.0,101,81.57,TMDB,5000+ ratings,Animation
+173,Soul,Pete Docter,2020,136384442.0,101,81.57,TMDB,5000+ ratings,Family
+173,Soul,Pete Docter,2020,136384442.0,101,81.57,TMDB,5000+ ratings,Comedy
+173,Soul,Pete Docter,2020,136384442.0,101,81.57,TMDB,5000+ ratings,Fantasy
+173,Soul,Pete Docter,2020,136384442.0,101,81.57,TMDB,5000+ ratings,Drama
+174,All About Eve,Joseph L. Mankiewicz,1950,8400000.0,139,82.0,TMDB,1000+ ratings,Drama
+175,Central Station,Walter Salles,1998,5596708.0,110,81.52,TMDB,500+ ratings,Drama
+176,KONOSUBA – God's blessing on this wonderful world! Legend of Crimson,Takaomi Kanasaki,2019,,90,81.49,TMDB,250+ ratings,Animation
+176,KONOSUBA – God's blessing on this wonderful world! Legend of Crimson,Takaomi Kanasaki,2019,,90,81.49,TMDB,250+ ratings,Adventure
+176,KONOSUBA – God's blessing on this wonderful world! Legend of Crimson,Takaomi Kanasaki,2019,,90,81.49,TMDB,250+ ratings,Comedy
+176,KONOSUBA – God's blessing on this wonderful world! Legend of Crimson,Takaomi Kanasaki,2019,,90,81.49,TMDB,250+ ratings,Fantasy
+177,My Friends,Mario Monicelli,1975,,140,81.0,TMDB,500+ ratings,Comedy
+178,The Father,Florian Zeller,2020,21029340.0,96,81.47999999999999,TMDB,2500+ ratings,Drama
+179,Innocent Voices,Luis Mandoki,2005,837000.0,120,81.47999999999999,TMDB,250+ ratings,Drama
+179,Innocent Voices,Luis Mandoki,2005,837000.0,120,81.47999999999999,TMDB,250+ ratings,War
+180,Double Indemnity,Billy Wilder,1944,2500000.0,107,81.47,TMDB,1000+ ratings,Crime
+180,Double Indemnity,Billy Wilder,1944,2500000.0,107,81.47,TMDB,1000+ ratings,Drama
+180,Double Indemnity,Billy Wilder,1944,2500000.0,107,81.47,TMDB,1000+ ratings,Mystery
+180,Double Indemnity,Billy Wilder,1944,2500000.0,107,81.47,TMDB,1000+ ratings,Thriller
+181,Good Will Hunting,Gus Van Sant,1997,225933435.0,127,81.46000000000001,TMDB,10000+ ratings,Drama
+182,Yojimbo,Akira Kurosawa,1961,,110,81.44999999999999,TMDB,1000+ ratings,Drama
+182,Yojimbo,Akira Kurosawa,1961,,110,81.44999999999999,TMDB,1000+ ratings,Thriller
+183,Wild Strawberries,Ingmar Bergman,1957,,91,81.44,TMDB,1000+ ratings,Drama
+184,Alien,Ridley Scott,1979,104931801.0,117,81.41999999999999,TMDB,10000+ ratings,Horror
+184,Alien,Ridley Scott,1979,104931801.0,117,81.41999999999999,TMDB,10000+ ratings,Sci-Fi
+185,La Dolce Vita,Federico Fellini,1960,19647000.0,176,81.41,TMDB,1000+ ratings,Comedy
+185,La Dolce Vita,Federico Fellini,1960,19647000.0,176,81.41,TMDB,1000+ ratings,Drama
+186,Reservoir Dogs,Quentin Tarantino,1992,2859750.0,99,81.4,TMDB,10000+ ratings,Crime
+186,Reservoir Dogs,Quentin Tarantino,1992,2859750.0,99,81.4,TMDB,10000+ ratings,Thriller
+187,The Great War,Mario Monicelli,1959,,130,81.38999999999999,TMDB,250+ ratings,Drama
+187,The Great War,Mario Monicelli,1959,,130,81.38999999999999,TMDB,250+ ratings,Comedy
+187,The Great War,Mario Monicelli,1959,,130,81.38999999999999,TMDB,250+ ratings,War
+188,Full Metal Jacket,Stanley Kubrick,1987,46357676.0,117,81.38999999999999,TMDB,5000+ ratings,Drama
+188,Full Metal Jacket,Stanley Kubrick,1987,46357676.0,117,81.38999999999999,TMDB,5000+ ratings,War
+189,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,1964,9523464.0,95,81.37,TMDB,2500+ ratings,Drama
+189,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,1964,9523464.0,95,81.37,TMDB,2500+ ratings,Comedy
+189,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,1964,9523464.0,95,81.37,TMDB,2500+ ratings,War
+190,Believe Me: The Abduction of Lisa McVey,Jim Donovan,2021,,98,81.35999999999999,TMDB,250+ ratings,Drama
+190,Believe Me: The Abduction of Lisa McVey,Jim Donovan,2021,,98,81.35999999999999,TMDB,250+ ratings,TV Movie
+191,Rashomon,Akira Kurosawa,1950,96568.0,88,81.35,TMDB,1000+ ratings,Crime
+191,Rashomon,Akira Kurosawa,1950,96568.0,88,81.35,TMDB,1000+ ratings,Drama
+191,Rashomon,Akira Kurosawa,1950,96568.0,88,81.35,TMDB,1000+ ratings,Mystery
+192,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998,28356188.0,105,81.32,TMDB,5000+ ratings,Comedy
+192,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998,28356188.0,105,81.32,TMDB,5000+ ratings,Crime
+193,Me Against You: Mr. S's Vendetta,Gianluca Leuzzi,2020,9500000.0,64,81.31,TMDB,250+ ratings,Family
+193,Me Against You: Mr. S's Vendetta,Gianluca Leuzzi,2020,9500000.0,64,81.31,TMDB,250+ ratings,Fantasy
+194,The Truman Show,Peter Weir,1998,264118201.0,103,81.30000000000001,TMDB,10000+ ratings,Comedy
+194,The Truman Show,Peter Weir,1998,264118201.0,103,81.30000000000001,TMDB,10000+ ratings,Drama
+195,Far from the Tree,Natalie Nourigat,2021,,7,81.28,TMDB,250+ ratings,Animation
+195,Far from the Tree,Natalie Nourigat,2021,,7,81.28,TMDB,250+ ratings,Family
+196,Ayla: The Daughter of War,Can Ulkay,2017,,125,81.27000000000001,TMDB,250+ ratings,Drama
+196,Ayla: The Daughter of War,Can Ulkay,2017,,125,81.27000000000001,TMDB,250+ ratings,War
+196,Ayla: The Daughter of War,Can Ulkay,2017,,125,81.27000000000001,TMDB,250+ ratings,History
+197,Guardians of the Galaxy Vol. 3,James Gunn,2023,663801000.0,150,81.25,TMDB,1000+ ratings,Sci-Fi
+197,Guardians of the Galaxy Vol. 3,James Gunn,2023,663801000.0,150,81.25,TMDB,1000+ ratings,Adventure
+197,Guardians of the Galaxy Vol. 3,James Gunn,2023,663801000.0,150,81.25,TMDB,1000+ ratings,Action
+198,Sherlock Jr.,Buster Keaton,1924,,45,81.25,TMDB,500+ ratings,Action
+198,Sherlock Jr.,Buster Keaton,1924,,45,81.25,TMDB,500+ ratings,Comedy
+198,Sherlock Jr.,Buster Keaton,1924,,45,81.25,TMDB,500+ ratings,Mystery
+199,The Invisible Guest,Oriol Paulo,2017,30000000.0,107,81.24000000000001,TMDB,2500+ ratings,Drama
+199,The Invisible Guest,Oriol Paulo,2017,30000000.0,107,81.24000000000001,TMDB,2500+ ratings,Mystery
+199,The Invisible Guest,Oriol Paulo,2017,30000000.0,107,81.24000000000001,TMDB,2500+ ratings,Thriller
+200,Prayers for Bobby,Russell Mulcahy,2009,,90,81.22999999999999,TMDB,500+ ratings,Drama
+200,Prayers for Bobby,Russell Mulcahy,2009,,90,81.22999999999999,TMDB,500+ ratings,History
+200,Prayers for Bobby,Russell Mulcahy,2009,,90,81.22999999999999,TMDB,500+ ratings,TV Movie
+201,Andrei Rublev,Andrei Tarkovsky,1966,,205,81.22,TMDB,500+ ratings,Drama
+201,Andrei Rublev,Andrei Tarkovsky,1966,,205,81.22,TMDB,500+ ratings,History
+202,In the Mood for Love,Wong Kar-wai,2000,14204632.0,99,81.19,TMDB,1000+ ratings,Drama
+202,In the Mood for Love,Wong Kar-wai,2000,14204632.0,99,81.19,TMDB,1000+ ratings,Romance
+203,Some Like It Hot,Billy Wilder,1959,25000000.0,122,81.19,TMDB,2500+ ratings,Comedy
+203,Some Like It Hot,Billy Wilder,1959,25000000.0,122,81.19,TMDB,2500+ ratings,Music
+203,Some Like It Hot,Billy Wilder,1959,25000000.0,122,81.19,TMDB,2500+ ratings,Romance
+203,Some Like It Hot,Billy Wilder,1959,25000000.0,122,81.19,TMDB,2500+ ratings,Crime
+204,Bo Burnham: Make Happy,"['Bo Burnham', 'Christopher Storer']",2016,,60,81.18,TMDB,250+ ratings,Comedy
+204,Bo Burnham: Make Happy,"['Bo Burnham', 'Christopher Storer']",2016,,60,81.18,TMDB,250+ ratings,Music
+205,Scooby-Doo! and KISS: Rock and Roll Mystery,"['Tony Cervone', 'Spike Brandt']",2015,,79,81.16,TMDB,250+ ratings,Family
+205,Scooby-Doo! and KISS: Rock and Roll Mystery,"['Tony Cervone', 'Spike Brandt']",2015,,79,81.16,TMDB,250+ ratings,Animation
+205,Scooby-Doo! and KISS: Rock and Roll Mystery,"['Tony Cervone', 'Spike Brandt']",2015,,79,81.16,TMDB,250+ ratings,Comedy
+205,Scooby-Doo! and KISS: Rock and Roll Mystery,"['Tony Cervone', 'Spike Brandt']",2015,,79,81.16,TMDB,250+ ratings,Mystery
+206,Bound by Honor,Taylor Hackford,1993,,190,81.15,TMDB,1000+ ratings,Crime
+206,Bound by Honor,Taylor Hackford,1993,,190,81.15,TMDB,1000+ ratings,Action
+206,Bound by Honor,Taylor Hackford,1993,,190,81.15,TMDB,1000+ ratings,Drama
+206,Bound by Honor,Taylor Hackford,1993,,190,81.15,TMDB,1000+ ratings,Thriller
+207,Silenced,Hwang Dong-hyuk,2011,31500000.0,125,81.14000000000001,TMDB,250+ ratings,Drama
+208,Along with the Gods: The Two Worlds,Kim Yong-hwa,2017,125983972.0,139,81.13,TMDB,500+ ratings,Action
+208,Along with the Gods: The Two Worlds,Kim Yong-hwa,2017,125983972.0,139,81.13,TMDB,500+ ratings,Adventure
+208,Along with the Gods: The Two Worlds,Kim Yong-hwa,2017,125983972.0,139,81.13,TMDB,500+ ratings,Fantasy
+208,Along with the Gods: The Two Worlds,Kim Yong-hwa,2017,125983972.0,139,81.13,TMDB,500+ ratings,Thriller
+209,Big Deal on Madonna Street,Mario Monicelli,1958,,106,81.13,TMDB,500+ ratings,Comedy
+209,Big Deal on Madonna Street,Mario Monicelli,1958,,106,81.13,TMDB,500+ ratings,Crime
+210,I corti,Arturo Brachetti,1996,,120,81.12,TMDB,250+ ratings,Comedy
+211,Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,1341511219.0,130,81.11000000000001,TMDB,10000+ ratings,Fantasy
+211,Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,1341511219.0,130,81.11000000000001,TMDB,10000+ ratings,Adventure
+212,Red Beard,Akira Kurosawa,1965,,185,81.11000000000001,TMDB,250+ ratings,Drama
+213,Anne of Green Gables,Kevin Sullivan,1985,,199,81.0,TMDB,100+ ratings,Family
+213,Anne of Green Gables,Kevin Sullivan,1985,,199,81.0,TMDB,100+ ratings,Drama
+214,Black Beauty,Ashley Avis,2020,,110,81.06,TMDB,250+ ratings,Drama
+215,The Tale of The Princess Kaguya,Isao Takahata,2013,24366656.0,137,81.06,TMDB,1000+ ratings,Animation
+215,The Tale of The Princess Kaguya,Isao Takahata,2013,24366656.0,137,81.06,TMDB,1000+ ratings,Drama
+215,The Tale of The Princess Kaguya,Isao Takahata,2013,24366656.0,137,81.06,TMDB,1000+ ratings,Fantasy
+216,M,Fritz Lang,1931,,109,81.0,TMDB,1000+ ratings,Drama
+216,M,Fritz Lang,1931,,109,81.0,TMDB,1000+ ratings,Action
+216,M,Fritz Lang,1931,,109,81.0,TMDB,1000+ ratings,Thriller
+216,M,Fritz Lang,1931,,109,81.0,TMDB,1000+ ratings,Crime
+217,"Paris, Texas",Wim Wenders,1984,2181987.0,145,81.0,TMDB,1000+ ratings,Drama
+218,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,72258126.0,108,81.0,TMDB,10000+ ratings,Sci-Fi
+218,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,72258126.0,108,81.0,TMDB,10000+ ratings,Drama
+218,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,72258126.0,108,81.0,TMDB,10000+ ratings,Romance
+219,Terminator 2: Judgment Day,James Cameron,1991,520000000.0,137,80.96000000000001,TMDB,10000+ ratings,Action
+219,Terminator 2: Judgment Day,James Cameron,1991,520000000.0,137,80.96000000000001,TMDB,10000+ ratings,Thriller
+219,Terminator 2: Judgment Day,James Cameron,1991,520000000.0,137,80.96000000000001,TMDB,10000+ ratings,Sci-Fi
+220,The Hunt,Thomas Vinterberg,2012,18309793.0,116,80.95,TMDB,2500+ ratings,Drama
+221,There Will Be Blood,Paul Thomas Anderson,2007,77208711.0,158,81.0,TMDB,5000+ ratings,Drama
+222,Incendies,Denis Villeneuve,2010,6788659.0,131,80.94,TMDB,1000+ ratings,Drama
+222,Incendies,Denis Villeneuve,2010,6788659.0,131,80.94,TMDB,1000+ ratings,War
+222,Incendies,Denis Villeneuve,2010,6788659.0,131,80.94,TMDB,1000+ ratings,Mystery
+223,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,2017,160192031.0,115,80.9,TMDB,5000+ ratings,Crime
+223,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,2017,160192031.0,115,80.9,TMDB,5000+ ratings,Drama
+224,Lion,Garth Davis,2016,140312928.0,118,80.87,TMDB,5000+ ratings,Drama
+225,2001: A Space Odyssey,Stanley Kubrick,1968,71923560.0,149,80.86,TMDB,10000+ ratings,Sci-Fi
+225,2001: A Space Odyssey,Stanley Kubrick,1968,71923560.0,149,80.86,TMDB,10000+ ratings,Mystery
+225,2001: A Space Odyssey,Stanley Kubrick,1968,71923560.0,149,80.86,TMDB,10000+ ratings,Adventure
+226,Pride & Prejudice,Joe Wright,2005,121616555.0,127,80.85000000000001,TMDB,5000+ ratings,Drama
+226,Pride & Prejudice,Joe Wright,2005,121616555.0,127,80.85000000000001,TMDB,5000+ ratings,Romance
+227,How to Train Your Dragon: Homecoming,Tim Johnson,2019,,22,80.79,TMDB,500+ ratings,Animation
+227,How to Train Your Dragon: Homecoming,Tim Johnson,2019,,22,80.79,TMDB,500+ ratings,Fantasy
+227,How to Train Your Dragon: Homecoming,Tim Johnson,2019,,22,80.79,TMDB,500+ ratings,Adventure
+227,How to Train Your Dragon: Homecoming,Tim Johnson,2019,,22,80.79,TMDB,500+ ratings,Action
+227,How to Train Your Dragon: Homecoming,Tim Johnson,2019,,22,80.79,TMDB,500+ ratings,Family
+228,Prisoners,Denis Villeneuve,2013,122126687.0,153,80.81,TMDB,10000+ ratings,Drama
+228,Prisoners,Denis Villeneuve,2013,122126687.0,153,80.81,TMDB,10000+ ratings,Thriller
+228,Prisoners,Denis Villeneuve,2013,122126687.0,153,80.81,TMDB,10000+ ratings,Crime
+229,Hannah Gadsby: Nanette,"['Jon Olb', 'Madeleine Parry']",2018,,69,80.8,TMDB,250+ ratings,Comedy
+230,Das Boot,Wolfgang Petersen,1981,85000000.0,150,80.8,TMDB,1000+ ratings,Drama
+230,Das Boot,Wolfgang Petersen,1981,85000000.0,150,80.8,TMDB,1000+ ratings,History
+230,Das Boot,Wolfgang Petersen,1981,85000000.0,150,80.8,TMDB,1000+ ratings,War
+231,La Haine,Mathieu Kassovitz,1995,15300000.0,98,80.79,TMDB,2500+ ratings,Drama
+232,Cruella,Craig Gillespie,2021,233503234.0,134,80.77,TMDB,5000+ ratings,Comedy
+232,Cruella,Craig Gillespie,2021,233503234.0,134,80.77,TMDB,5000+ ratings,Crime
+233,WALL·E,Andrew Stanton,2008,521311860.0,98,80.76,TMDB,10000+ ratings,Animation
+233,WALL·E,Andrew Stanton,2008,521311860.0,98,80.76,TMDB,10000+ ratings,Family
+233,WALL·E,Andrew Stanton,2008,521311860.0,98,80.76,TMDB,10000+ ratings,Sci-Fi
+234,New Gods: Nezha Reborn,Zhao Ji,2021,,116,80.75,TMDB,250+ ratings,Animation
+234,New Gods: Nezha Reborn,Zhao Ji,2021,,116,80.75,TMDB,250+ ratings,Action
+234,New Gods: Nezha Reborn,Zhao Ji,2021,,116,80.75,TMDB,250+ ratings,Fantasy
+235,Digimon Adventure: Last Evolution Kizuna,Tomohisa Taguchi,2020,24200000.0,94,80.75,TMDB,100+ ratings,Animation
+235,Digimon Adventure: Last Evolution Kizuna,Tomohisa Taguchi,2020,24200000.0,94,80.75,TMDB,100+ ratings,Action
+235,Digimon Adventure: Last Evolution Kizuna,Tomohisa Taguchi,2020,24200000.0,94,80.75,TMDB,100+ ratings,Adventure
+235,Digimon Adventure: Last Evolution Kizuna,Tomohisa Taguchi,2020,24200000.0,94,80.75,TMDB,100+ ratings,Fantasy
+236,The 400 Blows,François Truffaut,1959,,99,80.72,TMDB,1000+ ratings,Drama
+237,Elite Squad,José Padilha,2007,14759148.0,115,80.69000000000001,TMDB,1000+ ratings,Drama
+237,Elite Squad,José Padilha,2007,14759148.0,115,80.69000000000001,TMDB,1000+ ratings,Action
+237,Elite Squad,José Padilha,2007,14759148.0,115,80.69000000000001,TMDB,1000+ ratings,Crime
+238,My Neighbor Totoro,Hayao Miyazaki,1988,45000000.0,86,80.67999999999999,TMDB,5000+ ratings,Fantasy
+238,My Neighbor Totoro,Hayao Miyazaki,1988,45000000.0,86,80.67999999999999,TMDB,5000+ ratings,Animation
+238,My Neighbor Totoro,Hayao Miyazaki,1988,45000000.0,86,80.67999999999999,TMDB,5000+ ratings,Family
+239,Ran,Akira Kurosawa,1985,11859533.0,160,80.67,TMDB,1000+ ratings,Action
+239,Ran,Akira Kurosawa,1985,11859533.0,160,80.67,TMDB,1000+ ratings,Drama
+239,Ran,Akira Kurosawa,1985,11859533.0,160,80.67,TMDB,1000+ ratings,History
+240,"Veinteañera, Divorciada y Fantástica",Noé Santillán-López,2020,,93,80.66000000000001,TMDB,250+ ratings,Comedy
+241,Rocco and His Brothers,Luchino Visconti,1960,,178,80.66000000000001,TMDB,250+ ratings,Crime
+241,Rocco and His Brothers,Luchino Visconti,1960,,178,80.66000000000001,TMDB,250+ ratings,Drama
+241,Rocco and His Brothers,Luchino Visconti,1960,,178,80.66000000000001,TMDB,250+ ratings,Romance
+242,Memories of Murder,Bong Joon-ho,2003,26000000.0,131,80.66000000000001,TMDB,2500+ ratings,Crime
+242,Memories of Murder,Bong Joon-ho,2003,26000000.0,131,80.66000000000001,TMDB,2500+ ratings,Drama
+242,Memories of Murder,Bong Joon-ho,2003,26000000.0,131,80.66000000000001,TMDB,2500+ ratings,Thriller
+243,A Taxi Driver,Jang Hoon,2017,81927980.0,138,80.63000000000001,TMDB,500+ ratings,Action
+243,A Taxi Driver,Jang Hoon,2017,81927980.0,138,80.63000000000001,TMDB,500+ ratings,Drama
+243,A Taxi Driver,Jang Hoon,2017,81927980.0,138,80.63000000000001,TMDB,500+ ratings,History
+244,A Special Day,Ettore Scola,1977,,106,81.0,TMDB,500+ ratings,Drama
+244,A Special Day,Ettore Scola,1977,,106,81.0,TMDB,500+ ratings,Romance
+245,"Toto, Peppino, and the Hussy",Camillo Mastrocinque,1956,,101,80.60000000000001,TMDB,250+ ratings,Comedy
+245,"Toto, Peppino, and the Hussy",Camillo Mastrocinque,1956,,101,80.60000000000001,TMDB,250+ ratings,Romance
+246,The Best of Youth,Marco Tullio Giordana,2003,2693053.0,366,80.60000000000001,TMDB,250+ ratings,Drama
+246,The Best of Youth,Marco Tullio Giordana,2003,2693053.0,366,80.60000000000001,TMDB,250+ ratings,History
+246,The Best of Youth,Marco Tullio Giordana,2003,2693053.0,366,80.60000000000001,TMDB,250+ ratings,Romance
+247,El mesero,Raúl Martínez,2021,,86,80.58999999999999,TMDB,250+ ratings,Comedy
+248,The Elephant Man,David Lynch,1980,26010864.0,124,80.58999999999999,TMDB,2500+ ratings,Drama
+248,The Elephant Man,David Lynch,1980,26010864.0,124,80.58999999999999,TMDB,2500+ ratings,History
+249,Misfit,Orlando Herrera,2021,354068.0,90,81.0,TMDB,100+ ratings,Comedy
+249,Misfit,Orlando Herrera,2021,354068.0,90,81.0,TMDB,100+ ratings,Romance

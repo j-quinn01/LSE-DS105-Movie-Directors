@@ -28,7 +28,8 @@ To make our analysis more advanced and critical, we designed a composite score f
 
   </details>    
 
-## 📊 Data
+<details>
+    <summary><h2>📊 Data</h2></summary>
 
 Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 
@@ -74,7 +75,7 @@ We were able to find a list of the top 1000 movies on IMDb by rating. We then to
 ![Alt text](IMDb_df.png)
 
 
-
+</details>
 
 <details>
     <summary><h2>📈 Analysis & 🖼️ Results</h2></summary>

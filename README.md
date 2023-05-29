@@ -7,5 +7,5 @@
 
 # Jackson's Work
 
--Individual code: md_regressions.ipynb, template-notebook.ipynb
+-Individual code: md_regressions.ipynb, template-notebook.ipynb <br>
 -edited JJ's part of analysis section and added bit about revenue and votes 

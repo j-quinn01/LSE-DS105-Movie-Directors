@@ -248,7 +248,6 @@ We next examined user composite score and see the same pattern of (RT -> TMDB ->
 
 ![Alt_text](_images/s2_comp_user_graph.png)
 
-<br>
 (graph showing composite user score)
 <br>
 <br>

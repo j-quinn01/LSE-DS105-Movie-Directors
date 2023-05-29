@@ -41,7 +41,8 @@ Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 | Cell 7   | Cell 8   |
 
 
-### Wikipedia/ Rotten Tomatoes (RT)
+  <details>
+      <h2>Wikipedia/ Rotten Tomatoes (RT)</h2></summary
 
 For Rotten Tomatoes, our approach was to leverage data from a Wikipedia article featuring films with 100% ratings. We initially gathered a larger pool of 424 films and later refined it to our target 250, keeping in mind that these ratings did not equate to 100% user ratings.
 
@@ -57,6 +58,7 @@ The most significant challenge we encountered with Rotten Tomatoes data was ensu
 
 ![Alt_text](ss_of_merged_data.png)
 
+    </details>
 
 ### TMDB
 

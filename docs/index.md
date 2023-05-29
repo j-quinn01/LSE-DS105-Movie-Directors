@@ -29,16 +29,15 @@ To make our analysis more advanced and critical, we designed a composite score f
 
 Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 
-| Header 1 | Header 2 |
+| Data Source | Challenges |
 | -------- | -------- |
-| Cell 1   | Cell 2   |
-| Cell 3   | Cell 4   |
+| Wikipedia   | Lack of data which forced us to cross-reference another site like Rotten Tomatoes   |
+| Rotten Tomatoes   |  Ensuring homogeneity with other sources as RT has a large international presense, so filtering for just US flims required extra steps  |
 | Cell 5   | Cell 6   |
 | Cell 7   | Cell 8   |
-| Cell 9   | Cell 10  |
 
 
-### Rotten Tomatoes (RT)
+### Wikipedia/ Rotten Tomatoes (RT)
 
 For Rotten Tomatoes, our approach was to leverage data from a Wikipedia article featuring films with 100% ratings. We initially gathered a larger pool of 424 films and later refined it to our target 250, keeping in mind that these ratings did not equate to 100% user ratings.
 

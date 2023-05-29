@@ -206,7 +206,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 
 <br>
 
-![Alt_Text](s2_p3.png)
+![Alt_Text](s2 p3.png)
 
 <br>
 

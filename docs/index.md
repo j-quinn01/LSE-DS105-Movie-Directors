@@ -259,4 +259,4 @@ TMDB API
 <br>
 https://developer.themoviedb.org/docs
         
-        </details>
+</details>

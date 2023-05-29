@@ -45,15 +45,28 @@ We were able to find a list of the top 1000 movies on IMDb by rating. We then to
 
 ![Alt text](IMDb_df.png)
 
-## 📈 Analysis
-The analysis is done by concatenating the dataframes for all sources, and using ggplot to assess different variables, such as the rating distribution of the votes in all 3 sources.
 
-![Alt text](ggplot_code.png)
+
 
 <details>
-    <summary><h2>🖼️ Results</h2></summary>
+    <summary><h2>📈 Analysis & 🖼️ Results</h2></summary>
+    
+  <details>
+      <summary><h2><Section 0: Preliminary analysis (unrelated to later sections)</h2></summary>
+    
+(Our analysis and results section are merged as we felt showing and analyzing each step of our data analysis process for clarity)
+<br>
+Before we begin, we will show a sample of how we created our analysis by using ggplot(shown below).
+    
+![Alt text](ggplot_code.png)
 
-Evidence of biases between directors for TMDB and IMDB. The frequency of directors in Rotten Tomatoes does not exceed 3, whilst directors have appeared up to 7 times in TMDB and IMDB.
+### Now, we will show some preliminary data analysis that are unrelated to sections I, II and III.
+
+<br>
+There seems to be movies from greater variety of directors in RT. The frequency of directors in Rotten Tomatoes does not exceed 3, whilst directors have appeared up to 7 times in TMDB and IMDB.
+          
+  </details>
+
 
 ![Alt text](t10_directors_each_source.png)
 

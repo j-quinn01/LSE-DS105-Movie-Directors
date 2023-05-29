@@ -8,3 +8,4 @@
 # Jackson's Work
 
 -Individual code: md_regressions.ipynb, template-notebook.ipynb
+-edited JJ's part of analysis section and added bit about revenue and votes 

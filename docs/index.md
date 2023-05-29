@@ -146,6 +146,7 @@ There seems to be movies from greater variety of directors in RT. The frequency 
 
 <br>
 
+![Alt_text](avg_rev_sources.png)
 
 
 - Still in part I, we also plotted a graph of the number of top movies by genres so we can see if a source gives "preferential" treatment to those from a different source

@@ -60,6 +60,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 (This bargraph depicts a graph of absolute user ratings over genres from different sources)
 
 <br>
+
 ![Alt_text](rating_boxplots.png)
 
 (The boxplot is depicting the same thing as the bar graph, and both show higher average ratings for RT)

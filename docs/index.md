@@ -39,7 +39,7 @@ Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 | Wikipedia   | Lack of data which forced us to cross-reference another site like Rotten Tomatoes   |
 | Rotten Tomatoes   |  Ensuring homogeneity with other sources as RT has a large international presense, so filtering for just US flims required extra steps  |
 | IMDb   | homogenizing data with the other sources (bracketing votes, putting rating out of 100)   |
-| Cell 7   | Cell 8   |
+| TMDB   | Missing revenue values for several films   |
 
 
   <details>

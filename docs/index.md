@@ -53,6 +53,22 @@ When comparing the number of movies in each source's top 250 movies over the yea
 
 ## 🖋️ Conclusions
 
+- In conclusion, we think there is no strong evidence that there is a preference for a genere within or across genres
+- Examining the graph of absolute user ratings over genres over 3 sources, we see that there is no significant pattern of preference for a single genre (as variations are relatively small) & across sources (no pattern across sources)
+<br>
+- We also plotted a graph showing representation of movies by genre from a essentially random sample
+- While it seems like RT users might have a preference for that Documentary movies, as they are over-represented, the data from absolute user scores and later composite user and composite overall scores suggest otherwise
+
+### - This points to the fact that there is no preference for genres within or across genres
+
+- However, our data shows support for the hypothesis that IMDb and TMDB are more popular compared to RT
+- This is because of three reasons
+    - IMDb and TMDB have, on average, a greater representation of higher grossing flims than RT even as their average release year across sources are similar
+    - IMDb and TMDB have, on average, more voters than RT even as their average absolute user rating is about the same
+    - IMDb and TMDB represent a significantly greater proportion of modern flims compared to RT
+
+### - All these evidences suggest that IMDb and TMDB are more popular sites in modern times than RT. With a greater popularity, more viewers vote (evidence 2), and more viewers review higher grossing flims (evidence 3) than lower ones as higher ones are more popular leading to a higher absolute gap, in the context of the modern era (evidence 3). 
+
 ## 📚 References
 
 Wikipedia: "List of films with a 100% rating on Rotten Tomatoes" https://en.wikipedia.org/wiki/List_of_films_with_a_100%25_rating_on_Rotten_Tomatoes

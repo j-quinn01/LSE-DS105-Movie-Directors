@@ -226,7 +226,7 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 - We also plotted a graph showing representation of movies by genre from a essentially random sample
 - While it seems like RT users might have a preference for that Documentary movies, as they are over-represented, the data from absolute user scores and later composite user and composite overall scores suggest otherwise
 
-#### - This points to the fact that there is no preference for genres within or across genres
+#### This points to the fact that there is no preference for genres within or across genres
 
 - However, our data shows support for the hypothesis that IMDb and TMDB are more popular compared to RT
 - This is because of three reasons

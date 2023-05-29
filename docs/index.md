@@ -61,6 +61,17 @@ Before we begin, we will show a sample of how we created our analysis by using g
 ![Alt text](ggplot_code.png)
 
 ### Now, we will show some preliminary data analysis that are unrelated to sections I, II and III.
+      
+      When doing some other analysis, we produced the following graph. On the x-axis we have the different vote brackets, on the y-axis we have the average revenue of each interval.
+
+![Alt text](revenue_votes.png)
+
+One would think that as the number of votes increase, the revenue would as well because we expect a positive correlation between the number of votes and the number of people who have seen the movie. And so, the more people who have seen a movie, the higher that movie’s revenue. We kind of see this trend in the graph, although there is a huge spike in revenue for the 10,000 and 25,000 votes intervals. We were curious about this, so we looked for outliers. After sorting the concatenated df by revenue, we found this.
+
+![Alt text](outlier_df.png)
+
+Both the 10,000 and 25,000 votes intervals have an Avengers movie with very high revenue relative to other movies, which is pushing the average revenues for these movies higher. 
+
 
 <br>
 There seems to be movies from greater variety of directors in RT. The frequency of directors in Rotten Tomatoes does not exceed 3, whilst directors have appeared up to 7 times in TMDB and IMDB.

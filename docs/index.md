@@ -23,6 +23,8 @@ Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 
 Web-scraping was used from IMDB and a Wikipedia page of a list of movies that scored a 100% critical review score on Rotten Tomatoes, and the TMDB API.
 
+### TMDB
+
 For TMDB, first the API was used to get the top 250 movies and their IDs. The ID was used to get all the key information of an individual film (e.g., revenue, director) in a json requests format. As numerous films in TMDB had missing revenue values, IMDb was used to fill in the missing values where possible (TMDB API also gave the IMDb ID of each film). Most films had multiple genres and some with multiple directors, so the genres and directors for those films were stored in a list. When we wanted to separate the data by genre or director, we used the pandas df.explode() function to do so.
 
 Data was then compiled in a dataframe. The variables used included: (user) rating, director, revenue, users voted, the data source and the year. 

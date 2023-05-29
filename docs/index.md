@@ -197,7 +197,7 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
 <br>
 <br>
--- We then plot a graph of average overall_composite_movie_score over genre with 3 bar graphs for each data source
+-We then plot a graph of average overall_composite_movie_score over genre with 3 bar graphs for each data source
 
 ![Alt text](_images/section_II_absolute_composite_score.png)
 
@@ -212,7 +212,7 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 <br>
 
 
--- We then tried to find out which of the 4 components contributed to this trend by sketching appropriate graphs
+-We then tried to find out which of the 4 components contributed to this trend by sketching appropriate graphs
 - By plotting a graph of average revenue_score over genre with 3 bar graphs for each data source amoung other things, we can see, RT is the lowest, followed by TMDB and IMDB. This matches the earlier pattern, so revenue explains it!
 
 ![Alt_text](_images/section_II_composite_revenue_graph.png)
@@ -245,7 +245,7 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
 ---
 
--- We next examined user composite score and see the same pattern of (RT -> TMDB -> IMDb) for user composite score
+-We next examined user composite score and see the same pattern of (RT -> TMDB -> IMDb) for user composite score
 
 ![Alt_text](_images/s2_comp_user_graph.png)
 

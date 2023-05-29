@@ -58,6 +58,8 @@ Evidence of biases between directors for TMDB and IMDB. The frequency of directo
 ![Alt text](section_I_absolute_user_ratings)
 ![Alt_text](rating_boxplots)
 
+(The boxplot is depicting the same thing as the bar graph, and both show higher average ratings for RT)
+
 - We saw that RT users tend to vote more optimistically compared to IMDb and TMDB on average
 - However, we find no substantial differences/preferences for 1 genre relative to the other within genres by eyeballing the data and seeing how any differences are not consistent across sources, and were minimal fluctuations at best (relative to total ratings)
 

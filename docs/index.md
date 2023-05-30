@@ -141,8 +141,8 @@ Before we begin, we will show a sample of how we created our analysis by using g
 <ul>
 <li>Both the 10,000 and 25,000 votes intervals have an Avengers movie with very high revenue relative to other movies, which is pushing the average revenues for these movies higher.</li>
       </ul>
----
 
+<br>
 <br>
 There seems to be movies from greater variety of directors in RT. The frequency of directors in Rotten Tomatoes does not exceed 3, whilst directors have appeared up to 7 times in TMDB and IMDB.
           
@@ -186,9 +186,10 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
 <br>
 
-
-- Still in part I, we also plotted a graph of the number of top movies by genres so we can see if a source gives "preferential" treatment to those from a different source
-- (For example, maybe IMDb really likes horror movies. If so, then we should see alot more horror movies!)
+Still in part I, we also plotted a graph of the number of top movies by genres so we can see if a source gives "preferential" treatment to those from a different source
+      <ul>
+<li>(For example, maybe IMDb really likes horror movies. If so, then we should see alot more horror movies!)</li>
+      </ul>
 
 
  <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_I_representation_of_movies.png" alt="Flow chart">       
@@ -196,11 +197,13 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
 
 <h4> As we saw from the adjusted graph, there seems to be a HUGE representation of Documentary type movies for just Rotten Tomatoes! </h4>
-- After doing some adjustment, we found that there is there is alot of Drama movies across all sources (most for IMDb and TMDB, and 2nd for RT)
-- Potential inferrence might mean that on average, many people like Drama type movies!
-- However, there might be other confounding variables, like maybe there are just a greater proportion of Drama movies made, so naturally more are highly rated
-- We can also see the RT does not have movies in certain genres like War, Mystery or Music! However, this is due to the fact that there aren't categories for this on RT
-- No clear relationship for other genres
+      <ul>
+<li>After doing some adjustment, we found that there is there is alot of Drama movies across all sources (most for IMDb and TMDB, and 2nd for RT)</li>
+<li>Potential inferrence might mean that on average, many people like Drama type movies!</li>
+<li>However, there might be other confounding variables, like maybe there are just a greater proportion of Drama movies made, so naturally more are highly rated</li>
+<li>We can also see the RT does not have movies in certain genres like War, Mystery or Music! However, this is due to the fact that there aren't categories for this on RT</li>
+<li>No clear relationship for other genres</li>
+      </ul>
 
 
 
@@ -220,18 +223,20 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
           </div>
       </summary>
 
-- First, we began by calculating the overall composite score
+First, we began by calculating the overall composite score
 <br>
 The composite score = function(User composite score, revenue composite score)
-
-- User composite score = function(absolute user rating, number of users)
-- Revenue composite score = function(revenue at time of release, year of release) 
-
-- Hence, composite score consists of 4 components
-    - User score
-    - Number of users who rated
-    - Revenue
-    - Date of release (revenue was scaled up due to inflation)
+<ul>
+<li>User composite score = function(absolute user rating, number of users)</li>
+<li>Revenue composite score = function(revenue at time of release, year of release)</li> 
+      </ul>
+Hence, composite score consists of 4 components
+      <ul>
+    <li>User score</li>
+    <li>Number of users who rated</li>
+    <li>Revenue</li>
+    <li>Date of release (revenue was scaled up due to inflation)</li>
+      </ul>
 
 <br>
 <br>
@@ -239,11 +244,13 @@ We then plot a graph of average overall_composite_movie_score over genre with 3 
 
 <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_absolute_composite_score.png" alt="Flow chart">       
 
-- We again find no clear pattern of composite scores within genres
-- Even the Documentary genre for RT isn't higher than the rest despite over-representation shown earlier
-- This points to other factors causing over-representation besides the hypothesis that RT users like Documentaries
-- **This gives evidence to refute our initial findings in section 1, that there might be a slight preference for Documentary genres within Rotten Tomatoes sources!**
-- However, we find crucial data (indicated in the graph or a more condensed one below) that RT has the lowest average overall score across all genres (data above graph) followed by TMDB and IMDB.
+<ul>      
+<li>We again find no clear pattern of composite scores within genres</li>
+<li>Even the Documentary genre for RT isn't higher than the rest despite over-representation shown earlier</li>
+<li>This points to other factors causing over-representation besides the hypothesis that RT users like Documentaries</li>
+<li> **This gives evidence to refute our initial findings in section 1, that there might be a slight preference for Documentary genres within Rotten Tomatoes sources!** </li>
+<li>However, we find crucial data (indicated in the graph or a more condensed one below) that RT has the lowest average overall score across all genres (data above graph) followed by TMDB and IMDB.</li>
+      </ul>
 
 <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_average_composite_score_mean.png" alt="Flow chart">   
 
@@ -252,7 +259,9 @@ We then plot a graph of average overall_composite_movie_score over genre with 3 
 
 
 We then tried to find out which of the 4 components contributed to this trend by sketching appropriate graphs
-- By plotting a graph of average revenue_score over genre with 3 bar graphs for each data source amoung other things, we can see, RT is the lowest, followed by TMDB and IMDB. This matches the earlier pattern, so revenue explains it!
+      <ul>
+<li>By plotting a graph of average revenue_score over genre with 3 bar graphs for each data source amoung other things, we can see, RT is the lowest, followed by TMDB and IMDB. This matches the earlier pattern, so revenue explains it!</li>
+      </ul>
 
 <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_composite_revenue_graph.png" alt="Flow chart">
 
@@ -268,13 +277,15 @@ We then tried to find out which of the 4 components contributed to this trend by
 
 <br>
 (This mean table gives a simpler version of analysis to prove what we're saying above)
-
-- Since revenue composite score is made up of revenue at time of release (Absolute revenue) and year of release we did further analysis via graphs to see which factor exactly contribues to this trend
+<ul>
+<li>Since revenue composite score is made up of revenue at time of release (Absolute revenue) and year of release we did further analysis via graphs to see which factor exactly contribues to this trend</li>
+      </ul>
 
 <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_years_graph.png" alt="Flow chart">      
 
-
-- From the data, (above) we can see that the years are clearly not a factor. The order is reversed and differences minimal
+<ul>
+<li>From the data, (above) we can see that the years are clearly not a factor. The order is reversed and differences minimal</li>
+      </ul>
 
 <br>
 
@@ -284,7 +295,7 @@ We then tried to find out which of the 4 components contributed to this trend by
 
 **A possible explanation could be that IMDb and TMDB are more popular sites than Rotten Tomatoes. Hence, movies with higher revenues (and hence more overall customers), visit sites like IMDb and TMDB more relative to RT! (obviously, this is just a hypothesis. Correlation =/= causation)**
 
----
+
 
 We next examined user composite score and see the same pattern of (RT -> TMDB -> IMDb) for user composite score
 
@@ -301,10 +312,11 @@ We next examined user composite score and see the same pattern of (RT -> TMDB ->
 <br>
 (table showing mean user score)
 <br>
-
-- However, data/graph seems to only partially confirm this as only some patterns are explained but not others in the graph
-- **Taken together, it seems that the composite user rating score only partially explains the lower average total score for RT, but doesn't explain to the same extent as revenue composite!**
-- This is because while the means follow the same pattern, the "peaks" and "troughs" of the data from user composite don't follow the same pattern as overall composite!
+<ul>
+<li>However, data/graph seems to only partially confirm this as only some patterns are explained but not others in the graph</li>
+<li>**Taken together, it seems that the composite user rating score only partially explains the lower average total score for RT, but doesn't explain to the same extent as revenue composite!**</li>
+<li>This is because while the means follow the same pattern, the "peaks" and "troughs" of the data from user composite don't follow the same pattern as overall composite!</li>
+      </ul>
 <br>
 
 <br>
@@ -316,10 +328,11 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 <br>
 
-
-- The data seems obvious that absolute ratings aren't the reason contributing to the composite user rating order between sources as the order there doesn't match the order previously (instead of RT being lowest and IMDb being highest, now RT is highest)
-- **Instead, it seems like the number of voters are the major reason!**
-- **It seems that it is _**number of voters**_ &  _**absolute revenue**_ that explains the trend we see in composite user rating and overall composite score**
+<ul>
+<li>The data seems obvious that absolute ratings aren't the reason contributing to the composite user rating order between sources as the order there doesn't match the order previously (instead of RT being lowest and IMDb being highest, now RT is highest)</li>
+<li>**Instead, it seems like the number of voters are the major reason!**</li>
+<li>**It seems that it is _**number of voters**_ &  _**absolute revenue**_ that explains the trend we see in composite user rating and overall composite score**</li>
+      </ul>
 
 <h2> **To summarise, while it seems that there is no preference (or conflicting evidence) as to whether there are preferences between genres within or between sources, our data seems to suggest movies with a higher absolute revenue are over-represented in IMDb and TMDB relative to Rotten Tomatoes! Hence, this supports the idea that IMDb and TMDB are more popular sites than Rotten Tomatoes! If IMDb and TMDB are more popular, those sites would get more voters for popular movies. Indeed, this is what we see!** </h2>
 
@@ -340,8 +353,9 @@ We next analysed the data to see which of the 2 components in user composite (us
               <h2 style="display: inline-block; vertical-align: middle;">Section III: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT</h2>
           </div>
       </summary>
-
-- We plot a graph of number of movies over their release date
+<ul>
+<li>We plot a graph of number of movies over their release date</li>
+      </ul>
 
 <br>
 
@@ -350,8 +364,9 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 <br>
 
-
-- The graph clearly shows that there is a significant over-representation of RT movies in pre-modern times and under-representation in modern times
+<ul>
+<li>The graph clearly shows that there is a significant over-representation of RT movies in pre-modern times and under-representation in modern times</li>
+      </ul>
 
 <h2> **Perhaps, this points to the fact that IMDb and TMDB are more popular in recent times compared to RT!** </h2>
 
@@ -364,19 +379,21 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 <details>
     <summary><h2 style="display: inline-block; vertical-align: middle;">🖋️ Conclusion</h2></summary>
-
-- In conclusion, we think there is no strong evidence that there is a preference for a genre within or across sources
-- Examining the graph of absolute user ratings over genres over 3 sources, we see that there is no significant pattern of preference for a single genre within sources(as variations are relatively small) & across sources (no pattern across sources)
-- We also plotted a graph showing representation of movies by genre from an essentially random sample (we collected data using a similar approach for all 3 - collecting data from top movies as indicated by the source itself)
-- While it seems like RT users might have a preference for that Documentary movies, as they are over-represented, the data from absolute user scores and later composite user and composite overall scores suggest otherwise
+<ul>
+<li>In conclusion, we think there is no strong evidence that there is a preference for a genre within or across sources</li>
+<li>Examining the graph of absolute user ratings over genres over 3 sources, we see that there is no significant pattern of preference for a single genre within sources(as variations are relatively small) & across sources (no pattern across sources)</li>
+<li>We also plotted a graph showing representation of movies by genre from an essentially random sample (we collected data using a similar approach for all 3 - collecting data from top movies as indicated by the source itself)</li>
+<li>While it seems like RT users might have a preference for that Documentary movies, as they are over-represented, the data from absolute user scores and later composite user and composite overall scores suggest otherwise</li>
+    </ul>
 
     <h2> This points to the fact that there is no preference for genres within or across sources. </h2>
 
-- However, our data shows support for the hypothesis that IMDb and TMDB are more popular compared to RT
-- This is because of three reasons
-    - IMDb and TMDB have, on average, a greater representation of higher grossing flims than RT even as their average release year across sources are similar (evidence 1)
-    - IMDb and TMDB have, on average, more voters than RT even as their average absolute user rating is about the same (evidence 2)
-    - IMDb and TMDB represent a significantly greater proportion of modern flims compared to RT (evidence 3)
+However, our data shows support for the hypothesis that IMDb and TMDB are more popular compared to RT. This is because of three reasons:
+   <ul> 
+    <li>IMDb and TMDB have, on average, a greater representation of higher grossing flims than RT even as their average release year across sources are similar (evidence 1)</li>
+    <li>IMDb and TMDB have, on average, more voters than RT even as their average absolute user rating is about the same (evidence 2)</li>
+    <li>IMDb and TMDB represent a significantly greater proportion of modern flims compared to RT (evidence 3)</li>
+    </ul>
 
 <h3> All this evidence suggests that IMDb and TMDB are more popular sites in modern times than RT. With a greater popularity, more viewers vote (evidence 2).  Moreover, as movies with higher revenues are ones that attract more customers, more popular sites will have more traffic to those movies, leading to them being over-represented as top movies in IMDb and TMDB (evidence 1). The relative popularity of IMDb and TMDB also seems to be validated especially in the modern era, as traffic for modern movies for RT is lower compared to IMDb and TMDB, leading to IMDb and TMDB representing a greater % of higher performing flims compared to RT (evidence 3). </h3>
 

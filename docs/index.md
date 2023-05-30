@@ -352,7 +352,7 @@ We next analysed the data to see which of the 2 components in user composite (us
 - We also plotted a graph showing representation of movies by genre from an essentially random sample (we collected data using a similar approach for all 3 - collecting data from top movies as indicated by the source itself)
 - While it seems like RT users might have a preference for that Documentary movies, as they are over-represented, the data from absolute user scores and later composite user and composite overall scores suggest otherwise
 
-#### This points to the fact that there is no preference for genres within or across sources
+    <h5> This points to the fact that there is no preference for genres within or across sources. </h5>
 
 - However, our data shows support for the hypothesis that IMDb and TMDB are more popular compared to RT
 - This is because of three reasons

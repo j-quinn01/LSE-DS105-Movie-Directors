@@ -162,13 +162,9 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
     <details>
       <summary>
-        <div style="margin-top: 10px;">
-          <div style="display: inline-block;">
-            <h2>
-              Section I: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?
-            </h2>
-          </div>
-        </div>
+        <h2>
+            Section I: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?
+        </h2>
       </summary>
 
 <ul>
@@ -223,13 +219,9 @@ Still in part I, we also plotted a graph of the number of top movies by genres s
     
     <details>
       <summary>
-        <div style="margin-top: 10px;">
-          <div style="display: inline-block;">
-            <h2>
-              Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release in order to derive conclusions about the sources
-            </h2>
-          </div>
-        </div>
+        <h2>
+            Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release in order to derive conclusions about the sources!
+        </h2>
       </summary>
 
 
@@ -359,13 +351,9 @@ We next analysed the data to see which of the 2 components in user composite (us
 
     <details>
       <summary>
-        <div style="margin-top: 10px;">
-          <div style="display: inline-block;">
-            <h2>
-              Section III: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT
-            </h2>
-          </div>
-        </div>
+        <h2>
+            Section III: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT!
+        </h2>
       </summary>
 
 <ul>

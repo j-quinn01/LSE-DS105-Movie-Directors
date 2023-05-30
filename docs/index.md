@@ -12,7 +12,6 @@
 - [Jackson Quinn]()
 - [Shuja Ali]()
 - [Jia-Jian Gan]()
-
 <details>
     <summary><h2>📝 Project Description</h2></summary>
 

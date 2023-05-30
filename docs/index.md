@@ -37,12 +37,59 @@
 
 Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 
-| Data Source | Challenges |
-| -------- | -------- |
-| Wikipedia   | Lack of data which forced us to cross-reference another site like Rotten Tomatoes   |
-| Rotten Tomatoes   |  Ensuring homogeneity with other sources as RT has a large international presense, so filtering for just US flims required extra steps  |
-| IMDb   | homogenizing data with the other sources (bracketing votes, putting rating out of 100)   |
-| TMDB   | Missing revenue values for several films   |
+  <table>
+    <thead>
+      <tr>
+        <th>Data Source</th>
+        <th>Challenges</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Wikipedia</td>
+        <td>Lack of data which forced us to cross-reference another site like Rotten Tomatoes</td>
+      </tr>
+      <tr>
+        <td>Rotten Tomatoes</td>
+        <td>Ensuring homogeneity with other sources as RT has a large international presence, so filtering for just US films required extra steps</td>
+      </tr>
+      <tr>
+        <td>IMDb</td>
+        <td>Homogenizing data with the other sources (bracketing votes, putting rating out of 100)</td>
+      </tr>
+      <tr>
+        <td>TMDB</td>
+        <td>Missing revenue values for several films</td>
+      </tr>
+    </tbody>
+  </table>
+
+<table>
+    <thead>
+      <tr>
+        <th>Data Source</th>
+        <th>Challenges</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Wikipedia</td>
+        <td>Lack of data which forced us to cross-reference another site like Rotten Tomatoes</td>
+      </tr>
+      <tr>
+        <td>Rotten Tomatoes</td>
+        <td>Ensuring homogeneity with other sources as RT has a large international presence, so filtering for just US films required extra steps</td>
+      </tr>
+      <tr>
+        <td>IMDb</td>
+        <td>Homogenizing data with the other sources (bracketing votes, putting rating out of 100)</td>
+      </tr>
+      <tr>
+        <td>TMDB</td>
+        <td>Missing revenue values for several films</td>
+      </tr>
+    </tbody>
+  </table>
     
 <details>
     <summary><h2>Wikipedia/ Rotten Tomatoes(RT)</h2></summary>

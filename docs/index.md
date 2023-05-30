@@ -107,7 +107,7 @@ Before we begin, we will show a sample of how we created our analysis by using g
 
 - One would think that as the number of votes increase, the revenue would as well because we expect a positive correlation between the number of votes and the number of people who have seen the movie. And so, the more people who have seen a movie, the higher that movie’s revenue. We kind of see this trend in the graph, although there is a huge spike in revenue for the 10,000 and 25,000 votes intervals. We were curious about this, so we looked for outliers. After sorting the concatenated df by revenue, we found this.
 
-![Alt text](_images/outlier_df.png)
+![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/outlier_df.png)
 
 - Both the 10,000 and 25,000 votes intervals have an Avengers movie with very high revenue relative to other movies, which is pushing the average revenues for these movies higher. 
 ---

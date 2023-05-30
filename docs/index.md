@@ -115,11 +115,11 @@ Before we begin, we will show a sample of how we created our analysis by using g
 <br>
 There seems to be movies from greater variety of directors in RT. The frequency of directors in Rotten Tomatoes does not exceed 3, whilst directors have appeared up to 7 times in TMDB and IMDB.
           
-![Alt text](_images/t10_directors_each_source.png)
+![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/t10_directors_each_source.png)
 
 TMDB's top 250 movies have by far the greatest average revenue, with Rotten Tomatoes with the least. This suggests TMDB users have a preference towards more popular films, whilst Rotten Tomatoes users do not.      
  
-![Alt_text](_images/avg_rev_sources.png)
+![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/avg_rev_sources.png)
           
 This suggests TMDB and IMDb users may be biased towards films with a specific director or a higher box office, however the analysis is preliminary and more analysis needs to be conducted in order to make a conclusion.
       
@@ -135,13 +135,13 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 - In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
 
 
-![Alt text](_images/section_I_absolute_user_ratings.png)
+![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/section_I_absolute_user_ratings.png)
 <br>
 (This bargraph depicts a graph of absolute user ratings over genres from different sources)
 
 <br>
 
-![Alt_text](_images/rating_boxplots.png)
+![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/rating_boxplots.png)
 
 (The boxplot is depicting the same thing as the bar graph, and both show higher average ratings for RT)
 
@@ -154,7 +154,7 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 - Still in part I, we also plotted a graph of the number of top movies by genres so we can see if a source gives "preferential" treatment to those from a different source
 - (For example, maybe IMDb really likes horror movies. If so, then we should see alot more horror movies!)
 
-![Alt-text](_images/section_I_representation_of_movies.png)
+![Alt-text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/section_I_representation_of_movies.png)
 
 
 #### As we saw from the adjusted graph, there seems to be a HUGE representation of Documentary type movies for just Rotten Tomatoes!

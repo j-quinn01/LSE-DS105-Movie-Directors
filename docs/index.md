@@ -16,8 +16,6 @@
 <details>
     <summary><h2>📝 Project Description</h2></summary>
     
-    TEST TEST TEST <br>
-    
     Everyone in our group loves watching movies, and we tend to look at reviews when deciding on watching a film to check the quality and see whether it's worth
     watching. Since there are numerous review sites, with each having their own differing opinion on many films, we would like to examine the differences in user
     preference between the sources. We would also like to examine the popularity of the sources and how it affects the preferences of their respective users. Uncovering
@@ -27,7 +25,7 @@
     
     A flow chart outlining our project plan:
     
-    ![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/flow_chart.png)
+    <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/flow_chart.png" alt="Flow chart">
     
     To make our analysis more advanced and critical, we designed a composite score for each movie. The composite score consisted of 4 factors: the user rating, the
     number of users voted, the revenue and the year. The purpose of this is to level off our data, and give a more layered analysis.

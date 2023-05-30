@@ -156,7 +156,7 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
 
 
-  <details>
+  <details style="margin-top: 10px;">
       <summary><h2 style="display: inline-block; vertical-align: middle;">Section I: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h2></summary>
 
 - In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
@@ -203,7 +203,7 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
 
     
-  <details>
+  <details style="margin-top: 10px;">
       <summary><h2 style="display: inline-block; vertical-align: middle;">Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release in order to derive conclusions about the sources</h2></summary>
 
 - First, we began by calculating the overall composite score
@@ -320,7 +320,7 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 
 
-  <details>
+  <details style="margin-top: 10px;">
     <summary><h2 style="display: inline-block; vertical-align: middle;">Section III: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT</h2></summary>
 
 - We plot a graph of number of movies over their release date

@@ -129,6 +129,7 @@ Before we begin, we will show a sample of how we created our analysis by using g
 
 - While doing some exploratory analysis, we produced the following graph. On the x-axis we have the different vote brackets, on the y-axis we have the average revenue of each interval.
 
+      
 <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/revenue_votes.png" alt="Flow chart">       
 
 

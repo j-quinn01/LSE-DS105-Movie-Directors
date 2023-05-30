@@ -25,7 +25,8 @@ A flow chart outlining our project plan:
 ![Alt text](_images/flow_chart.png)
 
 To make our analysis more advanced and critical, we designed a composite score for each movie. The composite score consisted of 4 factors: the user rating, the number of users voted, the revenue and the year. The purpose of this is to level off our data, and give a more layered analysis.
-</details>    
+</details>
+
 <details>
     <summary><h2>📊 Data</h2></summary>
 
@@ -37,6 +38,7 @@ Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 | Rotten Tomatoes   |  Ensuring homogeneity with other sources as RT has a large international presense, so filtering for just US flims required extra steps  |
 | IMDb   | homogenizing data with the other sources (bracketing votes, putting rating out of 100)   |
 | TMDB   | Missing revenue values for several films   |
+    
 <details>
     <summary><h2>Wikipedia/ Rotten Tomatoes(RT)</h2></summary>
 

@@ -28,7 +28,7 @@ To make our analysis more advanced and critical, we designed a composite score f
 </details>
 
 <details>
-    <summary><h2>📊 Data</h2></summary>
+    <summary>**📊 Data**</summary>
 
 Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 

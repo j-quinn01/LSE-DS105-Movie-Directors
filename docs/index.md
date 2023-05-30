@@ -16,19 +16,19 @@
 <details>
     <summary><h2 style="display: inline-block; vertical-align: middle;">📝 Project Description</h2></summary>
     
-    Everyone in our group loves watching movies, and we tend to look at reviews when deciding on watching a film to check the quality and see whether it's worth
-    watching. Since there are numerous review sites, with each having their own differing opinion on many films, we would like to examine the differences in user
-    preference between the sources. We would also like to examine the popularity of the sources and how it affects the preferences of their respective users. Uncovering
-    these preferences will better  allow us to interpret movie ratings on these websites.
+Everyone in our group loves watching movies, and we tend to look at reviews when deciding on watching a film to check the quality and see whether it's worth
+watching. Since there are numerous review sites, with each having their own differing opinion on many films, we would like to examine the differences in user
+preference between the sources. We would also like to examine the popularity of the sources and how it affects the preferences of their respective users. Uncovering
+these preferences will better  allow us to interpret movie ratings on these websites.
     
-    Our project includes the usage of data science techniques, to collect, store, clean, and plotting the data to conduct analysis. 
+Our project includes the usage of data science techniques, to collect, store, clean, and plotting the data to conduct analysis. 
     
-    A flow chart outlining our project plan:
+A flow chart outlining our project plan:
     
-    <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/flow_chart.png" alt="Flow chart">
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/flow_chart.png" alt="Flow chart">
     
-    To make our analysis more advanced and critical, we designed a composite score for each movie. The composite score consisted of 4 factors: the user rating, the
-    number of users voted, the revenue and the year. The purpose of this is to level off our data, and give a more layered analysis.
+To make our analysis more advanced and critical, we designed a composite score for each movie. The composite score consisted of 4 factors: the user rating, the
+number of users voted, the revenue and the year. The purpose of this is to level off our data, and give a more layered analysis.
     
 </details>
 
@@ -75,7 +75,7 @@ We also developed a composite score for each movie, which was calculated conside
 
 Data was then compiled in a dataframe with key features including the rating, director, revenue, users voted, the data source and the year. All features were adjusted to match the format and data types used by our teammates for IMDb and TMDB data, ensuring a seamless concatenation process.
 
-    <h5> Data Collection Challenges </h5>
+    <h5>Data Collection Challenges</h5>
 
 The most significant challenge we encountered with Rotten Tomatoes data was ensuring homogeneity and comparability with other sources. This is because RT has a large international presense, so it was especially tricky when dealing with different currencies in revenue and trying to remove non-US flims.
 

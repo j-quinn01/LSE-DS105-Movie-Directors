@@ -1,4 +1,4 @@
-# Notebooks directory
+# Coding notebooks directory
 
 <a href="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/notebooks/LSE_DS105L_merged_project.ipynb">"LSE_DS105L_merged_project.ipynb"</a> is the group's data analysis.
 

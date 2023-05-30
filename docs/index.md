@@ -54,7 +54,7 @@ Data was then compiled in a dataframe with key features including the rating, di
 
 The most significant challenge we encountered with Rotten Tomatoes data was ensuring homogeneity and comparability with other sources. This is because RT has a large international presense, so it was especially tricky when dealing with different currencies in revenue and trying to remove non-US flims.
 
-![Alt_text](_images/ss_of_merged_data.png)
+![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/ss_of_merged_data.png)
 
   </details>
 
@@ -67,7 +67,7 @@ Data was then compiled in a dataframe. The variables used included: (user) ratin
 
 Rating values were converted into a percentage and votes was converted from a flat number to brackets (since Rotten Tomatoes doesn't have a flat number for the number of users voted), to make the data consistent, so all 3 sites can be easily compared and the dataframes can be concatenated.
 
-![Alt text](_images/tmdb_df.png)
+![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/tmdb_df.png)
       
   </details>
 
@@ -76,7 +76,7 @@ Rating values were converted into a percentage and votes was converted from a fl
 
 We were able to find a list of the top 1000 movies on IMDb by rating. We then took the first 250 movies from this list to use in our project. IMDb was not willing to let us use their API, so the data was collected using webscraping. We collected the movie title, director, year of release, genre, revenue, rating, length, and number of user votes. We then made the rating out of 100 instead of 10 for the sake of comparability. Initially, we created one IMDb df that had only one genre per movie. Later we put all genres in a list and used df.explode() to separate them when necessary. We also bracketed the votes like we did for our TMDB data for ease of comparison. 
 
-![Alt text](_images/IMDb_df.png)
+![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/IMDb_df.png)
 
 
       
@@ -95,7 +95,7 @@ We were able to find a list of the top 1000 movies on IMDb by rating. We then to
 <br>
 Before we begin, we will show a sample of how we created our analysis by using ggplot(shown below).
     
-![Alt text](_images/ggplot_code.png)
+![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/ggplot_code.png)
 
  ---
       

@@ -138,8 +138,9 @@ Before we begin, we will show a sample of how we created our analysis by using g
 </ul>
       
 <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/outlier_df.png" alt="Flow chart">  
-
-- Both the 10,000 and 25,000 votes intervals have an Avengers movie with very high revenue relative to other movies, which is pushing the average revenues for these movies higher. 
+<ul>
+<li>Both the 10,000 and 25,000 votes intervals have an Avengers movie with very high revenue relative to other movies, which is pushing the average revenues for these movies higher.</li>
+      </ul>
 ---
 
 <br>
@@ -178,9 +179,10 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
  <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/rating_boxplots.png" alt="Flow chart"> 
 
 (The boxplot is depicting the same thing as the bar graph, and both show higher average ratings for RT)
-
-- We saw that RT users tend to vote more optimistically compared to IMDb and TMDB on average
-- However, we find no substantial differences/preferences for 1 genre relative to the other within genres by eyeballing the data and seeing how any differences are not consistent across sources, and were minimal fluctuations at best (relative to total ratings)
+<ul>
+    <li>We saw that RT users tend to vote more optimistically compared to IMDb and TMDB on average</li>
+<li> However, we find no substantial differences/preferences for 1 genre relative to the other within genres by eyeballing the data and seeing how any differences are not consistent across sources, and were minimal fluctuations at best (relative to total ratings)</li>
+      </ul>
 
 <br>
 

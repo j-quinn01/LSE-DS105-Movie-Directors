@@ -307,7 +307,8 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 <br>
 
-![Alt_Text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/s2_p3.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/s2_p3.png" alt="Flow chart">      
+
 
 <br>
 

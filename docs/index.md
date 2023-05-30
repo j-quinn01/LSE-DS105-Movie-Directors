@@ -195,7 +195,7 @@ The composite score = function(User composite score, revenue composite score)
 <br>
 We then plot a graph of average overall_composite_movie_score over genre with 3 bar graphs for each data source
 
-![Alt text](_images/section_II_absolute_composite_score.png)
+![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/section_II_absolute_composite_score.png)
 
 - We again find no clear pattern of composite scores within genres
 - Even the Documentary genre for RT isn't higher than the rest despite over-representation shown earlier
@@ -203,7 +203,7 @@ We then plot a graph of average overall_composite_movie_score over genre with 3 
 - **This gives evidence to refute our initial findings in section 1, that there might be a slight preference for Documentary genres within Rotten Tomatoes sources!**
 - However, we find crucial data (indicated in the graph or a more condensed one below) that RT has the lowest average overall score across all genres (data above graph) followed by TMDB and IMDB.
 
-![Alt text](_images/section_II_average_composite_score_mean.png)
+![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/section_II_average_composite_score_mean.png)
 
 <br>
 
@@ -211,7 +211,7 @@ We then plot a graph of average overall_composite_movie_score over genre with 3 
 We then tried to find out which of the 4 components contributed to this trend by sketching appropriate graphs
 - By plotting a graph of average revenue_score over genre with 3 bar graphs for each data source amoung other things, we can see, RT is the lowest, followed by TMDB and IMDB. This matches the earlier pattern, so revenue explains it!
 
-![Alt_text](_images/section_II_composite_revenue_graph.png)
+![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/section_II_composite_revenue_graph.png)
 
 <br>
 
@@ -220,14 +220,14 @@ We then tried to find out which of the 4 components contributed to this trend by
 
 
 
-![Alt text](_images/section_II_composite_revenue_graph_mean.png)
+![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/section_II_composite_revenue_graph_mean.png)
 
 <br>
 (This mean table gives a simpler version of analysis to prove what we're saying above)
 
 - Since revenue composite score is made up of revenue at time of release (Absolute revenue) and year of release we did further analysis via graphs to see which factor exactly contribues to this trend
         
-![Alt_text](_images/section_II_years_graph.png)
+![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/section_II_years_graph.png)
 
 - From the data, (above) we can see that the years are clearly not a factor. The order is reversed and differences minimal
 
@@ -243,14 +243,14 @@ We then tried to find out which of the 4 components contributed to this trend by
 
 We next examined user composite score and see the same pattern of (RT -> TMDB -> IMDb) for user composite score
 
-![Alt_text](_images/s2_comp_user_graph.png)
+![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/s2_comp_user_graph.png)
 
 (graph showing composite user score)
 <br>
 <br>
 <br>
 
-![Alt_text](_images/s2_comp_user.png)
+![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/s2_comp_user.png)
 <br>
 (table showing mean user score)
 <br>
@@ -265,7 +265,7 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 <br>
 
-![Alt_text](_images/s2_absolute_user_mean.png)
+![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/s2_absolute_user_mean.png)
 
 <br>
 
@@ -294,7 +294,7 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 <br>
 
-![Alt_Text](_images/s2_p3.png)
+![Alt_Text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/s2_p3.png)
 
 <br>
 

@@ -75,7 +75,7 @@ We also developed a composite score for each movie, which was calculated conside
 
 Data was then compiled in a dataframe with key features including the rating, director, revenue, users voted, the data source and the year. All features were adjusted to match the format and data types used by our teammates for IMDb and TMDB data, ensuring a seamless concatenation process.
 
-    <h5>Data Collection Challenges</h5>
+<h5>Data Collection Challenges</h5>
 
 The most significant challenge we encountered with Rotten Tomatoes data was ensuring homogeneity and comparability with other sources. This is because RT has a large international presense, so it was especially tricky when dealing with different currencies in revenue and trying to remove non-US flims.
 

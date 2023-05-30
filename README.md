@@ -21,6 +21,7 @@
 
 # Shuja's work
 
+-Individual code: tmdb.ipynb
 -added TMDB data collection and analysis to the data section <br>
 -drafted the introduction/explanation of interest in the subject <br>
 -worked on structure of the website

@@ -14,7 +14,7 @@
 - [Jia-Jian Gan]()
 
 <details>
-    <summary><h2>📝 Project Description</h2></summary>
+    <summary><h2 style="display: inline-block; vertical-align: middle;">📝 Project Description</h2></summary>
     
     Everyone in our group loves watching movies, and we tend to look at reviews when deciding on watching a film to check the quality and see whether it's worth
     watching. Since there are numerous review sites, with each having their own differing opinion on many films, we would like to examine the differences in user
@@ -33,7 +33,7 @@
 </details>
 
 <details>
-    <summary><h2>📊 Data</h2></summary>
+    <summary><h2 style="display: inline-block; vertical-align: middle;">📊 Data</h2></summary>
 
 Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 
@@ -65,7 +65,7 @@ Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
   </table>
     
 <details>
-    <summary><h2>Wikipedia/ Rotten Tomatoes(RT)</h2></summary>
+    <summary><h2 style="display: inline-block; vertical-align: middle;">Wikipedia/ Rotten Tomatoes(RT)</h2></summary>
 
 For Rotten Tomatoes, our approach was to leverage data from a Wikipedia article featuring films with 100% ratings. We initially gathered a larger pool of 424 films and later refined it to our target 250, keeping in mind that these ratings did not equate to 100% user ratings.
 
@@ -85,7 +85,7 @@ The most significant challenge we encountered with Rotten Tomatoes data was ensu
   </details>
 
   <details>
-    <summary><h2>TMDB</h2></summary>
+    <summary><h2 style="display: inline-block; vertical-align: middle;">TMDB</h2></summary>
 
 For TMDB, first the API was used to get the top 250 movies and their IDs. The ID was used to get all the key information of an individual film (e.g., revenue, director) in a json requests format. As numerous films in TMDB had missing revenue values, IMDb was used to fill in the missing values where possible (TMDB API also gave the IMDb ID of each film). Most films had multiple genres and some with multiple directors, so the genres and directors for those films were stored in a list. When we wanted to separate the data by genre or director, we used the pandas df.explode() function to do so.
 
@@ -99,7 +99,7 @@ Rating values were converted into a percentage and votes was converted from a fl
   </details>
 
   <details>
-    <summary><h2>IMDb</h2></summary> 
+    <summary><h2 style="display: inline-block; vertical-align: middle;">IMDb</h2></summary> 
 
 We were able to find a list of the top 1000 movies on IMDb by rating. We then took the first 250 movies from this list to use in our project. IMDb was not willing to let us use their API, so the data was collected using webscraping. We collected the movie title, director, year of release, genre, revenue, rating, length, and number of user votes. We then made the rating out of 100 instead of 10 for the sake of comparability. Initially, we created one IMDb df that had only one genre per movie. Later we put all genres in a list and used df.explode() to separate them when necessary. We also bracketed the votes like we did for our TMDB data for ease of comparison. 
 
@@ -112,10 +112,10 @@ We were able to find a list of the top 1000 movies on IMDb by rating. We then to
 </details>
 
 <details>
-    <summary><h2>📈 Analysis & 🖼️ Results</h2></summary>
+    <summary><h2 style="display: inline-block; vertical-align: middle;">📈 Analysis & 🖼️ Results</h2></summary>
     
   <details>
-      <summary><h2>Section 0: Preliminary analysis (unrelated to later sections)</h2></summary>
+      <summary><h2 style="display: inline-block; vertical-align: middle;">Section 0: Preliminary analysis (unrelated to later sections)</h2></summary>
     
 (Our analysis and results section are merged as we felt showing and analyzing each step of our data analysis process for clarity)
 <br>
@@ -157,7 +157,7 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
 
   <details>
-      <summary><h2>Section I: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h2></summary>
+      <summary><h2 style="display: inline-block; vertical-align: middle;">Section I: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h2></summary>
 
 - In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
 
@@ -204,7 +204,7 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
     
   <details>
-      <summary><h2>Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release in order to derive conclusions about the sources</h2></summary>
+      <summary><h2 style="display: inline-block; vertical-align: middle;">Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release in order to derive conclusions about the sources</h2></summary>
 
 - First, we began by calculating the overall composite score
 <br>
@@ -321,7 +321,7 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 
   <details>
-    <summary><h2>Section III: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT</h2></summary>
+    <summary><h2 style="display: inline-block; vertical-align: middle;">Section III: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT</h2></summary>
 
 - We plot a graph of number of movies over their release date
 
@@ -345,7 +345,7 @@ We next analysed the data to see which of the 2 components in user composite (us
 </details>
 
 <details>
-    <summary><h2>🖋️ Conclusion</h2></summary>
+    <summary><h2 style="display: inline-block; vertical-align: middle;">🖋️ Conclusion</h2></summary>
 
 - In conclusion, we think there is no strong evidence that there is a preference for a genre within or across sources
 - Examining the graph of absolute user ratings over genres over 3 sources, we see that there is no significant pattern of preference for a single genre within sources(as variations are relatively small) & across sources (no pattern across sources)
@@ -368,7 +368,7 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 
 <details>
-    <summary><h2>📚 References</h2></summary>
+    <summary><h2 style="display: inline-block; vertical-align: middle;">📚 References</h2></summary>
 
 Wikipedia: "List of films with a 100% rating on Rotten Tomatoes" 
 <br>

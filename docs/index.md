@@ -37,9 +37,7 @@ Collecting data of the top 250 movies from: IMDb, Rotten Tomatoes and TMDB
 | Rotten Tomatoes   |  Ensuring homogeneity with other sources as RT has a large international presense, so filtering for just US flims required extra steps  |
 | IMDb   | homogenizing data with the other sources (bracketing votes, putting rating out of 100)   |
 | TMDB   | Missing revenue values for several films   |
-
-
-  <details>
+<details>
     <summary><h2>Wikipedia/ Rotten Tomatoes(RT)</h2></summary>
 
 For Rotten Tomatoes, our approach was to leverage data from a Wikipedia article featuring films with 100% ratings. We initially gathered a larger pool of 424 films and later refined it to our target 250, keeping in mind that these ratings did not equate to 100% user ratings.

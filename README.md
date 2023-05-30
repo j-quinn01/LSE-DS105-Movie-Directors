@@ -1,10 +1,11 @@
 # JJ's work:
 <br>
+
 - Individual code:LSE_DS105L_Grp_project_ver_2_rotten_tomatoes.ipynb <br>
 - Group's data analysis: LSE_DS105L_merged_project.ipynb <br>
 - Added composite score analysis to analysis section <br>
--Included rotten tomatoes data collection and cleaning in data section <br>
--Produced conclusion part of the webpage
+- Included rotten tomatoes data collection and cleaning in data section <br>
+- Produced conclusion part of the webpage
 
 # Jackson's Work
 

@@ -109,11 +109,12 @@ Before we begin, we will show a sample of how we created our analysis by using g
 
 - While doing some exploratory analysis, we produced the following graph. On the x-axis we have the different vote brackets, on the y-axis we have the average revenue of each interval.
 
-![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/revenue_votes.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/revenue_votes.png" alt="Flow chart">       
+
 
 - One would think that as the number of votes increase, the revenue would as well because we expect a positive correlation between the number of votes and the number of people who have seen the movie. And so, the more people who have seen a movie, the higher that movie’s revenue. We kind of see this trend in the graph, although there is a huge spike in revenue for the 10,000 and 25,000 votes intervals. We were curious about this, so we looked for outliers. After sorting the concatenated df by revenue, we found this.
 
-![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/outlier_df.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/outlier_df.png" alt="Flow chart">  
 
 - Both the 10,000 and 25,000 votes intervals have an Avengers movie with very high revenue relative to other movies, which is pushing the average revenues for these movies higher. 
 ---
@@ -121,11 +122,11 @@ Before we begin, we will show a sample of how we created our analysis by using g
 <br>
 There seems to be movies from greater variety of directors in RT. The frequency of directors in Rotten Tomatoes does not exceed 3, whilst directors have appeared up to 7 times in TMDB and IMDB.
           
-![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/blob/main/docs/_images/t10_directors_each_source.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/t10_directors_each_source.png" alt="Flow chart">       
 
 TMDB's top 250 movies have by far the greatest average revenue, with Rotten Tomatoes with the least. This suggests TMDB users have a preference towards more popular films, whilst Rotten Tomatoes users do not.      
  
-![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/avg_rev_sources.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/avg_rev_sources.png" alt="Flow chart">      
           
 This suggests TMDB and IMDb users may be biased towards films with a specific director or a higher box office, however the analysis is preliminary and more analysis needs to be conducted in order to make a conclusion.
       
@@ -140,14 +141,13 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 
 - In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
 
-
-![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_I_absolute_user_ratings.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_I_absolute_user_ratings.png" alt="Flow chart"> 
 <br>
 (This bargraph depicts a graph of absolute user ratings over genres from different sources)
 
 <br>
 
-![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/rating_boxplots.png)
+ <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/rating_boxplots.png" alt="Flow chart"> 
 
 (The boxplot is depicting the same thing as the bar graph, and both show higher average ratings for RT)
 
@@ -160,7 +160,9 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
 - Still in part I, we also plotted a graph of the number of top movies by genres so we can see if a source gives "preferential" treatment to those from a different source
 - (For example, maybe IMDb really likes horror movies. If so, then we should see alot more horror movies!)
 
-![Alt-text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_I_representation_of_movies.png)
+
+ <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_I_representation_of_movies.png" alt="Flow chart">       
+
 
 
 #### As we saw from the adjusted graph, there seems to be a HUGE representation of Documentary type movies for just Rotten Tomatoes!
@@ -201,7 +203,7 @@ The composite score = function(User composite score, revenue composite score)
 <br>
 We then plot a graph of average overall_composite_movie_score over genre with 3 bar graphs for each data source
 
-![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_absolute_composite_score.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_absolute_composite_score.png" alt="Flow chart">       
 
 - We again find no clear pattern of composite scores within genres
 - Even the Documentary genre for RT isn't higher than the rest despite over-representation shown earlier
@@ -209,7 +211,8 @@ We then plot a graph of average overall_composite_movie_score over genre with 3 
 - **This gives evidence to refute our initial findings in section 1, that there might be a slight preference for Documentary genres within Rotten Tomatoes sources!**
 - However, we find crucial data (indicated in the graph or a more condensed one below) that RT has the lowest average overall score across all genres (data above graph) followed by TMDB and IMDB.
 
-![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_average_composite_score_mean.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_average_composite_score_mean.png" alt="Flow chart">   
+
 
 <br>
 
@@ -217,7 +220,8 @@ We then plot a graph of average overall_composite_movie_score over genre with 3 
 We then tried to find out which of the 4 components contributed to this trend by sketching appropriate graphs
 - By plotting a graph of average revenue_score over genre with 3 bar graphs for each data source amoung other things, we can see, RT is the lowest, followed by TMDB and IMDB. This matches the earlier pattern, so revenue explains it!
 
-![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_composite_revenue_graph.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_composite_revenue_graph.png" alt="Flow chart">
+
 
 <br>
 
@@ -226,14 +230,15 @@ We then tried to find out which of the 4 components contributed to this trend by
 
 
 
-![Alt text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_composite_revenue_graph_mean.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_composite_revenue_graph_mean.png" alt="Flow chart">      
 
 <br>
 (This mean table gives a simpler version of analysis to prove what we're saying above)
 
 - Since revenue composite score is made up of revenue at time of release (Absolute revenue) and year of release we did further analysis via graphs to see which factor exactly contribues to this trend
-        
-![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_years_graph.png)
+
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_II_years_graph.png" alt="Flow chart">      
+
 
 - From the data, (above) we can see that the years are clearly not a factor. The order is reversed and differences minimal
 
@@ -249,14 +254,16 @@ We then tried to find out which of the 4 components contributed to this trend by
 
 We next examined user composite score and see the same pattern of (RT -> TMDB -> IMDb) for user composite score
 
-![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/s2_comp_user_graph.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/s2_comp_user_graph.png" alt="Flow chart">      
+
 
 (graph showing composite user score)
 <br>
 <br>
 <br>
 
-![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/s2_comp_user.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/s2_comp_user.png" alt="Flow chart">      
+
 <br>
 (table showing mean user score)
 <br>
@@ -271,7 +278,7 @@ We next analysed the data to see which of the 2 components in user composite (us
 
 <br>
 
-![Alt_text](https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/s2_absolute_user_mean.png)
+<img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/s2_absolute_user_mean.png" alt="Flow chart">      
 
 <br>
 

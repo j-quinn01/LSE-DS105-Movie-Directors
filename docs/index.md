@@ -165,8 +165,9 @@ This suggests TMDB and IMDb users may be biased towards films with a specific di
               <h2 style="display: inline-block; vertical-align: middle;">Section I: Is there a preference of certain genres according to sources, as examined by absolute user ratings and absolute representation?</h2>
           </div>
       </summary>
-
-- In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources
+<ul>
+<li>In Part I, we tried to see if we can infer anything from the graphs of average absolute user rating by genre across 3 sources</li>
+      </ul>
 
 <img src="https://github.com/j-quinn01/LSE-DS105-Movie-Directors/raw/main/docs/_images/section_I_absolute_user_ratings.png" alt="Flow chart"> 
 <br>

@@ -332,7 +332,7 @@ We next analysed the data to see which of the 2 components in user composite (us
   <details style="margin-top: 10px;">
       <summary>
           <div style="margin-top: 10px;">
-              <h2 style="display: inline-block; vertical-align: middle;">Section II: Examining difference in composite scores, to see if there are any discrepances or patterns in absolute user score, number of voters, absolute revenue and date of release in order to derive conclusions about the sources</h2>
+              <h2 style="display: inline-block; vertical-align: middle;">Section III: Appendix/ Section 3: Even more evidence to support popularity of IMDb and TMDB compared to RT</h2>
           </div>
       </summary>
 

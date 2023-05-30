@@ -6,7 +6,7 @@
 - Included rotten tomatoes data collection and cleaning in data section <br>
 - Produced conclusion part of the webpage
 
-# Jackson's Work
+# Jackson's work
 
 - Individual code: md_regressions.ipynb, template-notebook.ipynb <br>
 - Edited JJ's part of analysis section and added bit about revenue and votes <br>
